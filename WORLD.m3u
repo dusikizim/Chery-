@@ -477,24 +477,18 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2290/index.m3u8
 http://e5d965d6.edmonst.net/iptv/BGMVL9WVMVRS45/2300/index.m3u8
 
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz A
-http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/2145/index.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz B
-http://eypv0ag4.siauliairsavlt.pw/iptv/LNE7CK973BXBGD/2145/index.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz C
-http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2145/index.m3u8
-#EXTINF:-1 tvg-id="88015" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 tvg-id="88015" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye "TRT SPOR B
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR B
 https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
-#EXTINF:-1 tvg-id="88015" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye "TRT SPOR C
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR C
 https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
 
-#EXTINF:-1 tvg-id="88016" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye "TRT YILDIZ A
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
-#EXTINF:-1 tvg-id="88016" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye " TRT YILDIZ B
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
-#EXTINF:-1 tvg-id="88016" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye " TRT YILDIZ C
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="88016" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye "BEIN HAER A
 http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-128800.m3u8
