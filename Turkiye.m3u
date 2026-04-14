@@ -12,9 +12,9 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo  
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo Wild 
-http://dujpral.ddns.me:82/live/ISMETTVMLI/qzebJcWeed/115715.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Spormax Wild 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo Wild WML
+http://dujpral.ddns.me:82/live/ISMETTVMLI/qzebJcWeed/115715.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Spormax Wild SRN
 https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2phuui0.png" group-title="TR | SPOR 1",SmartSpor 
 https://yayinlarfidanafidanlaragaca.xyz/hls/10.m3u8
@@ -26,9 +26,12 @@ https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORT Max1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORT 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORT Max2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Sporr" group-title="TR | SPOR 2",Tivibu 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORT 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" group-title="TR | SPOR 3",Tivibu 1 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" group-title="TR | SPOR 3",Tivibu 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets2.m3u8
@@ -36,16 +39,17 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838550.png" group-title="TR | SPOR 3",Tivibu 4
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Sporr" group-title="TR | SPOR 2",SSporrt 1
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport  
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Sporr" group-title="TR | SPOR 2",SSporrt 2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport   2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2phuui0.png" group-title="TR | SPOR 1",SmartSpor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2phuui0.png" group-title="TR | SPOR 1",SmartSpor 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Sporr" group-title="TR | SPOR 2",Nba
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivenba.m3u8
+
+
 #EXTINF:-1 tvg-id="0bc43404-ef57-4136-8c19-09388e202330" tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" group-title="TR | SPOR 3",Bein 1 
 #EXTVLCOPT:http-referrer= https://www.selcuksportshd803fa55928.xyz/
 https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukobs1/playlist.m3u8
@@ -80,6 +84,7 @@ https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcukssport2/playlist.m3u8
 https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcuksmartspor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2phuui0.png" group-title="TR | SPOR 1",SmartSpor
 https://df16ea90s1u1080.ce51f4844d11db76.live/live/selcuksmartspor2/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" group-title="TR | SPOR 3",Tivibu 1 
 #EXTVLCOPT:http-referrer= https://www.selcuksportshd803fa55928.xyz/
@@ -149,7 +154,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 
 #EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Justin Spor" group-title="TR | SPOR JUSTIN",İdman Tv
 https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Justin Spor" group-title="TR | SPOR JUSTIN",Tivibu 1
+
+#EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" group-title="TR | SPOR 3",Tivibu 1 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" group-title="TR | SPOR 3",Tivibu 2
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
