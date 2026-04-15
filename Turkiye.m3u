@@ -183,18 +183,31 @@ https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/and
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.postimg.cc/KzqTTXBs/In-Shot-20251108-110358718.png" tvg-name="TR:Euro Sport 2 HD" group-title="Spor",Euro Sport 2
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivees2.m3u8
 
-#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.postimg.cc/KzqTTXBs/In-Shot-20251108-110358718.png" tvg-name="TR:Tabii HD" group-title="Spor",Tabii HD
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii HD
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii
+http://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii 1 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii 1
+http://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master_1440p.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 2 HD" group-title="Spor",Tabii 2 
 https://biraz.6781237.xyz/checklist/androstreamlivetb2.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii 2
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 3 HD" group-title="Spor",Tabii 3 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivetb3.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii 3
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 4 HD" group-title="Spor",Tabii 4 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivetb4.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii 4
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 5 HD" group-title="Spor",Tabii 5 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivetb5.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 1 HD" group-title="Spor",Tabii 5
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 6 HD" group-title="Spor",Tabii 6 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Tabii 7 HD" group-title="Spor",Tabii 7 
