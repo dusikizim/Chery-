@@ -8,16 +8,19 @@ https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
 
-🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫#EXTINF:-1 tvg-logo="https://i.ibb.co/sJDgvdRw/68lU2b7.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",National Geographic
-https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo  
+https://saran-live.ercdn.net/natgeo/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo Wild WML
 http://dujpral.ddns.me:82/live/ISMETTVMLI/qzebJcWeed/115715.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Spormax Wild SRN
 https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2phuui0.png" group-title="TR | SPOR 1",SmartSpor 
-https://yayinlarfidanafidanlaragaca.xyz/hls/10.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport  
 https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport 2 
