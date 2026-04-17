@@ -1,8 +1,10 @@
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , 2.Kanal D Siyah Beyaz Aşk
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , FX TV
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , Kanal D Siyah Beyaz Aşk
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d5f9febc8301fbca42d43.jpg" tvg-id="Dummy" , 2.Kanal D Tatlı İntikam
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d5f9febc8301fbca42d43.jpg" tvg-id="Dummy" , Kanal D Tatlı İntikam
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d6555ebc8301fbca42d47.jpg" tvg-id="Dummy" , 2.Kanal D Zalim İstanbul
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d6555ebc8301fbca42d47.jpg" tvg-id="Dummy" , Kanal D Zalim İstanbul
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3MzkyY2ItMDBiZS00OGVhLWJhZWMtOTgxNWE4YTEyZWQxXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , A.B.İ
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
