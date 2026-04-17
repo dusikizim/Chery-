@@ -8,42 +8,10 @@ https://yayin30.haber100.com/live/agrotv2/chunklist_w758555833.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" group-title="Azerbaycan",Real TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" group-title="Azerbaycan",Sehiyye TV
-http://149.255.152.199/shtv.m3u8?user=37076&token=8aaa684d7aa639a8ffb0f74037801f5b&e=1738398202&bands=2096&sid=coder_78
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ac50480b-1647-42be-9340-20d8861c7218.png" group-title="Azerbaycan",Ses TV
-http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png" group-title="Azerbaycan",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png" group-title="Azerbaycan",Start TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="Azerbaycan",TMB Azerbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg" group-title="Azerbaycan",VIP HD
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" group-title="Azerbaycan",Vilayet TV
-https://nl.livekadeh.com/hls2/vilayet_high.m3u8
-#EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan 
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/595.jpg" tvg-id="https://cdn.technettv.com/channel/33090/logo_256.jpg" , Music Azerbaijan Hits
-https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan Plus
-https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+
 
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://www.tff.org/Resources/TFF/Auto/1cb4cefc93194e6db85c4552a3d7ce1f.jpg" tvg-id="Dummy" , (Galatasaray Fenerbahçe Süper kupa finali
-https://doiszsroym.erbvr.com/vms/1/68/27/16827777-acaa-4888-a612-57f4eb286f4b/16827777-acaa-4888-a612-57f4eb286f4b.smil/hlssubplaylist-ovbnohwd_oacnA67.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" tvg-id="Dummy" , - 🫣🤔😄🙈🙉🙊
-https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/Fenerbah%C3%A7e%20-%20Galatasaray%20_%20%C5%9Einanay%20yavrum%20%C5%9Fina%C5%9Finanay.Ciguli%20binnaz.mp4
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" tvg-id="Dummy" , -Athena Kanım Sarı Lacivert-
-https://raw.githubusercontent.com/KILBERBER/kilberber/main/z.Athena_Kan%C4%B1m_Sar%C4%B1_Lacivert.mp4
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" tvg-id="Dummy" , -Canbay Wolker-Cubuklu-
-https://raw.githubusercontent.com/KILBERBER/kilberber/main/z.Canbay%20_%20Wolker%20-%20Cubuklu.mp4
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" tvg-id="Dummy" , -Kıraç 100.Yıl Şarkısı-
-https://raw.githubusercontent.com/KILBERBER/kilberber/main/z.K%C4%B1ra%C3%A7%20_100.Y%C4%B1l%20_%C5%9Eark%C4%B1s%C4%B1.mp4
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" tvg-id="Dummy" , -Yaşa Fenerbahçe-
-https://raw.githubusercontent.com/KILBERBER/kilberber/main/z.yasafenerbahce.mp4
+
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.zr.png" tvg-id="http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8" , .Ziraat Türkiye Kupasi TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR türknet
@@ -60,6 +28,7 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.bnsphbr.png" tvg-id="Dummy" , Bein Sports Haber uydu2
 http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-128800.m3u8
+
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png" tvg-id="https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8" , Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" tvg-id="https://canlitvulusal.tr/wp-content/uploads/2024/01/fener-tv-logo.png https://canlitvulusal.xyz/live/fbtv/index.m3u8" , FB TV
