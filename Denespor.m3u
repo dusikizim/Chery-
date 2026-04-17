@@ -1,5 +1,65 @@
-#EXTM3U
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="Azerbaycan",Agro TV Azerbaycan
+https://yayin30.haber100.com/live/agrotv2/chunklist_w758555833.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="Azerbaycan",Apa TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azerbaycan",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="Azerbaycan",ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azerbaycan",ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="Azerbaycan",AZ TV
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png" group-title="Azerbaycan",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="Azerbaycan",Az Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="Azerbaycan",Baku TV
+https://rtmp.baku.tv/streams/bakutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="Azerbaycan",CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png" group-title="Azerbaycan",DÃ¼nya TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Azerbaycan",Farrukh TV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="Azerbaycan",Ictimai TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f452378d-d17e-47fd-8eac-565aaeb8bf24.png" group-title="Azerbaycan",Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" group-title="Azerbaycan",MCJ TV Shop
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/mcj-tv-shop.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="Azerbaycan",Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" group-title="Azerbaycan",Muz TV Azerbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/234442fa-6236-445f-ad39-81d3a8a9d34f.png" group-title="Azerbaycan",Naxcivan TV
+https://str1.yodacdn.net/ntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" group-title="Azerbaycan",Real TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" group-title="Azerbaycan",Sehiyye TV
+http://149.255.152.199/shtv.m3u8?user=37076&token=8aaa684d7aa639a8ffb0f74037801f5b&e=1738398202&bands=2096&sid=coder_78
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ac50480b-1647-42be-9340-20d8861c7218.png" group-title="Azerbaycan",Ses TV
+http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png" group-title="Azerbaycan",Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png" group-title="Azerbaycan",Start TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="Azerbaycan",TMB Azerbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg" group-title="Azerbaycan",VIP HD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" group-title="Azerbaycan",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan 
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/595.jpg" tvg-id="https://cdn.technettv.com/channel/33090/logo_256.jpg" , Music Azerbaijan Hits
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan Plus
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://www.tff.org/Resources/TFF/Auto/1cb4cefc93194e6db85c4552a3d7ce1f.jpg" tvg-id="Dummy" , (Galatasaray Fenerbahçe Süper kupa finali
 https://doiszsroym.erbvr.com/vms/1/68/27/16827777-acaa-4888-a612-57f4eb286f4b/16827777-acaa-4888-a612-57f4eb286f4b.smil/hlssubplaylist-ovbnohwd_oacnA67.m3u8
