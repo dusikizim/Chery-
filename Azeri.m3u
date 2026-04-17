@@ -60,6 +60,41 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan Plus
 https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/9/9d/Alvin_Channel_-_logo.png" tvg-id="Dummy" , AZ.Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr:80/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/9/9d/Alvin_Channel_-_logo.png" tvg-id="Dummy" , Az.AlvinChannel
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.AzStar Tv
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" tvg-id="Dummy" , Az.BAKU TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" tvg-id="Dummy" , AZ.CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.GƏNCƏ TV
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.Könül Tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.Live Tv
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.MEDİA FM TV
+https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.MUSİC AZERBAYCAN
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="http://193.70.86.92/chlogo/logo/tv/rr/retro_tv_cz.png" tvg-id="Dummy" , Az.Retro Tv
+https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" tvg-id="⚜️AzStar TV" , Az.Star TV
+http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" tvg-id="Dummy" , Az.Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" tvg-id="Dummy" , AZ.Star TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.YURD FM TV
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
+#EXTINF:-1 group-title="01.KIL-DİĞER ÜLKELER" tvg-logo="tv logo" tvg-id="Dummy" , Az.Zahra Tv
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+
+
+
 
 
 
