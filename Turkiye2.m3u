@@ -718,6 +718,41 @@ https://yayin.santraltr.com/hls/zeynotv.m3u8
 
 
 
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="tv logo" tvg-id="Dummy" , Baby Shark
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7604
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" tvg-id="Dummy" , Baby TV (saran)
+https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" tvg-id="Dummy" , Cartoonito
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6850/index.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" tvg-id="DisneyJr.tr" , Disney Jr (saran)
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" tvg-id="Dummy" , Kids TV - Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" tvg-id="Dummy" , Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" tvg-id="MinikaCocuk.tr" , Minika çocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="tv logo" tvg-id="Dummy" , Myway cizgi
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11013
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png" tvg-id="35" , Nickelodeon Hd
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/500px-Nicktoons_2023_Outlined_Logo.png" tvg-id="Dummy" , Nicktoons
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6848/index.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://cms-ti-public-image.tabii.com/int/51550_0-0-1500-1500.png" tvg-id="516992" , tabii Çocuk
+https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiicocuk/trt-tabiicocuk-hls-drm/trt-tabiicocuk.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="tv logo" tvg-id="Dummy" , Toom Jeryy
+http://208.79.153.42/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" tvg-id="https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8" , TRT Diyanet çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" tvg-id="https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8" , TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="noimage.png" tvg-id="Dummy" , TRT genç
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" , TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="06.E SPOR GAMES" tvg-logo="https://a.jsrdn.com/hls/23195/box-gamers/logo_20250102_230327_70.png" tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/5VMNKQY/714701DC3D1C/m.m3u8" , Box Gamers
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8
+
 
 
 
