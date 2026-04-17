@@ -64,8 +64,6 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8 HD.tr" , 03.TV8 uydu4
 http://162.212.179.33:80/gin-36bay4/gt-tv8tv-3/tracks-v1a1/rewind-128800.m3u8
 
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8 HD.tr" , 03.TV8 uydu6
-http://95.174.71.114:80/TR-TV8/index.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8 HD.tr" , 03.TV8 uydu7
 http://162.212.179.33:80/gin-trn09/gin-tv8-tv/tracks-v1a1/rewind-128880.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" tvg-id="TV8 HD.tr" , 03.tv8 uydu8
@@ -94,8 +92,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" tvg-id="TV8,5 HD.tr" , 03.tv8.5 uydu
 http://65.108.239.207/tv85/index.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" tvg-id="TV8,5 HD.tr" , 03.TV8.5 vizi
-http://vizi.vizi.workers.dev/?ID=28
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" tvg-id="TV8,5 HD.tr" , 03.tv8.5 web
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" tvg-id="Dummy" , 03.Tv8.5 web2
@@ -110,10 +107,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="Dummy" , 04.Atv Türknet c
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="ATV.tr" , 04.ATV uydu
-http://95.174.71.114:80/TR-ATV/index.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="ATV.tr" , 04.ATV uydu b
-http://95.174.71.114:80/TR-ATV/playlist.m3u8
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="ATV.tr" , 04.ATV uydu c
 http://65.108.239.207/atv/index.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="ATV.tr" , 04.ATV uydu d
@@ -124,30 +118,25 @@ http://162.212.179.33:80/gin-trn09/gin-atv-tv/tracks-v1a1/rewind-128880.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="ATV.tr" , 04.Atv uydu g
 http://162.212.179.33:80/gin-36bay4/gt-atv-tv3/tracks-v1a1/rewind-48880.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" tvg-id="Dummy" , 04.ATV vizi
-https://tv.cdn-vizi.workers.dev/?ID=2
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.NOW dsmart go b
 http://tv.dsmart-go.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.NOW türk net
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.NOW uydu
-http://95.174.71.114:80/TR-FOX/playlist.m3u8
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.Now uydu b
 http://162.212.179.33:80/gin-36bay4/gt-turkfoxtv-3/tracks-v1a1/rewind-128880.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.NOW uydu c
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.now uydu d
-http://95.174.71.114:80/TR-FOX/index.m3u8
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.Now uydu e
 http://66.160.192.241/foxturk/index.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Now.tr" , 05.NOW uydu f
 https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/500px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" tvg-id="Dummy" , 05.NOW vizi
-https://tv.cdn-vizi.workers.dev/?ID=4
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" tvg-id="KanalD.tr" , 06.Kanal D dsmart go b
 http://tv.dsmart-go.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" tvg-id="KanalD.tr" , 06.KANAL D uydu
-http://95.174.71.114:80/TR-KANAL-D/playlist.m3u8
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="KanalD.tr" , 06.KANAL D uydu b
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="KanalD.tr" , 06.Kanal d uydu c
