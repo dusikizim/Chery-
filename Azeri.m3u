@@ -54,4 +54,14 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
 https://nl.livekadeh.com/hls2/vilayet_high.m3u8
 #EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan 
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/595.jpg" tvg-id="https://cdn.technettv.com/channel/33090/logo_256.jpg" , Music Azerbaijan Hits
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg" tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" , Music Azerbaijan Plus
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+
+
+
+
 
