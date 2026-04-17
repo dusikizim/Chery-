@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
+
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://www.tff.org/Resources/TFF/Auto/1cb4cefc93194e6db85c4552a3d7ce1f.jpg" tvg-id="Dummy" , (Galatasaray Fenerbahçe Süper kupa finali
 https://doiszsroym.erbvr.com/vms/1/68/27/16827777-acaa-4888-a612-57f4eb286f4b/16827777-acaa-4888-a612-57f4eb286f4b.smil/hlssubplaylist-ovbnohwd_oacnA67.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" tvg-id="Dummy" , - 🫣🤔😄🙈🙉🙊
