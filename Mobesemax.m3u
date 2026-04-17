@@ -1,0 +1,166 @@
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_h0h.png" tvg-id="http://vizi.vizi.workers.dev/?ID=66" , 0.KabeTV
+http://ch14.tv/live/ch4teenquran/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_h0h.png" tvg-id="Dummy" , 0.KabeTV
+https://tv.cdn-vizi.workers.dev/?ID=66
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.italya golden
+https://webcam.alfa.it/webcams/memfs/918f99b7-683e-49ad-8131-d7e7c03d1dbd.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.Poland-TV Cam
+https://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.Rus radyo webcam
+http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.Rus radyo webcam 2
+https://lifecam.sigma-ktv.ru/CTV_Rec/index.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.Rusya Radyo cam
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Cedar Point Park
+https://cs4.pixelcaster.com/live/cedar1.stream/chunks.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Cedar Point Park 2
+https://cs4.pixelcaster.com/live/cedar3.stream/chunks.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Cedar Point Park 3
+https://cs4.pixelcaster.com/live/cedar2.stream/chunks.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Folly Beach
+https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Huntington Beach 4
+https://cs9.pixelcaster.com/live/hbnorth.stream/chunks.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Monument Valley
+https://wowza.ser321.usu.edu/live/smil:mntvalley.smil/chunklist_b2500000_sleng.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA - Myrtle Beach Cam
+https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA Corolla Resort Plajı
+https://58bdb48e25cf1.streamlock.net:19350/live/vcnc004.stream/cplaylist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.USA Myrtle Beach Resorts
+https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.Астана - ТРЦ Хан Шатыр 2
+http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Akçay Kordon
+https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Akçay Kordon 2
+https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir ALİ HİKMET PAŞA MEYDANI
+https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Altınkum plajı
+https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir ALTINKUM SKATE PARK
+https://content.tvkur.com/l/cr1j8fhpkpqs73a5rgpg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Altınoluk Kordon
+https://content.tvkur.com/l/cooanmhpkpqs73c1ui8g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Altınoluk Kordon 2
+https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Atatürk anıtı
+https://content.tvkur.com/l/crdaoa1pkpqs73a6dfd0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Atatürk parkı
+https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Avlu Yaşam merkezi
+https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Bigadiç meydan
+https://content.tvkur.com/l/crdeq61pkpqs73a6dmn0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Dursunbey su çıktı 1
+https://content.tvkur.com/l/cs7rf4um756c73a3ie7g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Dursunbey su çıktı 2
+https://content.tvkur.com/l/csi8noem756c73a4m7p0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Gönen meydan
+https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir ivrindi meydan 1
+https://content.tvkur.com/l/csi7rpum756c73a4lkug/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir ivrindi meydan 2
+https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Toplu Taşıma Merkezi
+https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir ZAĞNOS PAŞA CAMİ
+https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir ZAĞNOS PAŞA CAMİ
+Meydanı
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Zağnos Paşa Cami Meydan 2
+https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir Çamlık
+https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , Balıkesir şehitler parkı
+https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/MWSUYJM.png" tvg-id="Dummy" , Burdur Salda Gölü
+https://5a1178b42cc03.streamlock.net/salda-golu-2/salda_golu_2.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli 15 Temmuz Delikliçınar Şehitler Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli 15 Temmuz Delikliçınar Şehitler Meydanı - 2
+http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Adalet Parkı
+http://212.175.207.19:1935/canliyayin/dbbAdaletPark.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Bayramyeri Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBayramyeri.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Bağbaşı Yaylası
+http://212.175.207.19:1935/canliyayin/dbbYayla.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli İncilipınar Parkı
+http://212.175.207.19:1935/canliyayin/dbbIncilipinar.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Kayak Merkezi - M1 Alt İstasyon
+http://212.175.207.19:1935/canliyayin/dbbBozdag.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Kayak Merkezi - M2 Üst İstasyon
+http://212.175.207.19:1935/canliyayin/dbbBozdagUst.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Kayak Merkezi - Sosyal Tesisler
+http://212.175.207.19:1935/canliyayin/dbbBozdag2.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Laodikeia
+http://212.175.207.19:1935/canliyayin/dbbLaodikya.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Teleferik
+http://212.175.207.19:1935/canliyayin/dbbTeleferik.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Çamlık Parkı
+http://212.175.207.19:1935/canliyayin/dbbCamlik.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/RKJsah9.png" tvg-id="Dummy" , Denizli Üçgen Meydanı
+http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="noimage.png" tvg-id="Dummy" , Diyarbakır
+https://raw.githubusercontent.com/UzunMuhalefet/cameras/refs/heads/main/TR/21/diyarbakir/4c356876664a4462394c453d.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="noimage.png" tvg-id="Dummy" , Girne - Denizkızı Hotel
+https://uzunmuhalefet.serv00.net/angelcam2.php?id=51eyooz3y8&.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Alaeddi̇n Keykubad Cami̇i̇
+https://content.tvkur.com/l/cei99ifmm25sdv36p5ag/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Büyükşehi̇r Stadyumu
+https://content.tvkur.com/l/c77i9nfbb2nj4i0fr83g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Hayvan Bakim Evi̇ - 1
+https://content.tvkur.com/l/cg3k53okj84dao8vt0ug/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Hayvan Bakim Evi̇ - 2
+https://content.tvkur.com/l/cg3k64gkj84dao8vt10g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Hayvan Bakim Evi̇ - 3
+https://content.tvkur.com/l/cg8mckokj84dao9014sg/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Hayvan Bakim Evi̇ - 4
+https://content.tvkur.com/l/cg8mdd0kj84dao9014v0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya İsti̇klal Harbi̇ Şehi̇tleri̇ Abi̇desi̇
+https://content.tvkur.com/l/c77ia8vbb2nj4i0fr86g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Kayalipark
+https://content.tvkur.com/l/c77i687bb2nj4i0fr7r0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Kiliçarslan Şehi̇r Meydani
+https://content.tvkur.com/l/c77iadfbb2nj4i0fr87g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Kültürpark
+https://content.tvkur.com/l/c77i6hb84cnrb6mlji3g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Mevlana Kültür Merkezi̇
+https://content.tvkur.com/l/c77i79j84cnrb6mlji70/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Mevlana Meydani
+https://content.tvkur.com/l/cei9bavbb2nv2u3dv3k0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Mi̇llet Bahçesi̇
+https://content.tvkur.com/l/cei99ovmm25sdv36p5c0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Türbe Önü
+https://content.tvkur.com/l/cei99afmm25sdv36p59g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Zafer Meydani Havuz
+https://content.tvkur.com/l/c77ia4vbb2nj4i0fr85g/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Zafer Yürüyüş Yolu
+https://content.tvkur.com/l/cei9a1fmm25sdv36p5d0/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/nWeEm2p.png" tvg-id="Dummy" , Konya Şerafetti̇n Cami̇i̇
+https://content.tvkur.com/l/c77i7dr84cnrb6mlji80/master.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://emlak11.netsoftyazilim.com/gfx/ilanlar/32309/logo.png" tvg-id="Dummy" , Kuşadası
+https://raw.githubusercontent.com/UzunMuhalefet/cameras/refs/heads/main/TR/09/kusadasi/46724b634451574c41684d3d.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="noimage.png" tvg-id="Dummy" , Manisa Alaşehir
+https://raw.githubusercontent.com/UzunMuhalefet/cameras/refs/heads/main/TR/45/alasehir/706936764b4135356b2b553d.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/ba5kP5k.png" tvg-id="Dummy" , Muğla - Fethiye Ölüdeniz - Belcekiz Beach Bar
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=belcekizbeachclub&.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://www.marmarishotels.org/data/Imgs/OriginalPhoto/11795/1179526/1179526081/emre-beach-emre-hotel-marmaris-img-1.JPEG" tvg-id="Dummy" , Muğla - Fethiye Ölüdeniz - Emre Beach Hotel
+https://uzunmuhalefet.serv00.net/ipcamlive.php?id=emrehotels&.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/WyQXOER.png" tvg-id="Dummy" , Sivas Zara - Meydan
+https://stdaddy.onrender.com/proxy?url=https://server.arvas.com.tr/meydan.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/OGAZgZI.png" tvg-id="Dummy" , Tokat Atatürk Köprüsü
+http://212.156.98.150:1936/Kamera/AtaturkKoprusu.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/OGAZgZI.png" tvg-id="Dummy" , Tokat Cumhuriyet Meydanı
+http://212.156.98.150:1936/Kamera/Meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/OGAZgZI.png" tvg-id="Dummy" , Tokat Hıdırlık Köprüsü
+http://212.156.98.150:1936/Kamera/Stadyum.stream/playlist.m3u8
+#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://i.imgur.com/OGAZgZI.png" tvg-id="Dummy" , Tokat Kalesi
+http://212.156.98.150:1936/Kamera/Kale.stream/stream.m3u8
+
+
+
+
