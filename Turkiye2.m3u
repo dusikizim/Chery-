@@ -1,5 +1,29 @@
 #EXTM3U
 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 4AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 5AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 1BET
+#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
+https://betconnectstreamserver1001.site/601/mono.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3874.png" group-title="Türkiye ",BEIN SPOR 2BET
+#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
+https://betconnectstreamserver1001.site/602/mono.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3876.png" group-title="Türkiye ",BEIN SPOR 3BET
+#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
+https://betconnectstreamserver1001.site/603/mono.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3878.png" group-title="Türkiye ",BEIN SPOR 4 BET
+#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
+https://betconnectstreamserver1001.site/604/mono.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 5 BET
+#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
+https://betconnectstreamserver1001.site/605/mono.m3u8
+
+
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 uydu
@@ -249,26 +273,26 @@ http://65.108.239.207:80/bsstars/index.m3u8
 http://65.108.239.207:80/bsturk/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//moviesmart.png" tvg-id="Dummy" , MovieSMART
 http://65.108.239.207:80/mvturk/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv1001hd.png" tvg-id="Dummy" , (SINEMA TV 1001 HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv1001hd.png" tvg-id="Dummy" , SINEMA TV 1001 HD
 http://65.108.239.207:80/sinema1001/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv1002hd.png" tvg-id="Dummy" , SINEMA TV 1002 HD
 http://65.108.239.207:80/sinema1002/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv.png" tvg-id="Dummy" , SINEMA TV 2 HD
 http://65.108.239.207:80/sinema2/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyon2hd.png" tvg-id="Dummy" , SINEMA TV AKSIYON 2 HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyon2hd.png" tvg-id="Dummy" , SINEMA TV AKSIYON 2 
 http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyonhd.png" tvg-id="Dummy" , SINEMA TV AKSIYON HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyonhd.png" tvg-id="Dummy" , SINEMA TV AKSIYON 
 http://65.108.239.207:80/sinemaaksiyon/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvailehd.png" tvg-id="Dummy" , SINEMA TV AILE HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvailehd.png" tvg-id="Dummy" , SINEMA TV AILE 
 http://65.108.239.207:80/sinemaaile/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv.png" tvg-id="Dummy" , SINEMA TV HD
 http://65.108.239.207:80/sinema/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvkomedi.png" tvg-id="Dummy" , SINEMA TV KOMEDI HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvkomedi.png" tvg-id="Dummy" , SINEMA TV KOMEDI 
 http://65.108.239.207:80/sinemakomedi/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" tvg-id="Dummy" , (1SINEMA TV YERLI 2 HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" tvg-id="Dummy" , (1SINEMA TV YERLI 2 
 http://65.108.239.207:80/sinemayerli2/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" tvg-id="Dummy" , (1SINEMA TV YERLI HD
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" tvg-id="Dummy" , (1SINEMA TV YERLI 
 http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" tvg-id="Dummy" , 00.FİL TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
@@ -276,11 +300,11 @@ https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="noimage.png" tvg-id="Dummy" , 00.Filtv
 https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://tv191.radyotelekom.com.tr:3943/stream/play.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , 00.SDM Sinema
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , 00.SDM TV Sinema b
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , SDM TV Sinema b
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" tvg-id="Dummy" , 000.tabi tv
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" tvg-id="Dummy" , tabi tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=x_jOY6i_kEupfpF7NXdTYg&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" tvg-id="Dummy" , 000.Tabii Tv b
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
@@ -356,23 +380,12 @@ https://live.tecostream.xyz/teleon.php
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" tvg-id="Tivi6.tr" , 1.Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" tvg-id="Dummy" , 1.TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy" , 1.TV B
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://thumbs01.cdn.web.tv/zb/nc/zbnckvtgivs_140x79.jpg" tvg-id="Dummy" , 1.vizon TURK
-https://novamax.cinemax6.com:3760/stream/play.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy" , 1.Yansıma Sinema
-http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy" , 1.YANSIMA SİNEMA
-https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy" , 1.YANSIMA SİNEMA HD
-http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" tvg-id="Dummy" , 1.Şaban tv
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
-
 
 EXTINF:-1 group-title="01.KIL-BELGESEL" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" tvg-id="Dummy" , BBC EARTH
 http://65.108.239.207/bbc/index.m3u8
@@ -420,6 +433,10 @@ https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="01.KIL-BELGESEL" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" tvg-id="Dummy" , 5.Yaban tv uydu
 http://116.202.238.88/YABANTV_TR/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz A
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz B
@@ -473,27 +490,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 2AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 3AND
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 4AND
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 5AND
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 1BET
-#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
-https://betconnectstreamserver1001.site/601/mono.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3874.png" group-title="Türkiye ",BEIN SPOR 2BET
-#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
-https://betconnectstreamserver1001.site/602/mono.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3876.png" group-title="Türkiye ",BEIN SPOR 3BET
-#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
-https://betconnectstreamserver1001.site/603/mono.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3878.png" group-title="Türkiye ",BEIN SPOR 4 BET
-#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
-https://betconnectstreamserver1001.site/604/mono.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 5 BET
-#EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
-https://betconnectstreamserver1001.site/605/mono.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN YEDEK 1
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports1/playlist.m3u8
