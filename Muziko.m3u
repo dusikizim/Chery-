@@ -1,46 +1,46 @@
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo 2K (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo 2K (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo 70s (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo 70s (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo 80s (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo 80s (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo 90s (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo 90s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" tvg-id="VevoCountry.us" , 26.Vevo Country
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" tvg-id="VevoCountry.us" , Vevo Country
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" tvg-id="Dummy" , 26.Vevo Country
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" tvg-id="Dummy" , Vevo Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo Country (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo Country (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/WFQ0NCF/vevohprb.png" tvg-id="Dummy" , 26.VEVO HP RB
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/WFQ0NCF/vevohprb.png" tvg-id="Dummy" , VEVO HP RB
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8?ads_amagi_channel=916
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo Pop (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo Pop (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png" tvg-id="Dummy" , 26.VEVO POP FAST
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/brFBnw8/vevopop.png" tvg-id="Dummy" , VEVO POP FAST
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8?ads_amagi_channel=920
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 26.Vevo Retro Rock (Australia)
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , Vevo Retro Rock (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-id="https://stream.4fun.tv:8888/hls/4f_high/index.m3u8" , 27.4 Fun TV
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-id="https://stream.4fun.tv:8888/hls/4f_high/index.m3u8" , 4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-id="Dummy" , 27.4fun
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-id="Dummy" , 4fun
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-id="Dummy" , 27.4fun.tv
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-id="Dummy" , 4fun.tv
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20240924T050750SQUARE.png" tvg-id="https://jmp2.uk/sam-DE23000015Y.m3u8" , 28.Deluxe Dance By Kontor
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20240924T050750SQUARE.png" tvg-id="https://jmp2.uk/sam-DE23000015Y.m3u8" , Deluxe Dance By Kontor
 https://d37i8mvsaxucfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/index.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" tvg-id="https://jmp2.uk/sam-DEBA150003050.m3u8" , 28.Deluxe Deutschpop
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" tvg-id="https://jmp2.uk/sam-DEBA150003050.m3u8" , Deluxe Deutschpop
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" tvg-id="https://jmp2.uk/sam-DEAH3904006A.m3u8" , 28.Deluxe Lounge HD
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" tvg-id="https://jmp2.uk/sam-DEAH3904006A.m3u8" , Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-id="DeluxeMusic.de" , 28.Deluxe Music
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-id="DeluxeMusic.de" , Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png" tvg-id="Dummy" , 28.DELUXE MUSIC Dance
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png" tvg-id="Dummy" , DELUXE MUSIC Dance
 https://d37i8mvsaxucfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/index.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=Samsung
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png" tvg-id="Dummy" , 28.DELUXE MUSIC Grm
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png" tvg-id="Dummy" , DELUXE MUSIC Grm
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" tvg-id="Dummy" , 28.DELUXE MUSIC Lounge Extra
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" tvg-id="Dummy" , DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" tvg-id="Dummy" , 28.DELUXE MUSIC Lounge Extra
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" tvg-id="Dummy" , DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png" tvg-id="Dummy" , 28.DELUXE MUSIC Schlager
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
