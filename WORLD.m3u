@@ -532,6 +532,11 @@ http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6816/index.m3u8
 #EXTINF:-1 tvg-id="3872" tvg-rec="3" tvg-logo="http://epg.one/img2/3872.png" group-title="Türkiye ",Tivibu 2B
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6816/index.m3u8
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 1AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 2AND
@@ -552,36 +557,38 @@ https://betconnectstreamserver1001.site/602/mono.m3u8
 #EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3876.png" group-title="Türkiye ",BEIN SPOR 3BET
 #EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
 https://betconnectstreamserver1001.site/603/mono.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3878.png" group-title="Türkiye ",BEIN SPOR 4BET
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3878.png" group-title="Türkiye ",BEIN SPOR 4 BET
 #EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
 https://betconnectstreamserver1001.site/604/mono.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 5BET
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 5 BET
 #EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
 https://betconnectstreamserver1001.site/605/mono.m3u8
 
 #EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN YEDEK 1
 https://dga1op10s1u3leo.77cea06653da22.click/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1A
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1A 17
 http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6817/index.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1B
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1B 17
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6817/index.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1C
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1C 17
 http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6781/index.m3u8
 #EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR 1D
 http://sup-4k.org/play/live.php?mac=00:1A:79:a5:7d:a0&stream=114045&extension=m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR  1E
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEİN SPOR  1E 17
 http://k46lwgcj.akciatv.ru/iptv/LNE7CK973BXBGD/6781/.m3u8
 
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 1F
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 1F RO11
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN BRZ 1H
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN BRZ 1H AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ", BEIN BRZ 1J
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ", BEIN BRZ 1J BRZ
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Bein  1K
+#EXTINF:-1 tvg-name="Bein Sport 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Bein  1K TAV
+https://tavukfelsefesi.lol/static/bs1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN 1 583
 https://api.codetabs.com/v1/proxy/?quest=http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/583.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Bein  1L
+#EXTINF:-1 tvg-name="Bein Sport 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Bein  1L PAT
+https://patatespsikolojisi.lol/static/bs1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN 1M
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN 1N
@@ -590,9 +597,9 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
 https://netspor.tecostream.xyz/bs1.m3u8
 
 
-##EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",Bein 11CLO
+##EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",Bein 11 CLO
 https://cloudlyticsapp.lol/static/bs11.m3u8?|referer=https://twitter.com/&|user-agent=googleusercontent
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye " BEIN 1BYAS
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye " BEIN 1B YAS
 https://yastikkavgasi.lol/static/bs1.m3u8|referer=https://twitter.com/&|user-agent=googleusercontent
 
 ##EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",Bein 1CLO
@@ -1050,6 +1057,18 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  4C
 #EXT-X-KANAL-TIPI:AUTO
 https://mss.ayakkabiparti.lol/t4/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="Trac Stars" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Trac Stars
 #EXT-X-KANAL-TIPI:AUTO
