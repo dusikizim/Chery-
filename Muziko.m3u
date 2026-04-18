@@ -89,16 +89,13 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV Chill AF
-https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 41.DanceTV Minimal Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" tvg-id="Dummy" , 41.deep house
@@ -111,6 +108,7 @@ https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" tvg-id="Dummy" , 41.House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-id="Dummy" , 41.Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-id="Dummy" , 41.MNML
