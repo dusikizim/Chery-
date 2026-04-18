@@ -21,6 +21,11 @@ http://dujpral.ddns.me:82/live/ISMETTVMLI/qzebJcWeed/115715.m3u8
 https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",Bein spor1
+https://patatespsikolojisi.lol/static/bs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",Bein spor1
+https://tavukfelsefesi.lol/static/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport  
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport 2 
