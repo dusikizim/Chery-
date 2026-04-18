@@ -14,6 +14,7 @@ https://yayin30.haber100.com/live/agrotv2/chunklist_w758555833.m3u8
 
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.zr.png" tvg-id="http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8" , .Ziraat Türkiye Kupasi TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
+
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR türknet
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="A SPOR" , ASPOR türknet b
@@ -37,8 +38,7 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" tvg-id="https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=7cf668c56cf9add3b20bb9ca05dd793d&dfp_paln=AQzzBGQEBsS7_sMci6P3J7ogDUmWdrI30QyrRpoXhNXaCg2jaVgMCJKvBgkt1VaOBj6r-gl6qyGpPgKqEdyJhZ1O0tafG8QfufRDQkkj9r4tguOBK246rQ7zM4Sru0MOP2mVzRJLmeD8PcYmskB0VEJb7JoRwA4F9tl52VVwCv4-JYblKKJEPsZH57lxz8JPv17tmLAJZwB3TGldshqpu3Kut9JXlf-gCiekcnHcg1FJEbmeU2HiTpJ-msSopbLoGt4KC-u8fJx7IGUlBNselMBOGI-a0N5ogWXYvfNjK-x0-ig6vC8lxtHs0xU6seyW0UQ5NQ09iTUgh0gUHEkoCb8ZlQpHdzHMOx3V7uTPaRIM4Es3xdzb_KqZ8lkH9vhQjtAOqzu1rbpq15AKJhiLlfCS3SKjy_McJMRKWcxKb9fze7IbGDbhJ1UtTCuEPZRYjbOOeGvPakZUsfC8AnC7YDpRcdSTVWAZsP-pynpy4J2XcCVF8QWo0s1E5O61Vkmsg9STatqz3Fia7jGKFi0PI4gGeobrtJTGbe163-LH1BPaEqNm1XDTDdSPwZnjdxyqmTDeX9p0PGn5SdxIvvKK4YNj_voxtDPOLl408nAIgFASL3IJVWJQk-LzPywxeVcqPdcRItUIDCuRpRH8uhHMAODZtlYn93fYxapDwMS5kn_smFMaLe3S8DQTapJh762k_Zr726Zv6pBEy0mwU6Lygi8qA58NaLi7aEXS2k-t0VwTTHOtkFwxf8dVw2RzT6mhkBx_RXJ9JHyaD02v0LzVMUmvI6rXvGXWl3SaceXN1T8MZC9P8ocUuI834k_7BtJ0hjNOKs3VAS1Ke3WdamOnAWKjXk5wbMuXfAMoyrG4lyuwSeLvG233H5pGVtnHwILrX95cpsc92FDTjwc9XqGOKeDdqokoLPuQ4ZjiCLFs-0XdhVTLXKaywbtO7Ybh_zTZM1TKLG5zAiwAdzKqxlhYw0xq40oHWZoLkp8Cgi0GSSm0q1QLBxEdxcsqENvzNmZ94fsmsSxF-t2bs5Pwuz5ucOh0p3m3kw9hnsOoZSpK64Kbe9zjY51PgP2PSiIqApETuxYTp3b7jpKydpRxI_LpN3043QK4_yj37tu5p9U." , HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Mackolik_favicon.png" tvg-id="GOLTV.tr" , MAÇ KOLİK
-https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
+
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" tvg-id="Dummy" , Ozet.Başakşehir - Beşiktaş 2-3
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_bas_bjk_22h_15sub_ip&secure=1
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" tvg-id="Dummy" , Ozet.Galatasaray - Eyüpspor 5-1
