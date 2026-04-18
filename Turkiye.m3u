@@ -21,11 +21,7 @@ http://dujpral.ddns.me:82/live/ISMETTVMLI/qzebJcWeed/115715.m3u8
 https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",Bein spor1
-https://patatespsikolojisi.lol/static/bs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",Bein spor1
-https://tavukfelsefesi.lol/static/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport  
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport 2 
@@ -57,6 +53,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2phuui0.png" group-title="TR | SPOR 1",SmartSpor 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm2.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",Bein spor1
+https://api.codetabs.com/v1/proxy/?quest=https://patatespsikolojisi.lol/static/bs1.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",Bein spor1
+https://api.codetabs.com/v1/proxy/?quest=https://tavukfelsefesi.lol/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="0bc43404-ef57-4136-8c19-09388e202330" tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" group-title="TR | SPOR 3",Bein 1 
 #EXTVLCOPT:http-referrer= https://www.selcuksportshd803fa55928.xyz/
@@ -148,6 +149,28 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Justin Spor" group-title="TR | SPOR JUSTIN",Trt 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetrt1.m3u8
+
+https://dga1op10s1u3leo.389c93e126491a.click/live/selcukobs1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",MAXOZEL
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukobs1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORSB1
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1A
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1B
+https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1C
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1D
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1E
+https://calm-cell-7dd5.evtvtv534.workers.dev/selcukbeinsports1.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1F
+https://crimson-rain-c58f.mudatdatdiri.workers.dev/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1H
+https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORT 1 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs1.m3u8
@@ -248,39 +271,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/and
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Exxen HD" group-title="Spor",Exxen HD
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" tvg-name="TR:Exxen 1 HD" group-title="TR | SPOR BIRAZ",Exxen 1 
-https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamliveexn1.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="TR DTH 1500 MAX",beIN SPORTS 1 HD
-https://analiz.meno24074.workers.dev/102284.ts
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamliveexn1.m3
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",MAXWİP
-https://dga1op10s1u3leo.389c93e126491a.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",MAXOZEL
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORMAX
-http://as01.spr24.net/5824/playlist.m3u8?token=nSbamDBvPQC9zu
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1A
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1B
-https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1C
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1D
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1E
-https://calm-cell-7dd5.evtvtv534.workers.dev/selcukbeinsports1.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1F
-https://crimson-rain-c58f.mudatdatdiri.workers.dev/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1G
-https://goldvod.org/live/hpgdisco/123456/150.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPOR 1H
-https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",SPORWiP-2
