@@ -47,6 +47,7 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6816/index.m3u8
 
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 1AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 2AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 3AND
@@ -55,6 +56,10 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 5AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN MAX 1AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebm1.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN MAX 2AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebm2.m3u8
 
 #EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",BEIN SPOR 1BET
 #EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
@@ -72,30 +77,40 @@ https://betconnectstreamserver1001.site/604/mono.m3u8
 #EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
 https://betconnectstreamserver1001.site/605/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",S SPOR 2AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",S SPOR 2AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
+
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TABİİ 1AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TABİİ 2AND
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 tvg-name="TABİİ 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 3
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TABİİ 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 4
+#EXTINF:-1 tvg-name="TABİİ 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 4 AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 tvg-name="TABİİ 5" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TABİİ 5" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 5
+#EXTINF:-1 tvg-name="TABİİ 5" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 5 AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
 #EXTINF:-1 tvg-name="TABİİ 6" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TABİİ 6" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 6
+#EXTINF:-1 tvg-name="TABİİ 6" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 6 AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-name="TABİİ 7" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 7
+#EXTINF:-1 tvg-name="TABİİ 7" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 7 
 https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TABİİ 7" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 7
+#EXTINF:-1 tvg-name="TABİİ 7" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 7 AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 tvg-name="TABİİ 8" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 8
+#EXTINF:-1 tvg-name="TABİİ 8" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 8 AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb8.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1A
 http://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1B RON
 https://corestream.ronaldovurdu.help//hls/tivibu-spor-1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1C
+#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1C AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1D
 http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports2/tivibu1/playlist.m3u8
@@ -104,22 +119,23 @@ http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports2/tivib
 http://65.108.239.207/t2/index.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2B
 https://corestream.ronaldovurdu.help//hls/tivibu-spor-2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2C
+#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2C AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2C
+#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7
+chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2C
 http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/tivibu2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tivibu Spor 3 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3A
+#EXTINF:-1 tvg-name="Tivibu Spor 3 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu 3A
 http://65.108.239.207/t4/index.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3B
+#EXTINF:-1 tvg-name="Tivibu Spor 3 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu 3B
 https://corestream.ronaldovurdu.help//hls/tivibu-spor-3.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3C
+#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu 3C AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3D
+#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu 3D
 http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/tivibu3/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  4A
+#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu 4A
 http://65.108.239.207/t4/index.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  4B
+#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu 4B AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 Justin
