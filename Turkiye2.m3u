@@ -72,80 +72,60 @@ https://betconnectstreamserver1001.site/604/mono.m3u8
 #EXTVLCOPT:http-referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
 https://betconnectstreamserver1001.site/605/mono.m3u8
 
+#EXTINF:-1 tvg-name="TABİİ 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 3
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TABİİ 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 4
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 tvg-name="TABİİ 5" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 5
-#EXT-X-KANAL-TIPI:AUTO
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TABİİ 5" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 5
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
 #EXTINF:-1 tvg-name="TABİİ 6" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 6
-#EXT-X-KANAL-TIPI:AUTO
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TABİİ 6" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 6
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 tvg-name="TABİİ 7" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 7
-#EXT-X-KANAL-TIPI:AUTO
 https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="TABİİ 7" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 7
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 tvg-name="TABİİ 8" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",TABİİ 8
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb8.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1A
-#EXT-X-KANAL-TIPI:AUTO
 http://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1B RON
-#EXT-X-KANAL-TIPI:AUTO
 https://corestream.ronaldovurdu.help//hls/tivibu-spor-1.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1C
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  1D
-#EXT-X-KANAL-TIPI:AUTO
 http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports2/tivibu1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2A
-#EXT-X-KANAL-TIPI:AUTO
 http://65.108.239.207/t2/index.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2B
-#EXT-X-KANAL-TIPI:AUTO
 https://corestream.ronaldovurdu.help//hls/tivibu-spor-2.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2C
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  2C
-#EXT-X-KANAL-TIPI:AUTO
 http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/tivibu2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor 3 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3A
+http://65.108.239.207/t4/index.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 3 sport" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3B
-#EXT-X-KANAL-TIPI:AUTO
 https://corestream.ronaldovurdu.help//hls/tivibu-spor-3.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3C
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  3D
-#EXT-X-KANAL-TIPI:AUTO
 http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/tivibu3/playlist.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  4A
-#EXT-X-KANAL-TIPI:AUTO
 http://65.108.239.207/t4/index.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Tivibu  4B
-#EXT-X-KANAL-TIPI:AUTO
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
-
-
 
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 uydu
-
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 uydu3
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="TRT1.tr" , TRT1 web
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" tvg-id="Dummy" , TRT1 web
@@ -156,6 +136,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936278.png" tvg-id="TRTTurk.tr" , TRTTurk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-id="KanalD.tr" , KANAL D uydu b
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" tvg-id="KanalD.tr" , Kanal D web
@@ -254,7 +235,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/ae/Tv2_logo_%282026%29.png/250px-Tv2_logo_%282026%29.png" tvg-id="Teve2.tr" , Tv2 Türknet
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/ae/Tv2_logo_%282026%29.png/250px-Tv2_logo_%282026%29.png" tvg-id="Dummy" , 13.tv2 web
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?=&sid=84h6viw84vh1&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
 #EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/ae/Tv2_logo_%282026%29.png/250px-Tv2_logo_%282026%29.png" tvg-id="Teve2.tr" , 13.tv2 web b
