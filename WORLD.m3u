@@ -1,147 +1,11 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
-#EXTM3U x-tvg-url="https://nqg6bkpsnhen.merlincdn.net/resize/640x360/Programlar/Yeralti/Haberler/Yeralti-1767620078_image.jpg" group-title="DIZI SON BÖLÜM",Yer Altı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
-
-#EXTINF:-1 tvg-logo="https://www.storyajans.com/wp-content/uploads/2025/01/kapak_210034.jpg" group-title="DIZI SON BÖLÜM",YER ALTI
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
-#EXTINF:-1 tvg-logo="https://www.storyajans.com/wp-content/uploads/2025/01/kapak_210034.jpg" group-title="DIZI SON BÖLÜM",Annem Ankara
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
-
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/3wma0CKKE_N-JU2R46TAqI9WHMSinlmXHeE7StJYZr77X9qSH7Y9IH5jCd0mrQeO6P84DKQayV6pgeg3UJDd5iZPfDzQIi8zBy5Cu9cS4_1_wKCGIA" group-title="DIZI SON BÖLÜM",Arka Sokaklar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Aşk Evlilik Boşanma
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Aşk Ve Gözyaşı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Aynadaki Yabancı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Bahar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Başka Bir Gün
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Ben Leman
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Ben Onun Annesiyim
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Onun.Annesiyim.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Bereketli Topraklar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bereketli.Topraklar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Bir Gece Masalı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Bir Zamanlar Istanbul
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Can Borcu
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Çarpıntı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Carpinti.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Cennetin Çocukları
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cennetin.Cocuklari.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Çift Kişilik Oda
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cift.Kisilik.Oda.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Çok Güzel Hareketler
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Cok.Guzel.Hareketler.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Deha
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Esref Rüya
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Gizli Bahçe
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Gönül Dağı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Gözleri Karadeniz
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Güldür Güldür
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Güller Ve Günahlar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Güzel Aşklar Diyarı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Halef
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Holding
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Hudutsuz Sevda
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Inci Taneleri
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kalpazan
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kara Ağaç Destanı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kara.Agac.Destani.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Karadut
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Karadut.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kardelenler
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kirli Sepeti
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kirli.Sepeti.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kıskanmak
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kiskanmak.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kızıl Koncalar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizil.Goncalar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kızılcık Şerbeti
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Konuşanlar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kör Nokta
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kor.Nokta.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kötü Kan
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kotu.Kan.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kral Kaybederse
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kudüs Fatihi Selahaddin Eyyubi
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kuruluş Orhan
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Orhan.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Kuruluş Osman
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Leyla
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Mehmed Fetihler Sultanı
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Piyasa
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Sahipsizler
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Sahtekarlar
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Şakir Paşa Ailesi
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Sandık Kokusu
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Selahaddin Eyyubi
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Sen Ağlama Istanbul
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sen.Aglama.istanbul.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Sevdiğim Sensin
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Siyah Kalp
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Taş Kağıt Makas
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tas.Kagit.Makas.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Taşacak Bu Deniz
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Teşkilat
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Uzak Şehir
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Veliaht
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Yabani
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Yalan
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Yalı Çapkını
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-#EXTINF:-1 group-title="DIZI SON BÖLÜM",Zembilli
-https://api.codetabs.com/v1/proxy/?quest=http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
-
 #EXTINF:-1,TRT 4K A
 http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/4001/index.m3u8
 #EXTINF:-1,TRT 4K B
 http://eypv0ag4.siauliairsavlt.pw/iptv/LNE7CK973BXBGD/4001/index.m3u8
 #EXTINF:-1,TRT 4K C
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/4001/index.m3u8
-
 
 #EXTINF:-1,TRT 1A
 http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2293/index.m3u8
@@ -182,7 +46,6 @@ http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2326/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/LNUZFZ7YFN4ACA/2326/index.m3u8
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D F
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2326/index.m3u8
-
 
 
 #EXTINF:-1,ATV 2A
