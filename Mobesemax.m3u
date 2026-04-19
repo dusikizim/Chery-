@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_h0h.png" tvg-id="http://vizi.vizi.workers.dev/?ID=66" , 0.KabeTV
-http://ch14.tv/live/ch4teenquran/playlist.m3u8
-#EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_h0h.png" tvg-id="Dummy" , 0.KabeTV
-https://tv.cdn-vizi.workers.dev/?ID=66
 #EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.italya golden
 https://webcam.alfa.it/webcams/memfs/918f99b7-683e-49ad-8131-d7e7c03d1dbd.m3u8
 #EXTINF:-1 group-title="04.KIL-MOBESE" tvg-logo="https://imgur.com/x5IZVx7.png" tvg-id="Dummy" , 2.Poland-TV Cam
