@@ -64,10 +64,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/and
 
 
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN SPOR 3AND
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEİN SPOR 2BRZ
-https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz2.m3u8
-
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEİN SPOR 3 BRZ
+https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz3.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEİN SPOR 3 CRZ
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebiraz3.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN MAX 1AND
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebm1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEIN MAX 2AND
