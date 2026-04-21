@@ -39,7 +39,10 @@ http://k46lwgcj.akciatv.ru/iptv/LNE7CK973BXBGD/6832/.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TURKİYE KUPASI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="SPOR" tvg-id="TİVİBU SPOR.tr" tvg-logo="http://ginikoturkish.com/channels/logo/tivibu-spor-1.png" ,Tivibu Spor
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+#EXTINF:-1 group-title="SPOR" tvg-id="TİVİBU SPOR.tr" tvg-logo="http://ginikoturkish.com/channels/logo/tivibu-spor-1.png" ,Tivibu Spor
+https://trn03.tulix.tv/gt-tivibuspor2/index.m3u8
 #EXTINF:-1 tvg-id="3872" tvg-rec="3" tvg-logo="http://epg.one/img2/3872.png" group-title="Türkiye ",Tivibu 2A
 http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6816/index.m3u8
 #EXTINF:-1 tvg-id="3872" tvg-rec="3" tvg-logo="http://epg.one/img2/3872.png" group-title="Türkiye ",Tivibu 2B
