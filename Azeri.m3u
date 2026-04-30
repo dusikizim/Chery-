@@ -9,7 +9,12 @@ https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 
 
-#EXTM3U
+#EXTINF:0 type="stream" channelId="641", AZ COMEDYXANA
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
+#EXTINF:0 type="stream" channelId="641", MUGAM DÜNYAMIZ 
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/b-kerimoff-Mugam-dunyamiz.m3u8
+#EXTINF:0 type="stream" channelId="641", AZ COMEDY
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
 #EXTINF:0 type="stream" channelId="641", Az Tv HD
 http://jek5dwct.otttv.pw/iptv/GKTT8YW6E9SFM2/966/index.m3u8
 #EXTINF:0 type="stream" channelId="641", Az Tv HD
