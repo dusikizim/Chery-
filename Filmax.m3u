@@ -1,3 +1,30 @@
+
+#EXTINF:-1 group-title="SİNEMA" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,Pofidix SİNEMA
+http://5.178.103.239:82/d/live/out.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema2.tr" tvg-logo="tv logo" ,Pofidix SİNEMA 2
+http://104.238.23.216/d/live/out.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema3.tr" tvg-logo="tv logo" ,Pofidix SİNEMA 3
+http://104.238.23.182/d/live/out.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
+#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon2
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
+https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+#EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
+https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
+#EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv2-tr.png",Sinema Tv2
+https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
+#EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
+
+
 #EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Apex
 https://imdb-video.media-imdb.com/mc/vi1890568985/vi1890568985_1080p.mp4
 #EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Avengers: Doomsday (2026)
