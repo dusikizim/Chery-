@@ -1,10 +1,10 @@
 
 #EXTINF:-1 group-title="SİNEMA" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,Pofidix SİNEMA
-http://5.178.103.239:82/d/live/out.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema2.tr" tvg-logo="tv logo" ,Pofidix SİNEMA 2
-http://104.238.23.216/d/live/out.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,RİZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema2.tr" tvg-logo="tv logo" ,Komedi SİNEMA 
+http://65.108.239.207/sinemakomedi/index.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema3.tr" tvg-logo="tv logo" ,Pofidix SİNEMA 3
 http://104.238.23.182/d/live/out.m3u8?checkedby:MyWay
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
