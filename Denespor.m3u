@@ -254,7 +254,7 @@ https://dga1op10s1u3leo.562958f3179f30.click/live/sssport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1C
 https://german.389c93e126491a.click/live/selcukssport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1D
-https://german.389c93e126491a.click/live/selcukssport/playlist.m3u8
+https://german.389c93e126491a.click/live/sssport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1E
 https://agu.77b6de8e471484.click/live/selcukssport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1F
@@ -262,48 +262,67 @@ https://agu.77b6de8e471484.click/live/sssport/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1G
 https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1H
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1J
-https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivets1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1K
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess1.m3u8
 
 
 
 
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 2B
-https://dga1op10s1u3leo.562958f3179f30.click/live/sssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1C
-https://german.389c93e126491a.click/live/selcukssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1D
-https://german.389c93e126491a.click/live/stivibuspor-2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1E
-https://agu.77b6de8e471484.click/live/selcuktivibuspor2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1F
-https://agu.77b6de8e471484.click/live/stivibuspor-2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1G
-https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1H
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1J
-https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1K
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
-
-
-
-
-
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
-
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax1/playlist.m3u8
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax1/playlist.m3u8
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrtspor/playlist.m3u8
-
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrt1/playlist.m3u8
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 2A
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 2B
+https://dga1op10s1u3leo.562958f3179f30.click/live/sssport-2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 2C
+https://german.389c93e126491a.click/live/selcukssport2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 2D
+https://german.389c93e126491a.click/live/sssport-2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 2E
+https://agu.77b6de8e471484.click/live/selcukssport2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 2F
+https://agu.77b6de8e471484.click/live/sssport-2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 1G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 1H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 1J
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 1K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess2.m3u8
+
+
+
+
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1A
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1B
+https://dga1op10s1u3leo.562958f3179f30.click/live/ssmartspor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1C
+https://german.389c93e126491a.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1D
+https://german.389c93e126491a.click/live/ssmartspor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1E
+https://agu.77b6de8e471484.click/live/selcuksmartspor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1F
+https://agu.77b6de8e471484.click/live/ssmartspor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1J
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:0 type="stream" channelId="641", SMART SPORT 1K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivesm1.m3u8
+
+
+
+
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax1/playlist.m3u8
+
+
+
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksf1/playlist.m3u8
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksmartspor/playlist.m3u8
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktabiispor1/playlist.m3u8https://dga1op10s1u3leo.562958f3179f30.click/live/selcukaspor/playlist.m3u8
