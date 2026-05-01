@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:3698037
+#EXTINF:9,
+https://h1fr.uyanik.tv/dvr/t12fr_trt1.stream_sd/3698037.ts?sid=318150496e3965d8da4c5050bf39da62
+#EXTINF:9,
+https://h1fr.uyanik.tv/dvr/t12fr_trt1.stream_sd/3698038.ts?sid=318150496e3965d8da4c5050bf39da62
+#EXTINF:9,
+https://h1fr.uyanik.tv/dvr/t12fr_trt1.stream_sd/3698039.ts?sid=318150496e3965d8da4c5050bf39da62
+#EXTINF:9,
+https://h1fr.uyanik.tv/dvr/t12fr_trt1.stream_sd/3698040.ts?sid=318150496e3965d8da4c5050bf39da62
