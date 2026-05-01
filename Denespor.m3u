@@ -2,6 +2,39 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
 
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.zr.png" tvg-id="http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8" , .Ziraat Türkiye Kupasi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR türknet
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="A SPOR" , ASPOR türknet b
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR uydu
+http://116.202.238.88/ASPOR_TR/index.m3u8
+
+
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.bnsphbr.png" tvg-id="Dummy" , Bein Sports Haber
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
+
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png" tvg-id="https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8" , Ekol Sports
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" tvg-id="https://canlitvulusal.tr/wp-content/uploads/2024/01/fener-tv-logo.png https://canlitvulusal.xyz/live/fbtv/index.m3u8" , FB TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png" tvg-id="Dummy" , HT Spor
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" tvg-id="https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=7cf668c56cf9add3b20bb9ca05dd793d&dfp_paln=AQzzBGQEBsS7_sMci6P3J7ogDUmWdrI30QyrRpoXhNXaCg2jaVgMCJKvBgkt1VaOBj6r-gl6qyGpPgKqEdyJhZ1O0tafG8QfufRDQkkj9r4tguOBK246rQ7zM4Sru0MOP2mVzRJLmeD8PcYmskB0VEJb7JoRwA4F9tl52VVwCv4-JYblKKJEPsZH57lxz8JPv17tmLAJZwB3TGldshqpu3Kut9JXlf-gCiekcnHcg1FJEbmeU2HiTpJ-msSopbLoGt4KC-u8fJx7IGUlBNselMBOGI-a0N5ogWXYvfNjK-x0-ig6vC8lxtHs0xU6seyW0UQ5NQ09iTUgh0gUHEkoCb8ZlQpHdzHMOx3V7uTPaRIM4Es3xdzb_KqZ8lkH9vhQjtAOqzu1rbpq15AKJhiLlfCS3SKjy_McJMRKWcxKb9fze7IbGDbhJ1UtTCuEPZRYjbOOeGvPakZUsfC8AnC7YDpRcdSTVWAZsP-pynpy4J2XcCVF8QWo0s1E5O61Vkmsg9STatqz3Fia7jGKFi0PI4gGeobrtJTGbe163-LH1BPaEqNm1XDTDdSPwZnjdxyqmTDeX9p0PGn5SdxIvvKK4YNj_voxtDPOLl408nAIgFASL3IJVWJQk-LzPywxeVcqPdcRItUIDCuRpRH8uhHMAODZtlYn93fYxapDwMS5kn_smFMaLe3S8DQTapJh762k_Zr726Zv6pBEy0mwU6Lygi8qA58NaLi7aEXS2k-t0VwTTHOtkFwxf8dVw2RzT6mhkBx_RXJ9JHyaD02v0LzVMUmvI6rXvGXWl3SaceXN1T8MZC9P8ocUuI834k_7BtJ0hjNOKs3VAS1Ke3WdamOnAWKjXk5wbMuXfAMoyrG4lyuwSeLvG233H5pGVtnHwILrX95cpsc92FDTjwc9XqGOKeDdqokoLPuQ4ZjiCLFs-0XdhVTLXKaywbtO7Ybh_zTZM1TKLG5zAiwAdzKqxlhYw0xq40oHWZoLkp8Cgi0GSSm0q1QLBxEdxcsqENvzNmZ94fsmsSxF-t2bs5Pwuz5ucOh0p3m3kw9hnsOoZSpK64Kbe9zjY51PgP2PSiIqApETuxYTp3b7jpKydpRxI_LpN3043QK4_yj37tu5p9U." , HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+
+
+
+
+
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" tvg-id="Dummy" , Sports TV web
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
+
+
+
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports1/playlist.m3u8
@@ -27,8 +60,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/rec
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1K
 https://api.codetabs.com/v1/proxy/?quest=https://andro.6441255.xyz/checklist/receptestt.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1L
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
-
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1M
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1N
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs1.m3u8
 
 
 
@@ -46,6 +82,16 @@ https://german.389c93e126491a.click/live/selcukbeinsports2/playlist.m3u8
 https://agu.77b6de8e471484.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 2F
 https://agu.77b6de8e471484.click/live/sbeinsports-2/playlist.m3u8
+
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 2G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 2H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+
+
+
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 3A
@@ -249,35 +295,6 @@ https://dga1op10s1u3leo.562958f3179f30.click/live/selcukeurosport1/playlist.m3u8
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukeurosport2/playlist.m3u8
 
 
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.zr.png" tvg-id="http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8" , .Ziraat Türkiye Kupasi TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR türknet
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="A SPOR" , ASPOR türknet b
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR uydu
-http://116.202.238.88/ASPOR_TR/index.m3u8
-
-
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.bnsphbr.png" tvg-id="Dummy" , Bein Sports Haber
-https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
-
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png" tvg-id="https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8" , Ekol Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" tvg-id="https://canlitvulusal.tr/wp-content/uploads/2024/01/fener-tv-logo.png https://canlitvulusal.xyz/live/fbtv/index.m3u8" , FB TV
-https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png" tvg-id="Dummy" , HT Spor
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" tvg-id="https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=7cf668c56cf9add3b20bb9ca05dd793d&dfp_paln=AQzzBGQEBsS7_sMci6P3J7ogDUmWdrI30QyrRpoXhNXaCg2jaVgMCJKvBgkt1VaOBj6r-gl6qyGpPgKqEdyJhZ1O0tafG8QfufRDQkkj9r4tguOBK246rQ7zM4Sru0MOP2mVzRJLmeD8PcYmskB0VEJb7JoRwA4F9tl52VVwCv4-JYblKKJEPsZH57lxz8JPv17tmLAJZwB3TGldshqpu3Kut9JXlf-gCiekcnHcg1FJEbmeU2HiTpJ-msSopbLoGt4KC-u8fJx7IGUlBNselMBOGI-a0N5ogWXYvfNjK-x0-ig6vC8lxtHs0xU6seyW0UQ5NQ09iTUgh0gUHEkoCb8ZlQpHdzHMOx3V7uTPaRIM4Es3xdzb_KqZ8lkH9vhQjtAOqzu1rbpq15AKJhiLlfCS3SKjy_McJMRKWcxKb9fze7IbGDbhJ1UtTCuEPZRYjbOOeGvPakZUsfC8AnC7YDpRcdSTVWAZsP-pynpy4J2XcCVF8QWo0s1E5O61Vkmsg9STatqz3Fia7jGKFi0PI4gGeobrtJTGbe163-LH1BPaEqNm1XDTDdSPwZnjdxyqmTDeX9p0PGn5SdxIvvKK4YNj_voxtDPOLl408nAIgFASL3IJVWJQk-LzPywxeVcqPdcRItUIDCuRpRH8uhHMAODZtlYn93fYxapDwMS5kn_smFMaLe3S8DQTapJh762k_Zr726Zv6pBEy0mwU6Lygi8qA58NaLi7aEXS2k-t0VwTTHOtkFwxf8dVw2RzT6mhkBx_RXJ9JHyaD02v0LzVMUmvI6rXvGXWl3SaceXN1T8MZC9P8ocUuI834k_7BtJ0hjNOKs3VAS1Ke3WdamOnAWKjXk5wbMuXfAMoyrG4lyuwSeLvG233H5pGVtnHwILrX95cpsc92FDTjwc9XqGOKeDdqokoLPuQ4ZjiCLFs-0XdhVTLXKaywbtO7Ybh_zTZM1TKLG5zAiwAdzKqxlhYw0xq40oHWZoLkp8Cgi0GSSm0q1QLBxEdxcsqENvzNmZ94fsmsSxF-t2bs5Pwuz5ucOh0p3m3kw9hnsOoZSpK64Kbe9zjY51PgP2PSiIqApETuxYTp3b7jpKydpRxI_LpN3043QK4_yj37tu5p9U." , HT SPOR
-https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-
-
-
-
-
-
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" tvg-id="Dummy" , Sports TV web
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-id="Dummy" , Tivibu Spor
@@ -294,7 +311,6 @@ http://tv.atomspor.workers.dev/?ID=bein-sports-1
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/ https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivebiraz1.m3u8" , v.Bein Sport 1 Birazcıkspor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/" , v.Bein Sport 1 Birazcıkspor a
-https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
 
 
 
