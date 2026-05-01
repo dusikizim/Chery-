@@ -20,13 +20,14 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK
 https://tavukfelsefesi.lol/static/bs1.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1A
 https://api.codetabs.com/v1/proxy/?quest=https://patatespsikolojisi.lol/static/bs1.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1B
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1C
+https://netspor.tecostream.xyz/bs1.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
@@ -79,6 +80,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 2J
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 2K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 
 
 
@@ -96,22 +99,84 @@ https://german.389c93e126491a.click/live/selcukbeinsports3/playlist.m3u8
 https://agu.77b6de8e471484.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 3F
 https://agu.77b6de8e471484.click/live/sbeinsports-3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 3G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 3H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 3J
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 3K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+
 
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 4A
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports1/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 4B
-https://dga1op10s1u3leo.562958f3179f30.click/live/sbeinsports-1/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/sbeinsports-4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 4C
-https://german.389c93e126491a.click/live/sbeinsports-1/playlist.m3u8
+https://german.389c93e126491a.click/live/sbeinsports-4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 4D
 https://german.389c93e126491a.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 4E
-https://agu.77b6de8e471484.click/live/selcukbeinsports1/playlist.m3u8
+https://agu.77b6de8e471484.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 4F
-https://agu.77b6de8e471484.click/live/sbeinsports-1/playlist.m3u8
+https://agu.77b6de8e471484.click/live/sbeinsports-4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 4G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 4H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 4J
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 4K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
 
+
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5A
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5B
+https://dga1op10s1u3leo.562958f3179f30.click/live/sbeinsports-5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5C
+https://german.389c93e126491a.click/live/sbeinsports-5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5D
+https://german.389c93e126491a.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 6E
+https://agu.77b6de8e471484.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5F
+https://agu.77b6de8e471484.click/live/sbeinsports-5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 6H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5J
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 5K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs5.m3u8
+
+
+
+
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPOR 1A
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 1B
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukts1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 1C
+https://german.389c93e126491a.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 2D
+https://german.389c93e126491a.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 2E
+https://agu.77b6de8e471484.click/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 1F
+https://agu.77b6de8e471484.click/live/sbeinsports-4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 1G
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 1H
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 1J
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:0 type="stream" channelId="641", TİVİBU SPORT 4K
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
 
 
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktivibuspor1/playlist.m3u8
