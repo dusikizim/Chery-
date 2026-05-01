@@ -7,7 +7,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" tvg-id="Dummy" , ASPOR türknet
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.bnsphbr.png" tvg-id="Dummy" , Bein Sports Haber
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
@@ -21,12 +20,12 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 NetSpor
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net
 https://tavukfelsefesi.lol/static/bs1.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 NetSpor
-https://patatespsikolojisi.lol/static/bs1.m3u8
-
-
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net
+https://api.codetabs.com/v1/proxy/?quest=https://patatespsikolojisi.lol/static/bs1.m3u8
+#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net
+https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 
 
@@ -121,106 +120,43 @@ https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
 
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax1/playlist.m3u8
 
-
-
-
-
-
-
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-id="al-nassr---al-ahli21-00" group-title="Spor",Al Nassr - Al Ahli21:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-id="atletico-madrid---arsenal22-00" group-title="Spor",Atletico Madrid - Arsenal22:00
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrt1/playlist.m3u8
-#EXTINF:-1 tvg-id="sporting-lisbon---tondela22-15" group-title="Spor",Sporting Lisbon - Tondela22:15
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktivibuspor1/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1724" group-title="Spor",Bein Sports 17/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2724" group-title="Spor",Bein Sports 27/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports2/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3724" group-title="Spor",Bein Sports 37/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports3/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-4724" group-title="Spor",Bein Sports 47/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports4/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-5724" group-title="Spor",Bein Sports 57/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsports5/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-haber724" group-title="Spor",Bein Sports Haber7/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportshaber/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-max-1724" group-title="Spor",Bein Sports Max 17/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax1/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-max-2724" group-title="Spor",Bein Sports Max 27/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukbeinsportsmax2/playlist.m3u8
-#EXTINF:-1 tvg-id="s-sport724" group-title="Spor",S Sport7/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
-#EXTINF:-1 tvg-id="s-sport-2724" group-title="Spor",S Sport 27/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport2/playlist.m3u8
-#EXTINF:-1 tvg-id="sky-sports-f1724" group-title="Spor",Sky Sports F17/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksf1/playlist.m3u8
-#EXTINF:-1 tvg-id="smart-spor724" group-title="Spor",Smart Spor7/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksmartspor/playlist.m3u8
-#EXTINF:-1 tvg-id="smart-spor-2724" group-title="Spor",Smart Spor 27/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrt1/playlist.m3u8
+
+
+
+
+
+
+
+
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport2/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksf1/playlist.m3u8
+https://dga1op10s1u3leo.562958f3179f30.click/live/selcuksmartspor/playlist.m3u8
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktabiispor1/playlist.m3u8
 
 
 
-
-
-
-
-
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukaspor/playlist.m3u8
-#EXTINF:-1 tvg-id="trt-spor724" group-title="Spor",TRT Spor7/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrtspor/playlist.m3u8
-#EXTINF:-1 tvg-id="trt-spor-2724" group-title="Spor",TRT Spor 27/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrtspor2/playlist.m3u8
-#EXTINF:-1 tvg-id="trt-avaz724" group-title="Spor",TRT Avaz7/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrtavaz/playlist.m3u8
-#EXTINF:-1 tvg-id="trt-1724" group-title="Spor",TRT 17/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktrt1/playlist.m3u8
-#EXTINF:-1 tvg-id="nba-tv724" group-title="Spor",NBA TV7/24
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuknbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport-1724" group-title="Spor",Eurosport 17/24
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
@@ -243,19 +179,22 @@ https://trn03.tulix.tv/gt-tivibuspor2/playlist.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 https://35mumdur.shop/701/index.m3u8?|Referer=https://124dumantv.com/&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 -sports-1" , v.Bein Sport 1 Atomsport
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 -sports-1" , v.Bein Sport 1 Atomsport
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 https://getbroadcast.click/hls/hhx33tWwGEeW/index.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 http://45.11.58.245:25461/live/spor/spor/5.m3u8
+
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8 
 
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 NetSpor b
