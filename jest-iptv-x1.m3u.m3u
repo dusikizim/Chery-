@@ -926,12 +926,7 @@ http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=10778
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=196802&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| EKOTURK ᴴᴰ" group-title="|TR| ✪ HABER",|TR| EKOTURK ᴴᴰ
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=314426&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT WORLD ᵁᴴᴰ" group-title="|TR| ✪ HABER",|TR| TRT WORLD ᵁᴴᴰ
-http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=170670&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  TRT WORLD ᴴᴰ" group-title="|TR| ✪ HABER",|TR|  TRT WORLD ᴴᴰ
-http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=196811&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT WORLD" group-title="|TR| ✪ HABER",|TR| TRT WORLD
-http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=10782&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|TR|  EKOL TV ʜᴅ FHD" group-title="|TR| ✪ HABER",|TR|  EKOL TV ʜᴅ FHD
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=1165404&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR|  EKOL TV ʜᴅ HD" group-title="|TR| ✪ HABER",|TR|  EKOL TV ʜᴅ HD
@@ -946,10 +941,7 @@ http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=11654
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=1165403&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| YOL TV" group-title="|TR| ✪ HABER",|TR| YOL TV
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=185786&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR| A NEWS ᴴᴰ" group-title="|TR| ✪ HABER",|TR| A NEWS ᴴᴰ
-http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=185788&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|TR|  A NEWS ᴴᴰ" group-title="|TR| ✪ HABER",|TR|  A NEWS ᴴᴰ
-http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=196801&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|TR| TRT DIYANET" group-title="|TR| ✪ DIN",|TR| TRT DIYANET
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=10786&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| VAV TV ᴴᴰ" group-title="|TR| ✪ DIN",|TR| VAV TV ᴴᴰ
@@ -958,12 +950,14 @@ http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=31443
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=196861&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| LALEGUL TV" group-title="|TR| ✪ DIN",|TR| LALEGUL TV
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=185789&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|TR| FM TV ᴴᴰ" group-title="|TR| ✪ DIN",|TR| FM TV ᴴᴰ
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=314431&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KUDUS TV" group-title="|TR| ✪ DIN",|TR| KUDUS TV
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=314432&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| REHBER TV" group-title="|TR| ✪ DIN",|TR| REHBER TV
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=314433&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|TR| DOST TV" group-title="|TR| ✪ DIN",|TR| DOST TV
 http://bteg2025.me:80/play/live.php?mac=00%3A1A%3A79%3AD2%3A2B%3A37&stream=314434&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|TR| KABE TV" group-title="|TR| ✪ DIN",|TR| KABE TV
