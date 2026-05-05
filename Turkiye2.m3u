@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1, KURTLAR VADİSİ 
-https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
+
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz A
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz B
