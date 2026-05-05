@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
-#EXTINF:-1, KURTLAR VADİSİ 
-https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
 #EXTINF:-1,TRT 4K A
 http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/4001/index.m3u8
 #EXTINF:-1,TRT 4K B
