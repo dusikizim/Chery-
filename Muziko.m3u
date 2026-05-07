@@ -93,8 +93,7 @@ https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" tvg-id="Dummy" , House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-id="Dummy" , 41.Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-id="Dummy" , 41.MNML
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" tvg-id="Dummy" , 41.Techno Warehouse
@@ -107,20 +106,17 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2500001DO_20240815T004655SQUARE.png" tvg-id="https://jmp2.uk/sam-DE2500001DO.m3u8" , 42.Cool Summer Channel
 https://d1vssasvzkudiq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zdujgjkznl6g0/csts.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 42.Eska Rock Dobrze Rockuje
-https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
+ 
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240918T132255SQUARE.png" tvg-id="https://jmp2.uk/sam-DEAK0500445A.m3u8" , 42.GoldStar TV
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/zoa7AIO.png" tvg-id="LiveMusicReplay.us" , 42.Live Music Replay
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/n7bcrrp.png" tvg-id="MagicTV.bg" , 42.Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-id="Now70s.uk" , 42.Now 70 s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-id="Dummy" , 42.NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-id="https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8" , 42.Now 80 s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-id="Dummy" , 42.NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/GuM4GnX.png" tvg-id="Dummy" , 42.Now Rock
@@ -131,8 +127,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" tvg-id="http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" , 42.retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w553670791.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 42.Retro Music Television
-http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/pyOjdZs.png" tvg-id="Retro Music Television" , 42.Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c8320451943ed08265872510644e800.webp" tvg-id="Dummy" , 42.Retro Music Television
@@ -141,66 +137,51 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/wztO3GM.png" tvg-id="Dummy" , 42.Retro TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 42.Rock TV
-https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png" tvg-id="Dummy" , 42.Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/zEi8eMC.png" tvg-id="VideoTourChannel.cr" , 42.Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" tvg-id="VintageMusic.cr" , 42.Vintage Music
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/Ty7GkoN.png" tvg-id="XPTV1.es" , 42.XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/11/7x-music-Punjabi.jpg" tvg-id="Dummy" , 48.7x
 https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23111/9x-jalwa/logo_20231219_183550_55.png" tvg-id="Dummy" , 48.9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20231219_183644_68.png" tvg-id="Dummy" , 48.9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-id="Dummy" , 48.Balle balle
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23060/balle-balle/logo_20231219_184445_68.png" tvg-id="Dummy" , 48.Balle Balle
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-id="Dummy" , 48.balle balle müzik
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png" tvg-id="Dummy" , 48.BritAsiaTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/22994/haryana-beat/logo_20241127_213000_70.png" tvg-id="Dummy" , 48.Haryana Beat
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="noimage.png" tvg-id="Dummy" , 48.Hindi_hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/KHuKQQL.png" tvg-id="JooMusic.pk" , 48.JooMusic
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23196/punjabi-hits/logo_20241010_204324_70.png" tvg-id="Dummy" , 48.Punjabi Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68.png" tvg-id="Dummy" , 48.Saga Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music-haryanvi/logo_20240322_184612_68.png" tvg-id="Dummy" , 48.Saga Music Haryanvi
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23196/tabbar-hits/logo_20241119_184505_70.png" tvg-id="Dummy" , 48.Tabbar Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/etr1k08.png" tvg-id="VaanavilTV.in" , 48.Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" tvg-id="Dummy" , 48.Yrf music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://aghaniaghani.com/images/logo.png" tvg-id="Dummy" , 50.Aghani Aghani TV
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/yj8RNnG.png" tvg-id="Dummy" , 50.amc
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/sTOoDy1.png" tvg-id="ArabicaTV.lb" , 50.Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/3I1n7fO.png" tvg-id="AvangTV.us" , 50.Avang TV
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23137/m-plus/logo_20231219_215325_35.png" tvg-id="Dummy" , 50.M+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/YteKXJy.png" tvg-id="NavahangTV.fi" , 50.Navahang
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/JkDD3bK.png" tvg-id="Dummy" , 50.Panorama FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/SHxxi5I.png" tvg-id="Dummy" , 50.Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/AbrHI7K.png" tvg-id="Dummy" , 50.PMC
-https://hls.pmchd.live/hls/stream.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/nLtiXNf.png" tvg-id="Wanasah.ae" , 50.Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" tvg-id="51 Radio TV" , 51 Radio TV
@@ -211,8 +192,8 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-id="7SMusic.in@SD" , 7S Music
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-id="7SMusic.in@SD" , 7S Music
-http://202.164.50.194:8000/play/a026/index.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" tvg-id="9XJalwa.in@SD" , 9X Jalwa
 https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/aZ0f85I.png" tvg-id="Dummy" , 9X Jhakaas
@@ -221,8 +202,7 @@ https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" tvg-id="9XM.in@SD" , 9XM
 https://b.jsrdn.com/strm/channels/9xm/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/F17QtN2.png" tvg-id="Dummy" , 9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" tvg-id="A2iMusic.sn" , A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" tvg-id="Dummy" , Abdulmajeed Abdullah
@@ -233,22 +213,20 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/232ndRK.png" tvg-id="Dummy" , Afrobeats TV
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/o6HSfNg.png" tvg-id="Dummy" , Aghani Aghani TV
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" , AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/06zuf64.png" tvg-id="AMusicChannel.ng@SD" , AMusic Channel
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=tu4Zldf1m04
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/06zuf64.png" tvg-id="AMusicChannel.ng" , AMusic Channel
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://a.jsrdn.com/hls/23195/amusic-channel/logo_20241211_003016_70.png" tvg-id="Du" , AMusic Channel
 https://djquy0bt9pvn7.cloudfront.net/d/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg" tvg-id="Dummy" , Area 809 El Original
-https://vdo.voxhdnet.com:3159/stream/play.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/KSxPLJA.png" tvg-id="B4UMusic.in" , B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.imgur.com/zkNUO5p.png" tvg-id="Beats Radio" , Beats Radio
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-id="Dummy" , Biz Music
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/626.jpg" tvg-id="https://www.parsatv.com/thumb.php?src=https://www.parsatv.com/index_files/channels/bizmusic.jpg" , biz müzik
