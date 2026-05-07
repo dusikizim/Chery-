@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1, KURTLAR VADİSİ PUSU
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7694998.jpeg" group-title="Rafadan Tayfa",Rafa pusu
 http://schwarzer-1903.com:8080//live/zonnergsTRR/eTtRAEcSuU/260506.m3u8
-#EXTINF:-1, KURTLAR VADİSİ 
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7694998.jpeg" group-title="Rafadan Tayfa",Rafa vadi 
 http://schwarzer-1903.com:8080//live/zonnergsTRR/eTtRAEcSuU/106606.m3u8
 
 
