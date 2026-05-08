@@ -31,10 +31,10 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1C
 https://netspor.tecostream.xyz/bs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1D
-http://schwarzer-1903.com:8080//live/yasar2821/fTRhtkA/361367.m3u8
+https://netspor.tecostream.xyz/bs11.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
-https://derse.562958f3179f30.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1LOK
+http://look4k.com:8080/live/Alhusseintv/05032026/228365.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1B
 https://derse.562958f3179f30.click/live/sbeinsports-1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1C
@@ -343,10 +343,6 @@ https://dga1op10s1u3leo.562958f3179f30.click/live/selcukeurosport2/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-id="Dummy" , Tivibu Spor
-https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
-EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-id="Dummy" , Tivibu Spor
-https://trn03.tulix.tv/gt-tivibuspor2/playlist.m3u8
 
 
 
@@ -359,9 +355,6 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 -sports-1" , v.Bein Sport 1 Atomsport
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1b
-https://getbroadcast.click/hls/hhx33tWwGEeW/index.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1c
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1d
 http://45.11.58.245:25461/live/spor/spor/5.m3u8
