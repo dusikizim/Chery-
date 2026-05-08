@@ -6,16 +6,11 @@
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-
 #EXTINF:0 type="stream" channelId="641", BEİN HABER
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:0 type="stream" channelId="641", EKOL SPOR
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
-
-
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT 
-https://api.codetabs.com/v1/proxy/?quest=https://ccmoztunnelvpn.global.ssl.fastly.net/checklist/androstreamlivebs1.m3u8
 #EXTINF:0 type="stream" channelId="641", HT SPOR
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:0 type="stream" channelId="641", HT SPOR
