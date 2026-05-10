@@ -1,8 +1,12 @@
 #EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,RİZE TÜRK
-http://lockmovies.moppie.info:8000/movie/ftVulvnpte/hD8CtQ5ntz/8069.mkv
+http://lockmovies.moppie.info:8000/movie/ftVulvnpte/hD8CtQ5ntz/8069.mkv/index.m3u8
 
 #EXTINF:-1 group-title="SİNEMA" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 group-title="SİNEMA" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
+http://lockmovies.moppie.info:8000/movie/ftVulvnpte/hD8CtQ5ntz/8069.mkv
+
 #EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,RİZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema2.tr" tvg-logo="tv logo" ,Komedi SİNEMA 
