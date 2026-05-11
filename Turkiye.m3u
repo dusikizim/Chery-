@@ -43,18 +43,17 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:-1 tvg-id="atv" tvg-logo="https://i.postimg.cc/qMgqhbcQ/1724096099209_ATV.jpg" tvg-name="ATV -A-" group-title="Ulusal",ATV A
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="atvb" tvg-logo="https://i.postimg.cc/qMgqhbcQ/1724096099209_ATV.jpg" tvg-name="ATV -B-" group-title="Ulusal",ATV B
-https://mss.ayakkabiparti.lol/atv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="startv" tvg-logo="https://i.postimg.cc/m2hkzX3p/1724096119020_Star_TV.jpg" tvg-name="Star Tv -A-" group-title="Ulusal",Star Tv A
 https://dygvideo.dygdigital.com/live/hls/startv4puhu
-#EXTINF:-1 tvg-id="startvb" tvg-logo="https://i.postimg.cc/m2hkzX3p/1724096119020_Star_TV.jpg" tvg-name="Star Tv -B-" group-title="Ulusal",Star Tv B
-https://mss.ayakkabiparti.lol/startv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="foxtv" tvg-logo="https://i.postimg.cc/wT3Myf5W/1724096109639_NOW.jpg" tvg-name="Now -A-" group-title="Ulusal",NOW A
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="tv8" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" tvg-name="Tv 8 -A-" group-title="Ulusal",Tv 8 A
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="tv8b" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" tvg-name="Tv 8 -B-" group-title="Ulusal",Tv 8 B
-https://mss.ayakkabiparti.lol/tv8/index.m3u8
+
 #EXTINF:-1 tvg-id="tv8c" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" tvg-name="Tv 8 -C-" group-title="Ulusal",Tv 8 C
 https://cdn.codenet.work/streamgo/stremgo123/4910.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" tvg-name="Tv 8,5 -A-" group-title="Ulusal",Tv 85 -A-
@@ -445,34 +444,8 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="sinemaaile2" tvg-logo="https://img.dsmartgo.com.tr/content/e/Mq/22898/Thumbnail.png" tvg-name="Sinema Aile 2" group-title="Sinema Kanalları",BS ACTION1
-https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="filmscreen" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" tvg-name="Film Screen (Aktif)" group-title="Sinema Kanalları",BS FAMILY
-https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
-#EXTINF:-1 tvg-id="epicdrama" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" tvg-name="Epic Drama (Devre Dışı)" group-title="Sinema Kanalları",BS PREMIER
-https://mss.ayakkabiparti.lol/bspremier1/index.m3u8
-#EXTINF:-1 tvg-id="sinemakomedi2" tvg-logo="https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png" tvg-name="Sinema Komedi 2" group-title="Sinema Kanalları",BS TÜRK
-https://mss.ayakkabiparti.lol/bsturk/index.m3u8
-#EXTINF:-1 tvg-id="fx" tvg-logo="https://img.dsmartgo.com.tr/content/w/Uq/16203/Thumbnail.png" tvg-name="Fx" group-title="Sinema Kanalları",FX TV
-https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="sinemaaile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" tvg-name="Sinema Aile" group-title="Sinema Kanalları",Sinema Aile
-https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png" tvg-name="Sinema Aksiyon" group-title="Sinema Kanalları",Sinema Aksiyon
-https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
-#EXTINF:-1 tvg-id="sinemaaksiyon2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png" tvg-name="Sinema Aksiyon 2" group-title="Sinema Kanalları",Sinema Aksiyon 2
-https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
-#EXTINF:-1 tvg-id="sinemakomedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png" tvg-name="Sinema Komedi" group-title="Sinema Kanalları",Sinema Komedi
-https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="sinematv" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png" tvg-name="Sinema Tv" group-title="Sinema Kanalları",Sinema Tv
-https://mss.ayakkabiparti.lol/sinema/index.m3u8
-#EXTINF:-1 tvg-id="sinematv2" tvg-logo="https://img.dsmartgo.com.tr/content/Y/3N/22904/Thumbnail.png" tvg-name="Sinema Tv 2" group-title="Sinema Kanalları",Sinema Tv 2
-https://mss.ayakkabiparti.lol/sinema2/index.m3u8
-#EXTINF:-1 tvg-id="sinematv1001" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" tvg-name="Sinema Tv 1001" group-title="Sinema Kanalları",Sinema 1001
-https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
-#EXTINF:-1 tvg-id="sinematv1002" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png" tvg-name="Sinema Tv 1002" group-title="Sinema Kanalları",Sinema 1002
-https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
-#EXTINF:-1 tvg-id="sinemayerli" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png" tvg-name="Sinema Yerli (Devre Dışı)" group-title="Sinema Kanalları",Sinema Yerli
-https://mss.ayakkabiparti.lol/sinemayerli2/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",VIYANATV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",SÜPERTÜRK
