@@ -9,6 +9,9 @@ http://vpmaximu.shop:8080/live/lutfikarol/tp89Zz8agL/560883.ts
 #EXTINF:-1, KURTLAR VADİSİ 
 http://vpmaximu.shop:8080/live/lutfikarol/tp89Zz8agL/560890.ts
 
+#EXTINF:-1, TRT ESKİ DİZİLERi
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
 
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , FX TV
 https://saran-live.ercdn.net/fx/index.m3u8
