@@ -1,3 +1,46 @@
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",EZGI  Müzik
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",4Turkpop
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",NR 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",NR 1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",POWER TURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",POWER Turk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Power Turk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Powertürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Slow Karadeniz
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",DREAM Turk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Damar Web
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Arabesk Web
+https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Sıla Tv
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Güclü  Tv
+https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Dost Web
+https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Toppop
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Genc Sms
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Aviva Tv
+https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Finest Tv
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Kanal 6
+https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://prodigits.co.uk/pthumbs/screensavers/down/music/music_nfry24jt.gif" group-title="TR | MÜZIK",Power Türk
