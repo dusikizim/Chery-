@@ -13,6 +13,9 @@ http://vpmaximu.shop:8080/live/lutfikarol/tp89Zz8agL/560890.ts
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 
+#EXTINF:-1, KANALD D DİZİLERİ 
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , FX TV
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , Kanal D Siyah Beyaz Aşk
