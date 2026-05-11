@@ -194,6 +194,18 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",BEİN Max1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",BEİN Max2
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.postimg.cc/KzqTTXBs/In-Shot-20251108-110358718.png" tvg-name="beIN Sport Max 1 HD" group-title="Spor",beIN Max 1 
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.postimg.cc/KzqTTXBs/In-Shot-20251108-110358718.png" tvg-name="beIN Sport Max 2 HD" group-title="Spor",beIN Max 2 
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebsm2.m3u8
+
+
+
 
 #EXTINF:0 type="stream" channelId="641", TİVİBU SPOR 1A
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcuktivibuspor1/playlist.m3u8
@@ -308,6 +320,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 
 
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivess1.m3u8
 
 #EXTINF:0 type="stream" channelId="641", S SPORT 2A
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport2/playlist.m3u8
@@ -330,6 +344,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/and
 #EXTINF:0 type="stream" channelId="641", S SPORT 2K
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport
+https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivess2.m3u8
 
 
 
@@ -422,9 +438,16 @@ https://dga1op10s1u3leo.562958f3179f30.click/live/selcukeurosport2/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Justin Spor" group-title="TR | SPOR JUSTIN",İdman Tv
+https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamliveidm.m3u8
+
+#EXTINF:-1 tvg-id="MedyaHaber." tvg-name="Justin Spor" group-title="TR | SPOR JUSTIN",İdman Tv
+https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamliveidm.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",Billiards
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
 
 
