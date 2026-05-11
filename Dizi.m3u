@@ -12,9 +12,11 @@ http://vpmaximu.shop:8080/live/lutfikarol/tp89Zz8agL/560890.ts
 #EXTINF:-1, TRT ESKİ DİZİLERi
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
+#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/nLcKDkX/ddrama.png" tvg-id="Dummy" , KANALD DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="0.KIL-ULUSAL" tvg-logo="https://i.ibb.co/nLcKDkX/ddrama.png" tvg-id="Dummy" , KanalD Drama
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1, KANALD D DİZİLERİ 
-https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , FX TV
 https://saran-live.ercdn.net/fx/index.m3u8
