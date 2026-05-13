@@ -146,6 +146,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" tvg-id="FİLM SCREEN HD" , Film Screen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" tvg-id="Dummy" , beinmovies action1
 http://65.108.239.207/bsaction1/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" tvg-id="Dummy" , beinmovies box1
@@ -189,40 +191,11 @@ http://65.108.239.207:80/box1/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" tvg-id="Dummy" , BEIN BOX OFFICE 2 HD
 http://65.108.239.207:80/box2/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/beinboxoffice3.png" tvg-id="Dummy" , BEIN BOX OFFICE 3 HD
-http://65.108.239.207:80/box3/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//beinmoviesactionhd.png" tvg-id="Dummy" , BEIN MOVIES ACTION HD
-http://65.108.239.207:80/bsaction1/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//beinmoviesfamilyhd.png" tvg-id="Dummy" , BEIN MOVIES FAMILY HD
-http://65.108.239.207:80/bsfamily/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//beinmoviespremierehd.png" tvg-id="Dummy" , BEIN MOVIES PREMIER HD
-http://65.108.239.207:80/bspremier1/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//beinmoviesstarshd.png" tvg-id="Dummy" , BEIN MOVIES STARS HD
-http://65.108.239.207:80/bsstars/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//beinmoviesturkhd.png" tvg-id="Dummy" , BEIN MOVIES TURK HD
-http://65.108.239.207:80/bsturk/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc//moviesmart.png" tvg-id="Dummy" , MovieSMART
-http://65.108.239.207:80/mvturk/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv1001hd.png" tvg-id="Dummy" , SINEMA TV 1001 HD
-http://65.108.239.207:80/sinema1001/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv1002hd.png" tvg-id="Dummy" , SINEMA TV 1002 HD
-http://65.108.239.207:80/sinema1002/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv.png" tvg-id="Dummy" , SINEMA TV 2 HD
-http://65.108.239.207:80/sinema2/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyon2hd.png" tvg-id="Dummy" , SINEMA TV AKSIYON 2 
-http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
 
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvaksiyonhd.png" tvg-id="Dummy" , SINEMA TV AKSIYON 
-http://65.108.239.207:80/sinemaaksiyon/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvailehd.png" tvg-id="Dummy" , SINEMA TV AILE 
-http://65.108.239.207:80/sinemaaile/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematv.png" tvg-id="Dummy" , SINEMA TV HD
-http://65.108.239.207:80/sinema/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvkomedi.png" tvg-id="Dummy" , SINEMA TV KOMEDI 
-http://65.108.239.207:80/sinemakomedi/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" tvg-id="Dummy" , (1SINEMA TV YERLI 2 
-http://65.108.239.207:80/sinemayerli2/index.m3u8
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/sinematvyerlihd.png" tvg-id="Dummy" , (1SINEMA TV YERLI 
-http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" tvg-id="Dummy" , 00.FİL TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" tvg-id="Dummy" , 00.FİL TV b
