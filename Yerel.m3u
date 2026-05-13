@@ -427,3 +427,54 @@ https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1 group-title="0.KIL-YEREL" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" tvg-id="Dummy" , TON TV ÇANAKKALE
 
+
+
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnycEnNEaLsZSzK7RAMOPKJvdsUwaOmEXmYMAljtT7C5j4I1zV-7b_Y0xC&s=10" group-title="ÖZEL YAYIN",Medine1
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnycEnNEaLsZSzK7RAMOPKJvdsUwaOmEXmYMAljtT7C5j4I1zV-7b_Y0xC&s=10" group-title="ÖZEL YAYIN",Mekke1
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",İlm Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Asri Saadet Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",İslam Tc
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",TARiH TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Aile Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Ztk Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",VAAZ Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Kltr Sanat
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",İslam Tv
+https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Kuranı Kerim
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Sağlıklı Günler
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Dizi Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Müzik Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Chill Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Çocuk Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Asri Şerif
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Belgesel
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Çizgi Film
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Fit Yasa
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",İlahiler
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rbt1nzpSzzk3EROwKWpdvDwWvrRhJOeHAzEZpW7zwtg_xeLEA6vGhAY&s=10" group-title="ÖZEL YAYIN",Mukabele
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
+
+
