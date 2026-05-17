@@ -9,7 +9,7 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6850/index.m3u8
 #EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" tvg-id="DisneyJr.tr" , Disney Jr (saran)
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" tvg-id="Dummy" , Kids TV - Nursery Rhymes and Baby Songs
+#EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" tvg-id="Dummy" , Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 #EXTINF:-1 group-title="05.KIL-ÇOCUK" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" tvg-id="Dummy" , Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
@@ -187,7 +187,7 @@ https://cdn-v.pr.trt.com.tr/trtcocuk/website/c452c1e8-3505-4a07-8e29-927f674b3bc
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/a6271170-6647-4fbd-b8ee-1ba2d583a9bc/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/15440170.jpeg" group-title="Rüzgar Gülü",Rüzgar Gülü - 8 Kasım 2022
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/c8e4c641-c4f2-43b9-a6cb-7827a0911e69/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/15440178_0-0-1917-1080.jpeg" group-title="Rüzgar Gülü",Rüzgar Gülü - 9 Kasım 2022
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/15440178_0-0-1917-1080.jpeg" group-title="Rüzgar Gülü",Rüzgar Gülü 
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/f009ae6a-4e2f-437c-842b-12b636e3d3d0/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/15498607.jpeg" group-title="Rüzgar Gülü",Rüzgar Gülü - 10 Kasım 2022
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/a34fef9f-0968-40a7-b112-f951d181f610/master.m3u8
@@ -465,39 +465,39 @@ https://cdn-v.pr.trt.com.tr/trtcocuk/website/aba5db16-ac1c-4b25-90e1-27a8e7a6276
 trtcocuk/website/35bc8a9b-cbef-47e6-9c18-22ce28e9b887/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/18087715.jpeg" group-title="Maysa ve Bulut",Maysa ve Bulut 114. Bölüm
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/1f02c6f1-daba-43ec-b674-4523eda5b038/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719145.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 1. Bölüm - Zaman Yolcusu
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719145.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  1. Bölüm - Zaman Yolcusu
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/727359c0-e3ab-4063-9162-4f72bd9d3ae0/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719158.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 2. Bölüm - Aslan Terbiyecisi
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719158.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  2. Bölüm - Aslan Terbiyecisi
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/12d25b0a-3798-4020-96e2-e775be12a3e1/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719169.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 3. Bölüm - Evde Bir Başına
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719169.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  3. Bölüm - Evde Bir Başına
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/64408034-07fe-4944-ab48-bf098b92e47a/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719176.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 4
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719176.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  4
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/d851f37d-9c08-494a-a8db-b710e5899d49/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719191.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 5
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719191.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  5
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/c0a525e8-f9b0-48d2-a2da-11ad8f13bcea/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719196.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 6
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719196.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  6
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/534eac3b-2de9-4747-94dd-3a636b4c6a8f/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719198.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 7. Bölüm - Küresel Isınma
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719198.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  7. Bölüm - Küresel Isınma
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/7a0614e8-0851-453f-a861-3f24e61d2de1/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719204.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 8
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/1b68a53b-fae7-4a29-b2bf-af66d6b58e48/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719215.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 10. Bölüm - Kayıp
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719215.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  10. Bölüm - Kayıp
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/079f3772-21cc-49c2-8526-d580251b2e8d/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719222.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 11. Bölüm - İz Peşinde
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719222.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  11. Bölüm - İz Peşinde
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/06fe8fbc-2061-4607-a465-6f1e8feac931/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719227.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 12. Bölüm - Hafıza Kaybı
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719227.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca 12. Bölüm - Hafıza Kaybı
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/20c13ab1-9567-4c44-b1e0-d9d7e34b7184/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719231.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 13. Bölüm - Öteye Giden Yol
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719231.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  13. Bölüm - Öteye Giden Yol
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/2aa02d6d-56c2-40ae-b778-15d24785eec4/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/16746997.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 14. Bölüm - Nasreddin Hoca Araba Kullanmayı Öğreniyor
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/16746997.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Araba Kullanmayı Öğreniyor 14
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/ecc1b990-46d1-42fd-b42f-4c4bf94a37ab/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719236.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 15. Bölüm - Nasreddin Hoca Okuma Yazma Öğreniyor
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719236.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Okuma Yazma Öğreniyor 15
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/151e651b-369d-4793-bd1d-5ab5eb530cc2/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719240.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 16. Bölüm - Sıradışı Sporlar
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719240.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca 16. Bölüm - Sıradışı Sporlar
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/2f4d066c-5773-4705-8afb-fdd1219f84bf/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719248.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 17. Bölüm - Nasreddin Hoca Kamp Yapıyor
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719248.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  17. Bölüm - Nasreddin Hoca Kamp Yapıyor
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/d1c53c49-6154-4e4b-9268-e75f5ec2fb41/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719263.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 18
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/7719263.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  18
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/90f1a760-06af-4b15-be17-801d5d671dd7/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/8196124.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca 19
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/dfe05d6f-763a-494c-b0d5-33ed399586fc/master.m3u8
@@ -517,19 +517,19 @@ https://cdn-v.pr.trt.com.tr/trtcocuk/website/407b3095-6453-4668-89c4-9a7adda0809
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/349893a0-01e2-45a0-8188-4492b7405637/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/8196401.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca 27
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/0cbfb1b8-5d37-452b-9942-cd14dd5440ea/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243305.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 28. Bölüm - Görünmez Adam
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243305.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   28. Bölüm - Görünmez Adam
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/341064c0-e2a1-4d2a-906b-60acfda94fb9/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243324.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 29. Bölüm - Davetsiz Misafir
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243324.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   29. Bölüm - Davetsiz Misafir
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/a6f9466c-ec34-4bff-b0cf-6fb533fac43c/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243327.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 30. Bölüm - Fazla Eşyalar
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243327.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   30. Bölüm - Fazla Eşyalar
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/14c8e1a2-a738-45f3-963e-08779452d2fe/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243342.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 31. Bölüm - Macera Parkı
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243342.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   31. Bölüm - Macera Parkı
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/9d263214-2cc6-45ba-89db-2892e6b24fa5/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243348.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 32. Bölüm - Antikacı
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243348.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   32. Bölüm - Antikacı
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/f798e160-7ddc-41d3-8536-0b55179b39ba/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243355.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 34. Bölüm - Sağlıklı Hayatların Sırrı
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243355.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   34. Bölüm - Sağlıklı Hayatların Sırrı
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/b04a3fd5-f1b5-4905-9dcc-9a10f646bd65/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243659.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca  Zaman Yolcusu 36. Bölüm - İnziva
+#EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243659.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca   36. Bölüm - İnziva
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/e04df24c-24e2-4319-9732-f20b81c50a9b/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtcocuk/13243699.jpeg" group-title="Nasreddin Hoca Zaman Yolcusu",Nasreddin Hoca Zaman Yolcusu 37. Bölüm - Süper Kahraman
 https://cdn-v.pr.trt.com.tr/trtcocuk/website/c24d5ef0-500a-430d-adab-804d319d98d3/master.m3u8
