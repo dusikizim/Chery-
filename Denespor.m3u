@@ -25,10 +25,12 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR B
-https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR C
-https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
+https://trt.daioncdn.net/trtspor/master_1440p.m3u8?app=web
+
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRSPOR 
+http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
+
 
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEİN HABER 
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
