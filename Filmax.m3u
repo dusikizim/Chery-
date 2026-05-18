@@ -1,5 +1,56 @@
 #EXTM3U 
 
+
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" tvg-id="FİLM SCREEN HD" , Film Screen
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" tvg-id="Dummy" , beinmovies action1
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" tvg-id="Dummy" , beinmovies box1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-2-hd-buyuk.png" tvg-id="Dummy" , beinmovies box2
+https://65.108.239.207/box2/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" tvg-id="Dummy" , beinmovies box3
+https://65.108.239.207/box3/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png" tvg-id="Dummy" , beinmovies family
+https://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" tvg-id="Dummy" , (0.beinmovies premier1
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" tvg-id="Dummy" , (0.beinmovies starts
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" tvg-id="Dummy" , (0.beinmovies türk
+http://65.108.239.207/bsturk/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/ZI/13863/Thumbnail.png" tvg-id="Dummy" , moviesmart türk
+http://65.108.239.207/mvturk/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/EU/22897/Thumbnail.png" tvg-id="Dummy" , sinema aile
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/tD/22896/Thumbnail.png" tvg-id="Dummy" , sinema aksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/M/RG/22895/Thumbnail.png" tvg-id="Dummy" , sinema aksiyon2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/9a/22899/Thumbnail.png" tvg-id="Dummy" , sinema komedi
+http://65.108.239.207/sinemakomedi/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/QU/22894/Thumbnail.png" tvg-id="Dummy" , sinema tv
+http://65.108.239.207/sinema/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/3N/22904/Thumbnail.png" tvg-id="Dummy" , sinema tv2
+http://65.108.239.207/sinema2/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838339.png" tvg-id="Dummy" , sinema yerli
+http://65.108.239.207/sinemayerli/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838763.png" tvg-id="Dummy" , sinema yerli2
+http://65.108.239.207/sinemayerli2/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/6y/22901/Thumbnail.png" tvg-id="Dummy" , sinema1001 HD
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/XZ/22902/Thumbnail.png" tvg-id="Dummy" , sinema1002 HD
+http://65.108.239.207/sinema1002/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/beinboxoffice1.png" tvg-id="Dummy" , BEIN BOX OFFICE 1 HD
+http://65.108.239.207:80/box1/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/beinboxoffice2.png" tvg-id="Dummy" , BEIN BOX OFFICE 2 HD
+http://65.108.239.207:80/box2/index.m3u8
+#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://img.logo-cdn.cc/beinboxoffice3.png" tvg-id="Dummy" , BEIN BOX OFFICE 3 HD
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",RIZETÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",PLAYSINEMA
