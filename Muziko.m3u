@@ -180,6 +180,8 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Damar Web
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+
+
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Arabesk Web
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Sıla Tv
@@ -198,6 +200,38 @@ https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Yerli Muzik",Kanal 6
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Arabesk
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Arma
+https://yayin.santraltr.com/hls/arma.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , aviva
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Damar
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Damar
+https://yayin.santraltr.com/hls/damar.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Dost Müzik TV
+https://yayin.santraltr.com/hls/dost.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , ezo tv
+https://yayin.santraltr.com/hls/ezo.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Genç SMS TV
+https://yayin.santraltr.com/hls/genctv.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Kardeş TV
+http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Sıla TV
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Top Pop TV
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , TV SMS
+https://yayin.santraltr.com/hls/tvsms.m3u8
+#EXTINF:-1 group-title="02.KIL-MÜZİK WEB" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" tvg-id="Dummy" , Zeyno TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+
+
+
 
 
 
