@@ -15,7 +15,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:0 type="stream" channelId="641", HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEİN SPOR 1 BRZ
+EXTINF:0 type="stream" channelId="641", BEİN SPOR 1 BRZ
 https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz A
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
@@ -25,10 +25,16 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR C
+
+#EXTINF:0 type="stream" channelId="641", TRT SPOR B
+https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+
+
+#EXTINF:0 type="stream" channelId="641", TRT SPOR C
 https://trt.daioncdn.net/trtspor/master_1440p.m3u8?app=web
 
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRSPOR 
+
+#EXTINF:0 type="stream" channelId="641", TR SPOR 
 http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
 
 
@@ -195,15 +201,14 @@ https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs5.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",BEİN Max1
+EXTINF:0 type="stream" channelId="641",,BEİN Max1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor",BEİN Max2
+EXTINF:0 type="stream" channelId="641",BEİN Max2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
 
-#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.postimg.cc/KzqTTXBs/In-Shot-20251108-110358718.png" tvg-name="beIN Sport Max 1 HD" group-title="Spor",beIN Max 1 
+EXTINF:0 type="stream" channelId="641",beIN Max 1 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.postimg.cc/KzqTTXBs/In-Shot-20251108-110358718.png" tvg-name="beIN Sport Max 2 HD" group-title="Spor",beIN Max 2 
+EXTINF:0 type="stream" channelId="641",beIN Max 2 
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebsm2.m3u8
 
 
@@ -573,7 +578,7 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
 
 #EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://netspor-amp.xyz/logo.png" tvg-id="Dummy" , v.Bein Sport 1 Net b
 https://netspor.tecostream.xyz/bs1.m3u8
-#EXTINF:-1 group-title="0.KIL-SP0R  MAÇ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.pulitv.png" tvg-id="https://pulitv18.live/. https://nxn5.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/" , v.Bein Sport 1 Pulibet
+EXTINF:0 type="stream" channelId="641", v.Bein Sport 1 Pulibet
 https://nxn12.xyz/cdn/bein-sports-1.css?|Referer=https://pulitv18.live/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 
