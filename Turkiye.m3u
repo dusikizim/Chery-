@@ -48,8 +48,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="tv8" tvg-logo="https://i.postimg.cc/HsjncZ0P/1724096128670_TV_8.jpg" tvg-name="Tv 8 -A-" group-title="Ulusal",Tv 8 A
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" tvg-name="Tv 8,5 -A-" group-title="Ulusal",Tv 85 -A-
+#EXTINF:-1 tvg-id="foxtv" tvg-logo="https://i.postimg.cc/wT3Myf5W/1724096109639_NOW.jpg" tvg-name="Now -A-" group-title="Ulusal",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yc6g3Xm/tivimivi_5.jpg" group-title="Ulusal",Tv 85 -B-
