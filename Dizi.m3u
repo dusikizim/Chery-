@@ -11,6 +11,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1, KANALD ESKİ DİZİLERi
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" tvg-id="Dummy" , FX TV
