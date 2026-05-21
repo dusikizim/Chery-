@@ -10,7 +10,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo Wild
-https://saran-live.ercdn.net/natgeowild/index.m3u8?checkedby:MyWay
+https://saran-live.ercdn.net/natgeowild/index.m3u8?&token=ravenclaw|?_HLS_skip=YES
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo  
 https://saran-live.ercdn.net/natgeo/index.m3u8
 
