@@ -9,6 +9,9 @@ http://storetvip.shop:8080/live/nr3060/8dYLC4NZLakD/560890.ts
 #EXTINF:-1, KURTLAR VADİSİ B
 http://electranextssp.xyz:8080//live/zonnergsTRR/eTtRAEcSuU/106606.m3u8
 
+#EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yeraltı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
+
 #EXTINF:-1, TRT ESKİ DİZİLERi
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
@@ -160,8 +163,6 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yabani.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
 #EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM1N2ZiYzQtZWM1OC00NDQyLTk5ZTgtZTI0YmM0ZDgyMjBkXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yalı Çapkını
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-#EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yeraltı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
 #EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhY2Y5MjktZGUzOC00NzkyLWJiYWItZTEzMGZjNGFjMmQyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
