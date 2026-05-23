@@ -2,13 +2,20 @@
 
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",TRT 1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
 
 
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",TRT 1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8?&token=ravenclaw|?_HLS_skip=YES
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z5Vq41N/sLVc4UA.png" group-title="🇹🇷͜͜͡͡✯ 𝖡𝖤𝖫𝖦𝖤𝖲𝖤𝖫",Nat Geo  
