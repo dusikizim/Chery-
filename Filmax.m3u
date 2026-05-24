@@ -1,5 +1,14 @@
 #EXTM3U 
 
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" , YEŞİLÇAM TV
+https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" , SPORMAX KORKU
+https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,SPORMAX KORKU B
+https://catcast.ismailturret.workers.dev/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,SPORMAX DAĞ 
+https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
+
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" tvg-id="Dummy" , 00.FİL TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" tvg-id="Dummy" , 00.FİL TV b
