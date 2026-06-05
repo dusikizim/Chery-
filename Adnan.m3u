@@ -1,23 +1,20 @@
-#EXTM3U 
-
-
 #EXTM3U
 
 # Ulusal Kanallar
 #EXTINF:-1 tvg-id="KANAL D.tr" tvg-name="Kanal D" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/a/-p/245931/logo.png?v=638804938239723164" group-title="Ulusal",Kanal D
-http://104.238.23.191/dsgo.php?id=245931
+http://104.238.23.191/dsgo.php?id=245931/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2.tr" tvg-name="TV2" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/WE/245991/logo.png?v=639029456898926668" group-title="Ulusal",TV2
-http://104.238.23.191/dsgo.php?id=245991
+http://104.238.23.191/dsgo.php?id=245991/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-name="Show TV" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/rT/245949/logo.png?v=638671713564122216" group-title="Ulusal",Show TV
-http://104.238.23.191/dsgo.php?id=245949
+http://104.238.23.191/dsgo.php?id=245949/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STAR TV.tr" tvg-name="STAR" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/Y/Sk/245994/logo.png?v=638671713931288249" group-title="Ulusal",STAR
-http://104.238.23.191/dsgo.php?id=245994
+http://104.238.23.191/dsgo.php?id=245994/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/Js/246030/logo.png?v=638671714237086283" group-title="Ulusal",ATV
-http://104.238.23.191/dsgo.php?id=246030
+http://104.238.23.191/dsgo.php?id=246030/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT 1.tr" tvg-name="TRT 1.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png?v=638671713518783129" group-title="Ulusal",TRT 1
 http://104.238.23.191/dsgo.php?id=245943
