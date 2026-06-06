@@ -1,20 +1,23 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",deneme 1
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых", PLAYBOY 1
 http://45.136.153.199:80/PlayboyHD/mono.m3u8
 
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",DORCEL 1
 http://45.136.153.199:80/DorcelHD/mono.m3u8
-
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",BANGU 1
 http://45.136.153.199:80/BangU/mono.m3u8
-
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",KİNG 1
 http://45.136.153.199:80/RealityKings/mono.m3u8
-
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",BABES 1
 http://45.136.153.199:80/BabesTV/mono.m3u8
-
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",FRENC LOVER
 http://45.136.153.199:80/FrenchLover/mono.m3u8
-
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",PRIVATE
 http://45.136.153.199:80/Private/mono.m3u8
+
+http://193.239.186.231/BRAZZERS/index.m3u8
 
 
 
