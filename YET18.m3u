@@ -7,6 +7,15 @@ http://45.136.153.199:80/PlayboyHD/mono.m3u8
 #EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",deneme 2
 http://143.244.63.87/pinkerotic2/index.m3u8
 
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",deneme 3
+http://85.14.32.26:8800/udp/239.100.10.90:5000
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",deneme 4
+http://85.14.32.26:8800/udp/239.100.10.88:5000
+#EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых",deneme 5
+http://85.14.32.26:8800/udp/239.100.10.58:5000
+
+
+
 #EXTINF:-1 tvg-id="São.Paulo/SP..Playboy.HD.br" tvg-name="PLAYBOY" tvg-logo="http://cdn38246.radiogaucha.net:80/images/iwClsyEYp1MDvO7dYNmnsTspFcK1FNj7aean7LP-kgW9fqS6guU0VD3X3oiITys2.png"  XXX (+18)",PENTHOUSE
 https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
 
