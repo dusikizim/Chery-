@@ -1,268 +1,127 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912483&extension=ts&play_token=6fJfrDMjAf
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912483&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/916657.png" group-title="TR| TURKIYE",TR| TRT 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=916657&extension=ts&play_token=5IEWZ4Fbtd
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=916657&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912481.png" group-title="TR| TURKIYE",TR| TRT 1 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912481&extension=m3u8&play_token=h459q3p4cQ
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912481&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912457.png" group-title="TR| TURKIYE",TR| TRT 1 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912457&extension=m3u8&play_token=26T3CpvREv
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912457&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912480.png" group-title="TR| TURKIYE",TR| TRT 2 4K
-
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912480&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912456.png" group-title="TR| TURKIYE",TR| TRT 2 HD
-
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912456&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912479.png" group-title="TR| TURKIYE",TR| ATV 4K
-
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912479&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912455.png" group-title="TR| TURKIYE",TR| ATV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912455&extension=ts&play_token=ySDuKzG4a8
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912455&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912478.png" group-title="TR| TURKIYE",TR| KANAL D 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912478&extension=ts&play_token=ietzYJPtv9
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912478&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912454.png" group-title="TR| TURKIYE",TR| KANAL D HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912454&extension=ts&play_token=6qG8OWs5Wu
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912454&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912477.png" group-title="TR| TURKIYE",TR| STAR TV 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912477&extension=ts&play_token=zdpXYpciAx
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912477&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912453.png" group-title="TR| TURKIYE",TR| STAR TV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912453&extension=ts&play_token=CdueclmXZF
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912453&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912476.png" group-title="TR| TURKIYE",TR| TV 8 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912476&extension=ts&play_token=HnZT063cN8
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912476&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912451.png" group-title="TR| TURKIYE",TR| TV 8 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912451&extension=ts&play_token=P1psH5IWVb
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912451&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912475.png" group-title="TR| TURKIYE",TR| SHOW TV 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912475&extension=ts&play_token=1T6MiaWtG8
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912475&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912452.png" group-title="TR| TURKIYE",TR| SHOW TV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912452&extension=ts&play_token=ysoK4TIXgV
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912452&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912474.png" group-title="TR| TURKIYE",TR| NOW TV 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912474&extension=ts&play_token=xH98AIUJ6j
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912474&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912449.png" group-title="TR| TURKIYE",TR| NOW HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912449&extension=ts&play_token=Uv62uFeSH0
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912449&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1603686.png" group-title="TR| TURKIYE",TR| TRT WORLD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1603686&extension=ts&play_token=XdOPppz7FH
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1603686&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912473.png" group-title="TR| TURKIYE",TR| TV 8 INT 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912473&extension=ts&play_token=ckKzqPng2E
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912473&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912472.png" group-title="TR| TURKIYE",TR| TV 8.5 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912472&extension=ts&play_token=RwuIz1v1nB
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912472&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912450.png" group-title="TR| TURKIYE",TR| TV 8.5 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912450&extension=ts&play_token=PmwJxxJCFz
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912450&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912471.png" group-title="TR| TURKIYE",TR| TEVE 2 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912471&extension=ts&play_token=EedQcYBcx5
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912471&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1484841.png" group-title="TR| TURKIYE",TR| TEVE 2 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1484841&extension=ts&play_token=wiytXEFPHC
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1484841&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912470.png" group-title="TR| TURKIYE",TR| KANAL 7 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912470&extension=ts&play_token=CG9J7t3YkO
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912470&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912448.png" group-title="TR| TURKIYE",TR| KANAL 7 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912448&extension=ts&play_token=63Sv4fxzwV
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912448&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912469.png" group-title="TR| TURKIYE",TR| BEYAZ TV 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912469&extension=ts&play_token=74YQkm1kP8
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912469&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912447.png" group-title="TR| TURKIYE",TR| BEYAZ TV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912447&extension=ts&play_token=orUUvNh5uB
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912447&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912468.png" group-title="TR| TURKIYE",TR| A2 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912468&extension=ts&play_token=QxGSxgWbRQ
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912468&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912444.png" group-title="TR| TURKIYE",TR| A2 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912444&extension=ts&play_token=2n67CiA6Av
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912444&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912467.png" group-title="TR| TURKIYE",TR| KANAL 360 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912467&extension=ts&play_token=kuPJB5UPxG
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912467&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1484868.png" group-title="TR| TURKIYE",TR| KANAL 360 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1484868&extension=ts&play_token=arl3UcQnPE
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1484868&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912443.png" group-title="TR| TURKIYE",TR| 360 TV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912443&extension=ts&play_token=mQbLPAXiPt
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912443&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913463.png" group-title="TR| TURKIYE",TR| FLASH 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=913463&extension=ts&play_token=zVPi7PBwF7
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=913463&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912446.png" group-title="TR| TURKIYE",TR| TRT AVAZ HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912446&extension=ts&play_token=WYjm2Ema73
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912446&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912445.png" group-title="TR| TURKIYE",TR| TRT TURK HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912445&extension=ts&play_token=5jKHnZjsBm
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912445&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912442.png" group-title="TR| TURKIYE",TR| TV 4 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912442&extension=ts&play_token=W5yDe5nrRH
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912442&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912441.png" group-title="TR| TURKIYE",TR| TURKMENELI TV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912441&extension=ts&play_token=n6wMm27HCm
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912441&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR| AVRUPA & YEREL",##### TR AYRUPA 4K #####
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912466&extension=ts&play_token=33hf8W9aLm
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912465.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 7 AVRUPA 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912465&extension=ts&play_token=YnGk1y0ImD
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912464.png" group-title="TR| AVRUPA & YEREL",TR| ATV AVRUPA 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912464&extension=ts&play_token=8PjRd51Dax
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912463.png" group-title="TR| AVRUPA & YEREL",TR| EURO STAR 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912463&extension=ts&play_token=UnJjKOjUTT
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912462.png" group-title="TR| AVRUPA & YEREL",TR| EURO D 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912462&extension=ts&play_token=3iz7O2M9dS
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912461.png" group-title="TR| AVRUPA & YEREL",TR| SHOW TURK
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912461&extension=ts&play_token=EhnNCQczDH
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912460.png" group-title="TR| AVRUPA & YEREL",TR| SHOW MAX 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912460&extension=ts&play_token=eYxg7pw1Od
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912459.png" group-title="TR| AVRUPA & YEREL",TR| KANAL AVRUPA 4K
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912459&extension=ts&play_token=DqXo2crEeB
-#EXTINF:-1 tvg-logo="" group-title="TR| AVRUPA & YEREL",##### TR YEREL #####
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912838&extension=ts&play_token=jF2rZxfbL0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/912836.png" group-title="TR| AVRUPA & YEREL",TR| AKSU TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912836&extension=ts&play_token=y1bgefQEyf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| PAMUKKALE TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912831&extension=ts&play_token=7D79gab5T6
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912826.png" group-title="TR| AVRUPA & YEREL",TR| TEMPO TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912826&extension=ts&play_token=vtVq8jLDQ2
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912825.png" group-title="TR| AVRUPA & YEREL",TR| RUMELI TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912825&extension=ts&play_token=gC16rFcn7P
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912824.png" group-title="TR| AVRUPA & YEREL",TR| TV 41
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912824&extension=ts&play_token=uzBnxjNxSd
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912823.png" group-title="TR| AVRUPA & YEREL",TR| ORDU ALTAS TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912823&extension=ts&play_token=jiTs7KeFMB
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912822.png" group-title="TR| AVRUPA & YEREL",TR| TV 52 ORDU
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912822&extension=ts&play_token=5PjfBvVXNR
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912821.png" group-title="TR| AVRUPA & YEREL",TR| CAY TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912821&extension=ts&play_token=gRWIjyeSce
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912820.png" group-title="TR| AVRUPA & YEREL",TR| KADIRGA TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912820&extension=ts&play_token=z1tTAU1cgO
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912819.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 32
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912819&extension=ts&play_token=FvDkx9h1Y7
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912818.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 15
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912818&extension=ts&play_token=JvdjjVkNVg
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912816.png" group-title="TR| AVRUPA & YEREL",TR| ANADOLU VUSLAT
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912816&extension=ts&play_token=OR7xJY2zBO
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912815.png" group-title="TR| AVRUPA & YEREL",TR| VIZYON 58
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912815&extension=ts&play_token=gG8UQVq7Y0
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912814.png" group-title="TR| AVRUPA & YEREL",TR| TV DEN
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912814&extension=ts&play_token=ukrONvAtko
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912813.png" group-title="TR| AVRUPA & YEREL",TR| GRT TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912813&extension=ts&play_token=b6HYp8RpCN
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912812.png" group-title="TR| AVRUPA & YEREL",TR| TV NET HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912812&extension=ts&play_token=EfgaBrAUWE
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912811.png" group-title="TR| AVRUPA & YEREL",TR| TV 1
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912811&extension=ts&play_token=BsqNww7L1K
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912810.png" group-title="TR| AVRUPA & YEREL",TR| SAT7 TURK
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912810&extension=ts&play_token=z66UVS3h6F
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912810&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912809.png" group-title="TR| AVRUPA & YEREL",TR| KOY TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912809&extension=ts&play_token=0zNczP2hbI
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912809&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912808.png" group-title="TR| AVRUPA & YEREL",TR| KON TV HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912808&extension=ts&play_token=SowNQ8MQZD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912808&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912807.png" group-title="TR| AVRUPA & YEREL",TR| KENT TURK
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912807&extension=ts&play_token=CuFlZ2Msqy
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912807&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912806.png" group-title="TR| AVRUPA & YEREL",TR| KAYSERI TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912806&extension=ts&play_token=HFGx5X8L4e
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912806&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912805.png" group-title="TR| AVRUPA & YEREL",TR| KANAL V
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912805&extension=ts&play_token=98ms2eFx58
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912805&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912804.png" group-title="TR| AVRUPA & YEREL",TR| KANAL URFA
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912804&extension=ts&play_token=sNT82duWqt
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912804&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912803.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 68
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912803&extension=ts&play_token=M8AAldYNW9
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912803&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912799.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 33
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912799&extension=ts&play_token=huzWeD4TAg
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912799&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912798.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 3
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912798&extension=ts&play_token=nPNZxoqq4s
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912798&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912797.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 26
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912797&extension=ts&play_token=7h0SAPRtcY
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912797&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912795.png" group-title="TR| AVRUPA & YEREL",TR| KANAL 23
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912795&extension=ts&play_token=I0nokxr0ky
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912795&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912793.png" group-title="TR| AVRUPA & YEREL",TR| HRT AKDENIZ
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912793&extension=ts&play_token=z9FM0VqPOk
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912793&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912792.png" group-title="TR| AVRUPA & YEREL",TR| GUNEYDOGU TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912792&extension=ts&play_token=Lzc07wVQ1V
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912792&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1123597.png" group-title="TR| AVRUPA & YEREL",TR| BRT 1 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1123597&extension=ts&play_token=sIkcRJ3Yh0
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1123597&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1123596.png" group-title="TR| AVRUPA & YEREL",TR| BRT 2 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1123596&extension=ts&play_token=TAbDbpQ0Nc
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1123596&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1123595.png" group-title="TR| AVRUPA & YEREL",TR| BRT 3 HD
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1123595&extension=ts&play_token=wHCbBwuKXV
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=1123595&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912837.png" group-title="TR| AVRUPA & YEREL",TR| MAVI KARADENIZ
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912837&extension=ts&play_token=T1LqHmWUTG
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912837&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912791.png" group-title="TR| AVRUPA & YEREL",TR| FIRAT TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912791&extension=ts&play_token=G00GyuHU3t
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912791&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912790.png" group-title="TR| AVRUPA & YEREL",TR| ES TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912790&extension=ts&play_token=5KZqENMxEN
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912790&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912789.png" group-title="TR| AVRUPA & YEREL",TR| ER TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912789&extension=ts&play_token=zhGlbPnypB
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912789&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912788.png" group-title="TR| AVRUPA & YEREL",TR| EDESSA TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912788&extension=ts&play_token=2NYXYPj7Cn
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912788&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912785.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL SIRINLER
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912785&extension=ts&play_token=sVQOJhxqvd
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912785&extension=m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FLAG-TURKEY.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL RAFADAN TAYFA
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912784&extension=ts&play_token=HhzCoTQkid
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912784&extension=m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912783.png" group-title="TR| AVRUPA & YEREL",TR| METROPOL PEPE TV
-
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912783&extension=ts&play_token=3ldHMaBOj
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:B3:F3:8E&stream=912783&extension=m3u8
