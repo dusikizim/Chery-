@@ -1,5 +1,35 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+http://45.136.153.199:80/Hustler/mono.m3u8
+#EXTINF:-1,Dorcel HD
+http://45.136.153.199:80/DorcelHD/mono.m3u8
+#EXTINF:-1,Playboy HD
+http://45.136.153.199:80/PlayboyHD/mono.m3u8
+#EXTINF:-1,Private HD
+http://45.136.153.199:80/Private/mono.m3u8
+#EXTINF:-1,Pink Erotic 1 HD
+http://45.136.153.199:80/PinkErotic1/mono.m3u8
+#EXTINF:-1,Pink Erotic 2 HD
+http://45.136.153.199:80/PinkErotic2/mono.m3u8
+#EXTINF:-1,Pink Erotic 3 HD
+http://45.136.153.199:80/PinkErotic3/mono.m3u8
+#EXTINF:-1,Pink Erotic 4 HD
+http://45.136.153.199:80/PinkErotic4/mono.m3u8
+#EXTINF:-1,Pink Erotic 5 HD
+http://45.136.153.199:80/PinkErotic5/mono.m3u8
+#EXTINF:-1,Pink Erotic 6 HD
+http://45.136.153.199:80/PinkErotic6/mono.m3u8
+#EXTINF:-1,Pink Erotic 7 HD
+http://45.136.153.199:80/PinkErotic7/mono.m3u8
+#EXTINF:-1,FrenchLover HD
+http://45.136.153.199:80/FrenchLover/mono.m3u8
+#EXTINF:-1,Babes TV
+http://45.136.153.199:80/BabesTV/mono.m3u8
+#EXTINF:-1,Reality Kings
+http://45.136.153.199:80/RealityKings/mono.m3u8
+#EXTINF:-1,BangU
+http://45.136.153.199:80/BangU/mono.m3u8
+
 
 #EXTINF:0 tvg-name="PassionXXX Milf" group-title="Для взрослых", PLAYBOY 1
 http://45.136.153.199:80/PlayboyHD/mono.m3u8
