@@ -23,48 +23,8 @@ http://46.32.176.50/muztvaz/index.m3u8
 #EXTINF:-1,tmb
 http://46.32.176.50/tmb/index.m3u8
 
-#EXTINF:-1,rusong
-http://46.32.176.50/rusong/index.m3u8
-#EXTINF:-1,tlc HD
-http://46.32.176.50/tlc/index.m3u8
-#EXTINF:-1,realtv HD
-http://46.32.176.50/realtv/index.m3u8
-#EXTINF:-1,sonyscifi
-http://46.32.176.50/sonyscifi/index.m3u8
-#EXTINF:-1,solnce
-http://46.32.176.50/solnce/index.m3u8
-#EXTINF:-1,mmatv
-http://46.32.176.50/mmatv/index.m3u8
-#EXTINF:-1,NatGeoWild HD
-http://46.32.176.50/NatGeoWildHD/index.m3u8
-#EXTINF:-1,NatGeoWild HD
-http://46.32.176.50/natgeowild/playlist.m3u8
-#EXTINF:-1,HistoryHD
-http://46.32.176.50/HistoryHD/index.m3u8
-#EXTINF:-1,ce
-http://46.32.176.50/ce/index.m3u8
-#EXTINF:-1,ntvplus
-http://46.32.176.50/ntvplus/index.m3u8
-#EXTINF:-1,mcmtop
-http://46.32.176.50/mcmtop/index.m3u8
-#EXTINF:-1,paramountchannel
-http://46.32.176.50/paramountchannel/index.m3u8
-#EXTINF:-1,subbota
-http://46.32.176.50/subbota/index.m3u8
-#EXTINF:-1,detskiymir HD
-http://46.32.176.50/detskiymir/index.m3u8
-#EXTINF:-1,europaplus
-http://46.32.176.50/europaplus/index.m3u8
-#EXTINF:-1,eurosport
-http://46.32.176.50/eurosport/index.m3u8
-#EXTINF:-1,eurosport2
-http://46.32.176.50/eurosport2/index.m3u8
-#EXTINF:-1,Vremya
-http://46.32.176.50/Vremya/index.m3u8
-#EXTINF:-1,zvezda
-http://46.32.176.50/zvezda/index.m3u8
-#EXTINF:-1,jivi
-http://46.32.176.50/jivi/index.m3u8
+
+
 
 
 
@@ -226,3 +186,46 @@ http://46.32.176.50/tnt/index.m3u8
 http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1,bridgetv
 http://46.32.176.50/bridgetv/index.m3u8
+#EXTINF:-1,rusong
+http://46.32.176.50/rusong/index.m3u8
+#EXTINF:-1,tlc HD
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1,realtv HD
+http://46.32.176.50/realtv/index.m3u8
+#EXTINF:-1,sonyscifi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1,solnce
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1,mmatv
+http://46.32.176.50/mmatv/index.m3u8
+#EXTINF:-1,NatGeoWild HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1,NatGeoWild HD
+http://46.32.176.50/natgeowild/playlist.m3u8
+#EXTINF:-1,HistoryHD
+http://46.32.176.50/HistoryHD/index.m3u8
+#EXTINF:-1,ce
+http://46.32.176.50/ce/index.m3u8
+#EXTINF:-1,ntvplus
+http://46.32.176.50/ntvplus/index.m3u8
+#EXTINF:-1,mcmtop
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1,paramountchannel
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1,subbota
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1,detskiymir HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1,europaplus
+http://46.32.176.50/europaplus/index.m3u8
+#EXTINF:-1,eurosport
+http://46.32.176.50/eurosport/index.m3u8
+#EXTINF:-1,eurosport2
+http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1,Vremya
+http://46.32.176.50/Vremya/index.m3u8
+#EXTINF:-1,zvezda
+http://46.32.176.50/zvezda/index.m3u8
+#EXTINF:-1,jivi
+http://46.32.176.50/jivi/index.m3u8
+
