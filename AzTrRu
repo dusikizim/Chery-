@@ -1,0 +1,228 @@
+#EXTM3U
+
+#EXTINF:-1,aztv HD
+http://46.32.176.50/aztv/index.m3u8
+#EXTINF:1,Space TV HD
+http://46.32.176.50/spacetv/index.m3u8
+#EXTINF:-1,medeniyyet HD
+http://46.32.176.50/medeniyyet/index.m3u8
+#EXTINF:-1,arb24 HD
+http://46.32.176.50/arb24/index.m3u8
+#EXTINF:-1,arb HD
+http://46.32.176.50/arb/index.m3u8
+#EXTINF:-1,cbc HD
+http://46.32.176.50/cbc/index.m3u8
+#EXTINF:1,İdman sport HD
+http://46.32.176.50/idmanaz/index.m3u8
+#EXTINF:-1,cbc sport HD
+http://46.32.176.50/cbcsporthd/index.m3u8
+#EXTINF:-1,azadazerbaycan HD
+http://46.32.176.50/azadazerbaycanhd/index.m3u8
+#EXTINF:1,17.Muz TV HD az
+http://46.32.176.50/muztvaz/index.m3u8
+#EXTINF:-1,tmb
+http://46.32.176.50/tmb/index.m3u8
+
+#EXTINF:-1,rusong
+http://46.32.176.50/rusong/index.m3u8
+#EXTINF:-1,tlc HD
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1,realtv HD
+http://46.32.176.50/realtv/index.m3u8
+#EXTINF:-1,sonyscifi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1,solnce
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1,mmatv
+http://46.32.176.50/mmatv/index.m3u8
+#EXTINF:-1,NatGeoWild HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1,NatGeoWild HD
+http://46.32.176.50/natgeowild/playlist.m3u8
+#EXTINF:-1,HistoryHD
+http://46.32.176.50/HistoryHD/index.m3u8
+#EXTINF:-1,ce
+http://46.32.176.50/ce/index.m3u8
+#EXTINF:-1,ntvplus
+http://46.32.176.50/ntvplus/index.m3u8
+#EXTINF:-1,mcmtop
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1,paramountchannel
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1,subbota
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1,detskiymir HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1,europaplus
+http://46.32.176.50/europaplus/index.m3u8
+#EXTINF:-1,eurosport
+http://46.32.176.50/eurosport/index.m3u8
+#EXTINF:-1,eurosport2
+http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1,Vremya
+http://46.32.176.50/Vremya/index.m3u8
+#EXTINF:-1,zvezda
+http://46.32.176.50/zvezda/index.m3u8
+#EXTINF:-1,jivi
+http://46.32.176.50/jivi/index.m3u8
+
+
+
+#EXTINF:-1,trt1 HD
+http://46.32.176.50/trt1/index.m3u8
+#EXTINF:-1,trthaber HD
+http://46.32.176.50/trthaber/index.m3u8
+#EXTINF:-1,trtturk HD
+http://46.32.176.50/trtturk/index.m3u8
+#EXTINF:-1,trtavaz HD
+http://46.32.176.50/trtavaz/index.m3u8
+#EXTINF:-1,trtbelgesel HD
+http://46.32.176.50/trtbelgesel/index.m3u8
+#EXTINF:-1,trtcocuk HD
+http://46.32.176.50/trtcocuk/index.m3u8
+#EXTINF:-1,kanald HD
+http://46.32.176.50/kanald/index.m3u8
+#EXTINF:-1,startv HD
+http://46.32.176.50/startv/index.m3u8
+#EXTINF:-1,showtv HD
+http://46.32.176.50/showtv/index.m3u8
+#EXTINF:-1,atv HD
+http://46.32.176.50/atvhd/index.m3u8
+#EXTINF:-1,TV8 HD
+http://46.32.176.50/tv8hd/playlist.m3u8
+#EXTINF:-1,TV8
+http://46.32.176.50/tv8/playlist.m3u8
+#EXTINF:-1,now tv HD
+http://46.32.176.50/nowtv/index.m3u8
+#EXTINF:-1,teve2 HD
+http://46.32.176.50/teve2/index.m3u8
+#EXTINF:-1,Kanal7HD
+http://46.32.176.50/Kanal7HD/index.m3u8
+#EXTINF:-1,kanal7 HD
+http://46.32.176.50/kanal7/index.m3u8
+#EXTINF:,360TV HD tr
+http://46.32.176.50/360TV/index.m3u8
+#EXTINF:1,tlcturk tr
+http://46.32.176.50/tlcturk/index.m3u8
+#EXTINF:-1,dmax HD
+http://46.32.176.50/dmax/playlist.m3u8
+#EXTINF:-1,cnnturk
+http://46.32.176.50/cnnturk/playlist.m3u8
+#EXTINF:-1,haberturk
+http://46.32.176.50/haberturk/playlist.m3u8
+#EXTINF:-1,haberglobal
+http://46.32.176.50/haberglobal/playlist.m3u8
+#EXTINF:-1,ahaber HD
+http://46.32.176.50/ahaber/playlist.m3u8
+#EXTINF:-1,trtspor HD
+http://46.32.176.50/trtspor/index.m3u8
+#EXTINF:-1,aspor HD
+http://46.32.176.50/aspor/index.m3u8
+#EXTINF:-1,atvturk
+http://46.32.176.50/atvturk/index.m3u8
+#EXTINF:1,TV8 Int
+http://46.32.176.50/tv8int/index.m3u8
+#EXTINF:1,TempoTv
+http://46.32.176.50/tempotv/index.m3u8
+#EXTINF:,NTV HD tr
+http://46.32.176.50/ntvturk/index.m3u8
+#EXTINF:1,Cartoon Network tr
+http://46.32.176.50/cartoonnetworkturk/index.m3u8
+#EXTINF:1,Minika go tr
+http://46.32.176.50/minikago/index.m3u8
+
+
+
+#EXTINF:-1,kinoseria HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1,France24HD
+http://46.32.176.50/France24HD/index.m3u8
+#EXTINF:-1,mama
+http://46.32.176.50/mama/index.m3u8
+#EXTINF:-1,kinokomedia
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1,discoverychannel HD
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1,nationalgeographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1,kinosvidanie
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1,detskiy
+http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1,dikiy
+http://46.32.176.50/dikiy/index.m3u8
+#EXTINF:-1,OTR
+http://46.32.176.50/OTR/index.m3u8
+#EXTINF:-1,AmediaPremium
+http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1,vh1classic
+http://46.32.176.50/vh1classic/index.m3u8
+#EXTINF:-1,stv
+http://46.32.176.50/stv/index.m3u8
+#EXTINF:-1,lubimoekino
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1,rodnoekino
+http://46.32.176.50/rodnoekino/index.m3u8
+#EXTINF:-1,russkiydetektiv
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1,mult
+http://46.32.176.50/mult/index.m3u8
+#EXTINF:-1,amediahit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1,tv21
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1,nst
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1,sonyturbo
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1,bbcworld
+http://46.32.176.50/bbcworld/index.m3u8
+#EXTINF:-1,rtrplaneta
+http://46.32.176.50/rtrplaneta/index.m3u8
+#EXTINF:-1,foxlife
+http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1,foxrussia
+http://46.32.176.50/foxrussia/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,VIPPremiereHD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1,russkiyroman
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1,viasatnature
+http://46.32.176.50/viasatnature/index.m3u8
+#EXTINF:-1,viasatsport
+http://46.32.176.50/viasatsport/index.m3u8
+#EXTINF:-1,viasathistory
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1,animalplanet
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:-1,istoriya
+http://46.32.176.50/istoriya/index.m3u8
+#EXTINF:-1,MatchArenaHD
+http://46.32.176.50/MatchArenaHD/index.m3u8
+#EXTINF:-1,matchtv
+http://46.32.176.50/matchtv/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://46.32.176.50/extremesport/index.m3u8
+#EXTINF:-1,2x2
+http://46.32.176.50/2x2/index.m3u8
+#EXTINF:-1,perviy HD
+http://46.32.176.50/perviy/index.m3u8
+#EXTINF:-1,zoopark
+http://46.32.176.50/zoopark/index.m3u8
+#EXTINF:-1,kinomiks HD
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1,kinosemya HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1,THT
+http://46.32.176.50/tnt/index.m3u8
+#EXTINF:-1,muztv
+http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1,bridgetv
+http://46.32.176.50/bridgetv/index.m3u8
