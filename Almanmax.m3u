@@ -1,3 +1,34 @@
+#EXTINF:-1,Prosieben
+http://webtvstream.bhtelecom.ba/prosieben.m3u8
+#EXTINF:-1,Sat 1
+http://webtvstream.bhtelecom.ba/sat1.m3u8
+#EXTINF:-1,RTL De
+http://webtvstream.bhtelecom.ba/rtl_de.m3u8
+#EXTINF:-1,RTL HD
+http://45.136.153.199:80/RTLDE/mono.m3u8
+#EXTINF:-1,RTL Living HD
+http://45.136.153.199:80/RTLLivingHR/mono.m3u8
+#EXTINF:-1,RTL Crime HD
+http://45.136.153.199:80/RTLCrimeHR/mono.m3u8
+#EXTINF:-1,RTL Passion HD
+http://45.136.153.199:80/RTLPassionHR/mono.m3u8
+#EXTINF:-1,PRO 7 HD
+http://45.136.153.199:80/Pro7/mono.m3u8
+#EXTINF:-1,ARD HD
+http://45.136.153.199:80/ARD/mono.m3u8
+#EXTINF:-1,ZDF HD
+http://45.136.153.199:80/ZDF/mono.m3u8
+#EXTINF:-1,SAT 1
+http://45.136.153.199:80/Sat1/mono.m3u8
+#EXTINF:1,Kabel1
+http://45.136.153.199:80/Kabel1/mono.m3u8
+#EXTINF:-1,Sixx HD
+http://45.136.153.199:80/Sixx/mono.m3u8
+#EXTINF:-1,Servus TV HD
+http://45.136.153.199:80/ServusTV/mono.m3u8
+#EXTINF:-1,Tele5
+http://45.136.153.199:80/Tele5/mono.m3u8
+
 #EXTINF:-1 tvg-id="9084" tvg-rec="3" tvg-logo="http://epg.one/img2/9084.png" group-title="Almanya | Germany",Sky Sport Mix HD DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LNUZFZ7YFN4ACA/5039/index.m3u8
 #EXTINF:-1 tvg-id="9114" tvg-rec="3" tvg-logo="http://epg.one/img2/9114.png" group-title="Almanya | Germany",Sky Sport Golf HD DE
