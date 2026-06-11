@@ -1,13 +1,56 @@
+#EXTM3U
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/cennetin-cocuklari.jpg" group-title="PAZARTESİ DİZİLERİ",Cennetin Çocukları (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/653952/653950.m3u8
+#EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/85/2085-69525617.jpg" group-title="PAZARTESİ DİZİLERİ",Uzak şehir (Kanal D)
+https://video.twimg.com/amplify_video/2061550719472111617/pl/FTZLgZlEzlzopHYg.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://iaatv.tmgrup.com.tr/35dc3e/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/album/2025/11/24/atvnin-yeni-dizisi-abi-ne-zaman-baslayacak-1763991200114.jpg" group-title="SALI DİZİLERİ",A.B.İ. (Atv)
+https://video.twimg.com/amplify_video/2064454663290679296/pl/h06wmx1284OXH_a7.m3u8?tag=27
+#EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/48/1948-76741586.jpg", Mehmed Fetihler Sultanı (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/654556/654555.m3u8
+#EXTINF:0 type="video" tvg-logo="https://tvdiziler.tv/uploads/series/doganin-kanunu.jpg" group-title="ÇARŞAMBA DİZİLERİ",Doğanın Kanunu (Star)
+https://video.twimg.com/amplify_video/2064787679280037888/pl/KgTynCpUyv8v__qK.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/esref-ruya.jpg" group-title="ÇARŞAMBA DİZİLERİ",Eşref Rüya Final (Kanal D)
+https://video.twimg.com/amplify_video/2064850664170164224/pl/2-YCdTwThVZvFH7R.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/kurulus-orhan.jpg" group-title="ÇARŞAMBA DİZİLERİ",Kuruluş Orhan Final (Atv)
+https://video.twimg.com/amplify_video/2064822234829512704/pl/VfbS_0pgPrJ1IGra.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://www.ddizi.im/diziresimleri/yeraltikapakmin.jpg" group-title="ÇARŞAMBA DİZİLERİ",Yeraltı (Now)
+https://video.twimg.com/amplify_video/2057202745388511232/pl/g4IZhNNo6H1qwNew.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/halef.jpg" group-title="PERŞEMBE DİZİLERİ",Halef (Now)
+https://video.twimg.com/amplify_video/2062651708405141504/pl/jckSsxBm3ReEzVyL.m3u8?tag=27&variant_version=1
+#EXTINF:0 type="video" tvg-logo="https://www.ddizi.im/diziresimleri/sevdigimsensinkapakmin.jpg" group-title="PERŞEMBE DİZİLERİ",Sevdiğim Sensin (Star)
+https://video.twimg.com/amplify_video/2062639370264248320/pl/Wl2qpX2suQAgW33j.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/arka-sokaklar.jpg" group-title="CUMA DİZİLERİ",Arka Sokaklar (Kanal D)
+https://video.twimg.com/amplify_video/2063000092940865536/pl/-Fyie0kFrPyY_bMH.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/kizilcik-serbeti.jpg" group-title="CUMA DİZİLERİ",Kızılcık Şerbeti (Show)
+https://video.twimg.com/amplify_video/2057926977953075201/pl/-UkQ7ZEr7Hd9EJrJ.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/tasacak-bu-deniz.jpg" group-title="CUMA DİZİLERİ",Taşacak Bu Deniz (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/653404/653401.m3u8
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/gonul-dagi.jpg" group-title="CUMARTESİ DİZİLERİ",Gönül Dağı (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/653409/653408.m3u8
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/guller-ve-gunahlar.jpg" group-title="CUMARTESİ DİZİLERİ",Güller ve Günahlar (Kanal D)
+https://video.twimg.com/amplify_video/2063369306641981440/pl/bBaDYvYxSvXtDbK_.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/haber/cirkin-afis-2.jpg" group-title="PAZAR DİZİLERİ",Çirkin (Star)
+https://video.twimg.com/amplify_video/2056119709146173440/pl/DrHYCVfUzBl-pr-W.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://www.radikal.com.tr/wp-content/uploads/2026/05/17.jpg" group-title="PAZAR DİZİLERİ",Daha 17 (Kanal D)
+https://video.twimg.com/amplify_video/2063715997312233472/pl/BEKLn5OQIvlhDaUV.m3u8?tag=27
+#EXTINF:0 type="video" tvg-logo="https://www.diziler.com/wp-content/uploads/2025/09/Afis-Post_-1.webp" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/653435/653434.m3u8
 
-#EXTINF:-1, KURTLAR VADİSİ PUSU A
-http://storetvip.shop:8080/live/nr3060/8dYLC4NZLakD/560883.m3u8
-#EXTINF:-1, KURTLAR VADİSİ PUSU B
-http://electranextssp.xyz:8080//live/zonnergsTRR/eTtRAEcSuU/260506.m3u8
 
-#EXTINF:-1, KURTLAR VADİSİ A
-http://storetvip.shop:8080/live/nr3060/8dYLC4NZLakD/560890.ts
-#EXTINF:-1, KURTLAR VADİSİ B
-http://electranextssp.xyz:8080//live/zonnergsTRR/eTtRAEcSuU/106606.m3u8
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 1.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B1
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 2.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B2
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 3.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B3
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 4.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B4
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 5.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B5
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 6.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B6
+#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 7.Bölüm
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B7
 
 #EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yeraltı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
