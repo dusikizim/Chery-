@@ -1,0 +1,58 @@
+#EXTINF:-1,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1,Infosport+
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+#EXTINF:-1,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1,Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1,Bein Sport HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1,Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1,Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1,Euro Sport 1 HD
+http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:-1,Bein Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1,Bein Sport 2
+http://41.205.70.146/BEINSPORT2/index.m3u8
+#EXTINF:-1,Bein Sport 3
+http://41.205.70.146/BEINSPORT3/index.m3u8
+#EXTINF:-1,Bein Sport 4 HD
+http://41.205.70.146/BEINSPORT4/index.m3u8
+#EXTINF:-1,Bein Sport 5 HD
+http://41.205.70.146/BEINSPORT5/index.m3u8
+#EXTINF:-1,Rmc Sport 2 HD
+http://41.205.70.146/RMCSPORT2/index.m3u8
+#EXTINF:-1,foxsports 1
+http://84.17.50.102/foxsports1/index.m3u8
+#EXTINF:-1,espn HD
+http://84.17.50.102/espn/index.m3u8
+#EXTINF:-1,espn 2 HD
+http://84.17.50.102/espn2/index.m3u8
+#EXTINF:-1,rmc sport 2 HD
+http://84.17.50.102/rmcsport2/index.m3u8
+#EXTINF:-1,lequipe HD
+http://84.17.50.102/lequipe/index.m3u8
+#EXTINF:-1,nbatv
+http://84.17.50.102/nbatv/index.m3u8
+#EXTINF:-1,nflnetwork
+http://84.17.50.102/nflnetwork/index.m3u8
+#EXTINF:-1,nbcsports
+http://84.17.50.102/nbcsports/index.m3u8
+#EXTINF:-1,Euro Sport 1 HD
+http://41.205.64.66/EUROSPORT1/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://41.205.64.66/EUROSPORT2/index.m3u8
+#EXTINF:-1,Eurosport
+http://145.239.5.177/530/tracks-v1a1/mono.m3u8 315
+#EXTINF:-1,RMC SPORT 1
+http://145.239.5.177/525/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Biensport3
+http://145.239.5.177/559/mpegts
+#EXTINF:-1,Biensport2
+http://145.239.5.177/549/mpegts
