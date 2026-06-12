@@ -1,3 +1,24 @@
+#EXTM3U
+#EXTINF:0,trt1 HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//trt1/tracks-v1a1/mono.m3u8
+#EXTINF:0,atv HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tv8- Bein-Sport 1 HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//bein1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein-Sport 2 HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein-Sport 3 HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein-Sport 4 HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein-Sport 5 HD
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//bein5/tracks-v1a1/mono.m3u8
+#EXTINF:0,trtspor
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//trtspor/tracks-v1a1/mono.m3u8
+#EXTINF:0,aspor
+https://young-surf-88a9.halitumutseler.workers.dev/https://corestream.ronaldovurdu.help//aspor/tracks-v1a1/mono.m3u8
+
+
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
