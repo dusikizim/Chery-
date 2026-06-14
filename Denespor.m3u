@@ -69,16 +69,12 @@ http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6816/index.m3u8
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6816/index.m3u8
 
 
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK
-https://tavukfelsefesi.lol/static/bs1.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1A
-https://api.codetabs.com/v1/proxy/?quest=https://patatespsikolojisi.lol/static/bs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1B
 https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1C
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1Cnet
 https://netspor.tecostream.xyz/bs1.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1D
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1Dnet
 https://netspor.tecostream.xyz/bs11.m3u8
 
 
