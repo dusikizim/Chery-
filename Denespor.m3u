@@ -61,8 +61,7 @@ http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6832/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1E
 http://k46lwgcj.akciatv.ru/iptv/LNE7CK973BXBGD/6832/.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TURKİYE KUPASI
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="3872" tvg-rec="3" tvg-logo="http://epg.one/img2/3872.png" group-title="Türkiye ",Tivibu 2A
 http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6816/index.m3u8
@@ -72,6 +71,7 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6816/index.m3u8
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK
 https://tavukfelsefesi.lol/static/bs1.m3u8
+
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1A
 https://api.codetabs.com/v1/proxy/?quest=https://patatespsikolojisi.lol/static/bs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1B
