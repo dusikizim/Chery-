@@ -299,3 +299,133 @@ http://176.65.146.171:9981/stream/channelid/1771009557?profile=htsp
 http://176.65.146.171:9981/stream/channelid/1219061415?profile=htsp
 #EXTINF:-1 tvg-id="16960ad7b8c813b4d231aaff30073a76" tvg-chno="5",HABERTURK RADYO
 http://176.65.146.171:9981/stream/channelid/1460311574?profile=htsp
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="0301beed38d6ace2f2d4b818f998ede1",13th Street
+http://176.65.146.132:9981/stream/channelid/1841168643?profile=pass
+#EXTINF:-1 tvg-id="eb09864696911dc0d93228a69e185ce0",Beate Uhse
+http://176.65.146.132:9981/stream/channelid/1183189483?profile=pass
+#EXTINF:-1 tvg-id="dd643d1255210a87ed8bf734371eb9f1",Cartoon Network
+http://176.65.146.132:9981/stream/channelid/306013405?profile=pass
+#EXTINF:-1 tvg-id="c1960925734aada1b09a0ba1c68a01a7",Cartoonito
+http://176.65.146.132:9981/stream/channelid/621385409?profile=pass
+#EXTINF:-1 tvg-id="a95019a4b42e5ec791791fab76fba124",Crime + Investigation
+http://176.65.146.132:9981/stream/channelid/605638825?profile=pass
+#EXTINF:-1 tvg-id="c050e1c079c7cb79bb3fc1567661fc12",DAZN 1
+http://176.65.146.132:9981/stream/channelid/1088508096?profile=pass
+#EXTINF:-1 tvg-id="ef3ef361d6bf0fca4233f2cd108f68d5",DAZN 2
+http://176.65.146.132:9981/stream/channelid/1643331311?profile=pass
+#EXTINF:-1 tvg-id="14afc501ed53afff848637636cb5df40",Heimatkanal
+http://176.65.146.132:9981/stream/channelid/29732628?profile=pass
+#EXTINF:-1 tvg-id="935b440b03819d189abd65784b479f5e",HISTORY Channel
+http://176.65.146.132:9981/stream/channelid/189029267?profile=pass
+#EXTINF:-1 tvg-id="dcb240b96842dc8734f1de5d1ca2ded3",Jukebox
+http://176.65.146.132:9981/stream/channelid/960541404?profile=pass
+#EXTINF:-1 tvg-id="c11ef6cef6f3b6e390b7ec26367efdde",Motorvision+
+http://176.65.146.132:9981/stream/channelid/1324752577?profile=pass
+#EXTINF:-1 tvg-id="15bdd6d9397df69b5641f48c03cac161",NatGeo
+http://176.65.146.132:9981/stream/channelid/1507245333?profile=pass
+#EXTINF:-1 tvg-id="a9c37c86754011f6a717d0b2ea1f8bd3",NatGeo Wild
+http://176.65.146.132:9981/stream/channelid/108839849?profile=pass
+#EXTINF:-1 tvg-id="004b5b2334a103f33fdeb4cfb5783f55",Nick Junior Global
+http://176.65.146.132:9981/stream/channelid/593185536?profile=pass
+#EXTINF:-1 tvg-id="93c533f0eb7c23168c27c7e06c772e9c",Nicktoons
+http://176.65.146.132:9981/stream/channelid/1882441107?profile=pass
+#EXTINF:-1 tvg-id="d2d92df37970f1092eef9b9ee4cbb8cc",Romance TV
+http://176.65.146.132:9981/stream/channelid/1932384722?profile=pass
+#EXTINF:-1 tvg-id="f27143cf61ad21766cced2b9fa2ba831",Sky Atlantic
+http://176.65.146.132:9981/stream/channelid/1329820146?profile=pass
+#EXTINF:-1 tvg-id="4a05eb15818f3e85793f704aa8fa483e",Sky Cinema Action
+http://176.65.146.132:9981/stream/channelid/367723850?profile=pass
+#EXTINF:-1 tvg-id="5f7ca7da8e33c94868e4c07fa0d9972c",Sky Cinema Classics
+http://176.65.146.132:9981/stream/channelid/1520925791?profile=pass
+#EXTINF:-1 tvg-id="cffa174280d307b6af67cdc8f9c40f75",Sky Cinema Family
+http://176.65.146.132:9981/stream/channelid/1108867791?profile=pass
+#EXTINF:-1 tvg-id="f3f6ef205ef0b85b0d8a7a63bd82ff52",Sky Cinema Highlights
+http://176.65.146.132:9981/stream/channelid/552597235?profile=pass
+#EXTINF:-1 tvg-id="696f1d963adae51af8b48e462b94256b",Sky Cinema Premiere
+http://176.65.146.132:9981/stream/channelid/371027817?profile=pass
+#EXTINF:-1 tvg-id="fd15d433fb5e8c18b83481a2ab8fb19d",Sky Crime
+http://176.65.146.132:9981/stream/channelid/869537277?profile=pass
+#EXTINF:-1 tvg-id="8615a78c218f610135a46ec4fb36565b",Sky Documentaries
+http://176.65.146.132:9981/stream/channelid/212276614?profile=pass
+#EXTINF:-1 tvg-id="c29d35513a5faf17f80ea7fdace056cb",Sky Krimi
+http://176.65.146.132:9981/stream/channelid/1362468290?profile=pass
+#EXTINF:-1 tvg-id="17c9558248f40eed973d698f184f88e1",Sky Nature
+http://176.65.146.132:9981/stream/channelid/39176471?profile=pass
+#EXTINF:-1 tvg-id="420e7eca9d5f4a2cefe09f9259bbaea8",Sky One
+http://176.65.146.132:9981/stream/channelid/1249775170?profile=pass
+#EXTINF:-1 tvg-id="d2b7b3d58483cea963b3403cde3c27e0",Sky Sci-Fi
+http://176.65.146.132:9981/stream/channelid/1437841362?profile=pass
+#EXTINF:-1 tvg-id="ee453b5c2803a6d389a884415d828411",Sky Showcase
+http://176.65.146.132:9981/stream/channelid/1547388398?profile=pass
+#EXTINF:-1 tvg-id="41487018b30451f74d60974456530f26",Sky Sport 1
+http://176.65.146.132:9981/stream/channelid/410011713?profile=pass
+#EXTINF:-1 tvg-id="b20a8ae8ae6a322bde6d955ffb37dd7d",Sky Sport 2
+http://176.65.146.132:9981/stream/channelid/1753877170?profile=pass
+#EXTINF:-1 tvg-id="d8cc0bb2c1bdd4b0ddd7afbec050b1b0",Sky Sport 4
+http://176.65.146.132:9981/stream/channelid/839634136?profile=pass
+#EXTINF:-1 tvg-id="f2bf50750d9f07ee51b020744db34c5a",Sky Sport 8
+http://176.65.146.132:9981/stream/channelid/1968226290?profile=pass
+#EXTINF:-1 tvg-id="8cae0a4cde5e04c04f55719c80c29168",Sky Sport Austria 1
+http://176.65.146.132:9981/stream/channelid/1275768460?profile=pass
+#EXTINF:-1 tvg-id="4ce6ddc7203e485c19f8d347ea87763b",Sky Sport Austria 2
+http://176.65.146.132:9981/stream/channelid/1205724748?profile=pass
+#EXTINF:-1 tvg-id="0ffd20e0d58c094bfca151cb54780fc9",Sky Sport Austria 3
+http://176.65.146.132:9981/stream/channelid/1612774671?profile=pass
+#EXTINF:-1 tvg-id="2d861b8dd5d753f54a59a69ae35b72bb",Sky Sport Austria 6
+http://176.65.146.132:9981/stream/channelid/219907629?profile=pass
+#EXTINF:-1 tvg-id="36d60cf6e1f55c36ca1d7b7975ded7e4",Sky Sport Austria 7
+http://176.65.146.132:9981/stream/channelid/1980552758?profile=pass
+#EXTINF:-1 tvg-id="a524015bae7899ad76d0c30e8622dab3",Sky Sport Austria 8
+http://176.65.146.132:9981/stream/channelid/1526801573?profile=pass
+#EXTINF:-1 tvg-id="5c54ce6441d185f798000f5091ef257f",Sky Sport Bundesliga
+http://176.65.146.132:9981/stream/channelid/1691243612?profile=pass
+#EXTINF:-1 tvg-id="12aa8f761bcf9da0566a03628fa20a09",Sky Sport Bundesliga 1
+http://176.65.146.132:9981/stream/channelid/1989126674?profile=pass
+#EXTINF:-1 tvg-id="e483a3072b84affda12dc3e078558229",Sky Sport Bundesliga 2
+http://176.65.146.132:9981/stream/channelid/128156644?profile=pass
+#EXTINF:-1 tvg-id="546b2e0515538ce648c30c53b4667bf1",Sky Sport Bundesliga 3
+http://176.65.146.132:9981/stream/channelid/86928212?profile=pass
+#EXTINF:-1 tvg-id="86e3d4c3ba90d57016c34f65204225af",Sky Sport Bundesliga 4
+http://176.65.146.132:9981/stream/channelid/1138025350?profile=pass
+#EXTINF:-1 tvg-id="7aae9eee9a5186d8bdcfffc4cfe018c8",Sky Sport Bundesliga 5
+http://176.65.146.132:9981/stream/channelid/1855893114?profile=pass
+#EXTINF:-1 tvg-id="8e6ebba28aa6759adf2acf71b7757975",Sky Sport Bundesliga 6
+http://176.65.146.132:9981/stream/channelid/582708878?profile=pass
+#EXTINF:-1 tvg-id="c80464a357756708af7e733e38f5e190",Sky Sport Bundesliga UHD
+http://176.65.146.132:9981/stream/channelid/593757384?profile=pass
+#EXTINF:-1 tvg-id="9f52d785665a47884a0e102b4059f896",Sky Sport F1
+http://176.65.146.132:9981/stream/channelid/97997471?profile=pass
+#EXTINF:-1 tvg-id="7886de21efbc11dba32edcf89f1395dc",Sky Sport Golf
+http://176.65.146.132:9981/stream/channelid/568231544?profile=pass
+#EXTINF:-1 tvg-id="e682a39845515c3b283b3dabb196160d",Sky Sport Mix
+http://176.65.146.132:9981/stream/channelid/413369062?profile=pass
+#EXTINF:-1 tvg-id="cec244382359ef29e2e2bc3c50ef3497",Sky Sport News
+http://176.65.146.132:9981/stream/channelid/944030414?profile=pass
+#EXTINF:-1 tvg-id="908de943d327c2c993c7bd50788abde1",Sky Sport Premier League
+http://176.65.146.132:9981/stream/channelid/1139379600?profile=pass
+#EXTINF:-1 tvg-id="06b37f6bb2c8c35b5cecdca15625eaa7",Sky Sport Tennis
+http://176.65.146.132:9981/stream/channelid/1803531014?profile=pass
+#EXTINF:-1 tvg-id="9996adcb6030dfa6eac226cb55eced2f",Sky Sport Top Event
+http://176.65.146.132:9981/stream/channelid/1269667481?profile=pass
+#EXTINF:-1 tvg-id="cfed451e3423624d489b6e1b97d4656f",Sky Sport UHD
+http://176.65.146.132:9981/stream/channelid/507899343?profile=pass
+#EXTINF:-1 tvg-id="8506bf7f456dff84ad1d91304933c290",Universal TV
+http://176.65.146.132:9981/stream/channelid/2143225477?profile=pass
+#EXTINF:-1 tvg-id="274c71ce90a493cf73d95e0934486c3e",Warner TV Comedy
+http://176.65.146.132:9981/stream/channelid/1316047911?profile=pass
+#EXTINF:-1 tvg-id="b25f91170543ca5a449e5d04c4952d59",Warner TV Film
+http://176.65.146.132:9981/stream/channelid/395403186?profile=pass
+#EXTINF:-1 tvg-id="6fac405e37b6163867d08372196cbec7",Warner TV Serie
+http://176.65.146.132:9981/stream/channelid/1581296751?profile=pass
+
+
+
+
+
