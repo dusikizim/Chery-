@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:0,atv
+http://65.108.239.207/atv/index.m3u8
+#EXTINF:0,tv8
+http://65.108.239.207/tv8/index.m3u8
+#EXTINF:0,tv85
+http://65.108.239.207/tv85/index.m3u8
+#EXTINF:-1,bein sports 1 HD
+http://65.108.239.207/bs1/index.m3u8
+#EXTINF:-1,bein sports 2 HD
+http://65.108.239.207/bs2/index.m3u8
+#EXTINF:-1,bein sports 3 HD
+http://65.108.239.207/bs3/index.m3u8
+#EXTINF:-1,bein sports 4 HD
+http://65.108.239.207/bs4/index.m3u8
+#EXTINF:-1,bein sports 5 HD
+http://65.108.239.207/bs5/index.m3u8
+#EXTINF:-0,beinsportmax 1 HD
+http://65.108.239.207/bm1/index.m3u8
+#EXTINF:-0,beinsportmax 2 HD
+http://65.108.239.207/bm2/index.m3u8
+#EXTINF:0,ssport
+http://65.108.239.207/ss1/index.m3u8
+#EXTINF:0,ssport 2
+http://65.108.239.207/ss2/index.m3u8
+#EXTINF:0,smart1
+http://65.108.239.207/smart1/index.m3u8
+#EXTINF:0,smart2
+http://65.108.239.207/smart2/index.m3u8
+#EXTINF:0,eurosport 1
+http://65.108.239.207/euro1/index.m3u8
+#EXTINF:0,eurosport 2
+http://65.108.239.207/euro2/index.m3u8
+#EXTINF:0,fbtv
+http://65.108.239.207/fbtv/index.m3u8
+#EXTINF:0,Tivibu Spor 1
+http://65.108.239.207/t1/index.m3u8
+#EXTINF:0,Tivibu Spor 2
+http://65.108.239.207/t2/index.m3u8
+#EXTINF:0,Tivibu Spor 3
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:0,Tivibu Spor 4
+http://65.108.239.207/t4/index.m3u8
+#EXTINF:0,tabii sport 1
+http://65.108.239.207/tabi1/index.m3u8
+#EXTINF:0,tabii sport 2
+http://65.108.239.207/tabi2/index.m3u8
+#EXTINF:0,tabii sport 3
+http://65.108.239.207/tabi3/index.m3u8
+#EXTINF:0,tabii sport 4
+http://65.108.239.207/tabi4/index.m3u8
+#EXTINF:0,tabii sport 5
+http://65.108.239.207/tabi5/index.m3u8
+#EXTINF:0,tabii sport 6
+http://65.108.239.207/tabi6/index.m3u8
+#EXTINF:0,tlc HD
+http://65.108.239.207/tlc/index.m3u8
+#EXTINF:0,dmax
+http://65.108.239.207/dmax/index.m3u8
+#EXTINF:0,tarih tv
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:0,discovery
+http://65.108.239.207/discovery/index.m3u8
+#EXTINF:0,discovery ıd
+http://65.108.239.207/discs/index.m3u8
+#EXTINF:0,bbc
+http://65.108.239.207/bbc/index.m3u8
+#EXTINF:0,viasathistory
+http://65.108.239.207/viasathistory/index.m3u8
+#EXTINF:0,history
+http://65.108.239.207/history/index.m3u8
+#EXTINF:0,lovenature
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:0,docubox
+http://65.108.239.207/docubox/index.m3u8
+#EXTINF:0,bsaction1
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:0,bspremier1
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:0,beinofice 3
+http://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:0,bsstars
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:0,benseri 1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:0,benseri 2
+http://65.108.239.207/box2/index.m3u8
+#EXTINF:0,box3
+http://65.108.239.207/box3/index.m3u8
+#EXTINF:0,bsturk
+http://65.108.239.207/bsturk/index.m3u8
+#EXTINF:0,mvturk
+http://65.108.239.207/mvturk/index.m3u8
+#EXTINF:0,sinema
+http://65.108.239.207/sinema/index.m3u8
+#EXTINF:0,sinema2
+http://65.108.239.207/sinema2/index.m3u8
+#EXTINF:0,sinemaaksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+#EXTINF:0,sinemaaksiyon2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:0,sinemaa 1001
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:0,sinemaa 1002
+http://65.108.239.207/sinema1002/index.m3u8
+#EXTINF:0,sinemakomedi
+http://65.108.239.207/sinemakomedi/index.m3u8
+#EXTINF:0,sinemaaile
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:0,sinemayerli
+http://65.108.239.207/sinemayerli/index.m3u8
+#EXTINF:0,sinemayerli2
+http://65.108.239.207/sinemayerli2/index.m3u8
+#EXTINF:0,cartoonnetwork
+http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:0,ntv
+http://65.108.239.207/ntv/index.m3u8
+#EXTINF:0,ahaber
+http://65.108.239.207/ahaber/index.m3u8
