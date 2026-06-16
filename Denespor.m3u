@@ -1,3 +1,37 @@
+#EXTINF:-1,BeIN Sports 1
+https://cdn.bonusclub.site/stream/bein-sports-1/playlist.m3u8
+#EXTINF:-1,BeIN Sports 2
+https://cdn.bonusclub.site/stream/bein-sports-2/playlist.m3u8
+#EXTINF:-1,BeIN Sports 3
+https://cdn.bonusclub.site/stream/bein-sports-3/playlist.m3u8
+#EXTINF:-1,BeIN Sports 4
+https://cdn.bonusclub.site/stream/bein-sports-4/playlist.m3u8
+#EXTINF:-1,BeIN Sports 5
+https://cdn.bonusclub.site/stream/bein-sports-5/playlist.m3u8
+#EXTINF:-1,BeIN Sports Max 1
+https://cdn.bonusclub.site/stream/bein-sports-max-1/playlist.m3u8
+#EXTINF:-1,BeIN Sports Max 2
+https://cdn.bonusclub.site/stream/bein-sports-max-2/playlist.m3u8
+#EXTINF:-1,S SPORT HD 1
+https://cdn.bonusclub.site/stream/s-sport/playlist.m3u8
+#EXTINF:-1,S SPORT HD 2
+https://cdn.bonusclub.site/stream/s-sport-2/playlist.m3u8
+#EXTINF:-1,TiviBu Spor 1
+https://cdn.bonusclub.site/stream/tivibu-spor-1/playlist.m3u8
+#EXTINF:-1,TiviBu Spor 2
+https://cdn.bonusclub.site/stream/tivibu-spor-2/playlist.m3u8
+#EXTINF:-1,TiviBu Spor 3
+https://cdn.bonusclub.site/stream/tivibu-spor-3/playlist.m3u8
+#EXTINF:-1,TiviBu Spor 4
+https://cdn.bonusclub.site/stream/tivibu-spor-4/playlist.m3u8
+#EXTINF:-1,TRT 1
+https://cdn.bonusclub.site/stream/trt-1/playlist.m3u8
+#EXTINF:-1,TRT SPOR
+https://cdn.bonusclub.site/stream/trt-spor/playlist.m3u8
+#EXTINF:-1,ASPOR
+https://cdn.bonusclub.site/stream/a-spor/playlist.m3u8
+
+
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
