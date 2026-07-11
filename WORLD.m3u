@@ -1,37 +1,37 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
 #EXTINF:-1,TRT 4K A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/4001/.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/4001/.m3u8
 #EXTINF:-1,TRT 4K B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/4001/.m3u8
 #EXTINF:-1,TRT 4K C
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/4001/.m3u8
 
 #EXTINF:-1,TRT 1A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2293/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2293/index.m3u8
 #EXTINF:-1,TRT 1B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2293/index.m3u8
 #EXTINF:-1,TRT 1C
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2293/index.m3u8
 #EXTINF:-1,TRT 1D
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/6883/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6883/index.m3u8
 
 #EXTINF:-1,TRT 2
 http://61043419.edemist.com/iptv/iptv/LNUZFZ7YFN4ACA/6884/index.m3u8
 #EXTINF:-1,TRT Turk A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2281/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2281/index.m3u8
 #EXTINF:-1,TRT Turk B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2281/index.m3u8
 #EXTINF:-1,TRT Turk C
 #EXTINF:-1,TRT Turk D
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/6798/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6798/index.m3u8
 #EXTINF:-1,TRT Avaz A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/6799/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6799/index.m3u8
 #EXTINF:-1,TRT Avaz B
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6799/index.m3u8
 
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2304/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2304/index.m3u8
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2304/index.m3u8
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D C
@@ -41,7 +41,7 @@ http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/6892/index.m3u8
 #EXTINF:-1 tvg-id="3945" tvg-rec="3" tvg-logo="http://epg.one/img2/3945.png" group-title="Türkiye ",Euro D B
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6892/index.m3u8
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D D
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2326/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2326/index.m3u8
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D E
 http://cb22cdb9.rossteleccom.net/iptv/LNUZFZ7YFN4ACA/2326/index.m3u8
 #EXTINF:-1 tvg-id="2605" tvg-rec="3" tvg-logo="http://epg.one/img2/2605.png" group-title="Türkiye ",Kanal D F
@@ -49,13 +49,13 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2326/index.m3u8
 
 
 #EXTINF:-1,ATV 2A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2261/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2261/index.m3u8
 #EXTINF:-1,ATV 2B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2261/index.m3u8
 #EXTINF:-1,ATV 2C
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2261/index.m3u8
 #EXTINF:-1,ATV A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2296/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2296/index.m3u8
 #EXTINF:-1,ATV B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2296/index.m3u8
 #EXTINF:-1,ATV C
@@ -64,14 +64,14 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2296/index.m3u8
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6888/index.m3u8
 
 #EXTINF:-1 tvg-id="9801" tvg-rec="3" tvg-logo="http://epg.one/img2/9801.png" group-title="Türkiye ",NOW A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2309/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2309/index.m3u8
 #EXTINF:-1 tvg-id="9801" tvg-rec="3" tvg-logo="http://epg.one/img2/9801.png" group-title="Türkiye ",NOW B
 http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2309/index.m3u8
 #EXTINF:-1 tvg-id="9801" tvg-rec="3" tvg-logo="http://epg.one/img2/9801.png" group-title="Türkiye ",NOW C
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2309/index.m3u8
 
 #EXTINF:-1 tvg-id="2608" tvg-rec="3" tvg-logo="http://epg.one/img2/2608.png" group-title="Türkiye ",Show TV A
-http://d2ad5850.ucomist.net/iptv/D4WWHMT9VMU2MW/2307/index.m3u8
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2307/index.m3u8
 #EXTINF:-1 tvg-id="2608" tvg-rec="3" tvg-logo="http://epg.one/img2/2608.png" group-title="Türkiye ",Show TV B
 http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/31354/index.m3u8
 #EXTINF:-1 tvg-id="8092" tvg-rec="0" tvg-logo="http://epg.one/img2/8092.png" group-title="Almanya | Germany",OUTtv HD DE
@@ -180,4 +180,3 @@ http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/31442/index.m3u8
 http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/31443/index.m3u8
 #EXTINF:-1 tvg-id="8181" tvg-rec="0" tvg-logo="http://epg.one/img2/8181.png" group-title="Almanya | Germany",Zwei Music Television HD DE
 http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/31444/index.m3u8
- 
