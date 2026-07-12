@@ -270,6 +270,27 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
 #EXTINF:-1,A SPOR D
 http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6832/index.m3u8
 
+#EXTINF:-1,TRT SPOR 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/19067/index.m3u8
+#EXTINF:-1, TRT SPOR 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/19067/index.m3u8
+#EXTINF:-1, TRT SPOR 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/19067/index.m3u8
+#EXTINF:-1, TRT SPOR D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/19067/index.m3u8
+
+#EXTINF:-1,A SPOR 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6832/index.m3u8
+#EXTINF:-1,A SPOR 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6832/index.m3u8
+#EXTINF:-1,A SPOR 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
+#EXTINF:-1,A SPOR D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6832/index.m3u8
+
+
+
+
 #EXTINF:-1,TRT COCUK A
 http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6841/index.m3u8
 #EXTINF:-1,TRT COCUK B
