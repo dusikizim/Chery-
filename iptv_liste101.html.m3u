@@ -7,7 +7,8 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
+
+
 
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",TRT 2 
@@ -18,13 +19,13 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j51Lhgc/45.png" group-title="🇹🇷͜͜͡͡✯ ULUSAL KANALLAR",ATV 
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/217
-http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/231
+
 http://95.174.71.114:80/TR-ATV/index.m3u8
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+
+
 https://izle.canlitvapp.com/aytv/index.m3u8
 https://trn03.tulix.tv/gt-a-tv-tv/index.m3u8
 https://live.tecostream.xyz/Atv.php
