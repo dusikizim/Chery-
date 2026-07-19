@@ -47,11 +47,14 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:0 type="stream" channelId="641", TRT SPOR B
+ff
+#EXTINF:0 type="stream" channelId="641", TRT SPOR B 2K
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 type="stream" channelId="641", TRT SPOR C
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="641", TRT SPOR D
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="641", TRT SPOR E
 https://trt.daioncdn.net/trtspor/master_1440p.m3u8?app=web
 
 
@@ -61,7 +64,7 @@ http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
 
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",BEİN HABER 
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
-#EXTINF:-1 tvg-id="88018" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",EKOL SPORT
+#EXTINF:0 type="stream" channelId="641", EKOL SPOR
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-id="88018" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
