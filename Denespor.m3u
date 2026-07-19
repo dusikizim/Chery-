@@ -1,37 +1,3 @@
-#EXTINF:-1,BeIN Sports 1
-https://cdn.bonusclub.site/stream/bein-sports-1/playlist.m3u8
-#EXTINF:-1,BeIN Sports 2
-https://cdn.bonusclub.site/stream/bein-sports-2/playlist.m3u8
-#EXTINF:-1,BeIN Sports 3
-https://cdn.bonusclub.site/stream/bein-sports-3/playlist.m3u8
-#EXTINF:-1,BeIN Sports 4
-https://cdn.bonusclub.site/stream/bein-sports-4/playlist.m3u8
-#EXTINF:-1,BeIN Sports 5
-https://cdn.bonusclub.site/stream/bein-sports-5/playlist.m3u8
-#EXTINF:-1,BeIN Sports Max 1
-https://cdn.bonusclub.site/stream/bein-sports-max-1/playlist.m3u8
-#EXTINF:-1,BeIN Sports Max 2
-https://cdn.bonusclub.site/stream/bein-sports-max-2/playlist.m3u8
-#EXTINF:-1,S SPORT HD 1
-https://cdn.bonusclub.site/stream/s-sport/playlist.m3u8
-#EXTINF:-1,S SPORT HD 2
-https://cdn.bonusclub.site/stream/s-sport-2/playlist.m3u8
-#EXTINF:-1,TiviBu Spor 1
-https://cdn.bonusclub.site/stream/tivibu-spor-1/playlist.m3u8
-#EXTINF:-1,TiviBu Spor 2
-https://cdn.bonusclub.site/stream/tivibu-spor-2/playlist.m3u8
-#EXTINF:-1,TiviBu Spor 3
-https://cdn.bonusclub.site/stream/tivibu-spor-3/playlist.m3u8
-#EXTINF:-1,TiviBu Spor 4
-https://cdn.bonusclub.site/stream/tivibu-spor-4/playlist.m3u8
-#EXTINF:-1,TRT 1
-https://cdn.bonusclub.site/stream/trt-1/playlist.m3u8
-#EXTINF:-1,TRT SPOR
-https://cdn.bonusclub.site/stream/trt-spor/playlist.m3u8
-#EXTINF:-1,ASPOR
-https://cdn.bonusclub.site/stream/a-spor/playlist.m3u8
-
-
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
@@ -40,6 +6,21 @@ https://cdn.bonusclub.site/stream/a-spor/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1A
+http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6832/index.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1B
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1C
+http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6832/index.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1D
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1E
+http://k46lwgcj.akciatv.ru/iptv/LNE7CK973BXBGD/6832/.m3u8
+
+
+
 #EXTINF:0 type="stream" channelId="641", BEİN HABER
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
@@ -49,6 +30,12 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:0 type="stream" channelId="641", HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+#EXTINF:-1 tvg-id="88018" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",HT SPOR
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+
 EXTINF:0 type="stream" channelId="641", BEİN SPOR 1 BRZ
 https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz A
@@ -57,13 +44,13 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz C
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-
 #EXTINF:0 type="stream" channelId="641", TRT SPOR B
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
-
-
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 type="stream" channelId="641", TRT SPOR C
 https://trt.daioncdn.net/trtspor/master_1440p.m3u8?app=web
 
@@ -78,23 +65,7 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-id="88018" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="88018" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",HT SPOR
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",HT SPOR
-https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1A
-http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6832/index.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1B
-http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1C
-http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6832/index.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1D
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="3873" tvg-rec="3" tvg-logo="http://epg.one/img2/3873.png" group-title="Türkiye ",A SPOR 1E
-http://k46lwgcj.akciatv.ru/iptv/LNE7CK973BXBGD/6832/.m3u8
 
 
 #EXTINF:-1 tvg-id="3872" tvg-rec="3" tvg-logo="http://epg.one/img2/3872.png" group-title="Türkiye ",Tivibu 2A
