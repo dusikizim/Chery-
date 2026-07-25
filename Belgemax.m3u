@@ -1,5 +1,9 @@
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="ULUSAL ➾ BELGESEL",TRT BELGESEL 
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="ULUSAL ➾ BELGESEL",TRT BELGESEL 2K 
+https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRBXF6Dy/TGRT-Belgesel-logo.png" group-title="ULUSAL ➾ BELGESEL",TGRT BELGESEL 
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NjwydxKD/In-Shot-20250209-231503024.png" group-title="ULUSAL ➾ BELGESEL",DMAX 
