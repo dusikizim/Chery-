@@ -1,4 +1,7 @@
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="ULUSAL ➾ BELGESEL",TRT BELGESEL 
+#EXTINF:0, ÇİFTÇİ TV 
+http://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+
+#EXTINF:0, TRT BELGESEL 
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="ULUSAL ➾ BELGESEL",TRT BELGESEL 2K 
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
@@ -44,13 +47,24 @@ http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT WILD ENGLISH
 http://40.160.24.53/NAT_GEO_WILD/index.m3u8
 
+#EXTINF:0, NAT GEO WILD
+http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:47:93:76&stream=594679&extension=m3u8
+
+#EXTINF:0, NAT GEO WILD
+http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:47:93:76&stream=594678&extension=m3u8
+
+
+#EXTINF:0, SPORMAX WILD
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/VkSMNT9t/In-Shot-20260127-124525778.png" group-title="ULUSAL ➾ BELGESEL",VIASAT EXPLORE 
 #https://goldvod.org/live/hpgdisco/123456/444.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mDr1Q2PG/Yabantv-logo.png" group-title="ULUSAL ➾ BELGESEL",YABAN TV 
 #https://goldvod.org/live/hpgdisco/123456/448.m3u8
 
 
-rr
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", BBC EARTH ENGLISH  
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", DOCU BOX ENGLISH  
