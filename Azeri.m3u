@@ -1,5 +1,26 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
+#EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
+https://janya-ayaztv.vgcdn.net/ptnr-VipoTV/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-id="Az Tv" tvg-name="Az Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/aztv-min.png",Az Tv (Az)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="YURTDIŞI" tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png",Baku Tv (Az)
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-id="Gunaz Tv" tvg-name="Gunaz Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/gunaz-tv-live-vipotv.png",Gunaz Tv (Az)
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="Mədəniyyət Tv" tvg-name="Mədəniyyət Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/medeniyyet-vipotv.png",Mədəniyyət Tv (Az)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-id="Show Plus Tv" tvg-name="Show Plus Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png",Show Plus Tv (Az)
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-id="S Tv" tvg-name="S Tv" group-title="YURTDIŞI" tvg-logo="https://i.ibb.co/6Jcj8szS/s-tv.jpg",S Tv (Az)
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+
+
+
 
 #EXTINF:0 type="stream" channelId="641", CBC SPORT OK
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivecbcs.m3u8
@@ -280,11 +301,11 @@ http://65.108.239.207/t4/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD+" group-title="TR | ULUSAL",TR: TRT 1 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=229&extension=ts
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=229&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" group-title="TR | ULUSAL",TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD+" group-title="TR | ULUSAL",TR: ATV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=231&extension=ts
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=231&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" group-title="TR | ULUSAL",TR: ATV HD
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD+" group-title="TR | ULUSAL",TR: STAR TV HD+
