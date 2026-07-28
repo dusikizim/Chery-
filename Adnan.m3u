@@ -1,36 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt1.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt1.png",TRT 1 (v)
-https://huhu.to/vavoo-iptv/play/1762199258e25181300f62
+
+
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/atv-tr.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/atv-tr.png",ATV (v)
-https://huhu.to/vavoo-iptv/play/2325261286cc81b01cf95d
+
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanald.png",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanald.png",Kanal D (v)
-https://huhu.to/vavoo-iptv/play/16776796840463f6dcff41
+
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/star-tv-tr.png",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8b7lgxw5regk&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-#EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/star-tv-tr.png",Star TV (v)
-https://huhu.to/vavoo-iptv/play/272055669263af9be64671
+
+
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-tr.png",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-tr.png",Show TV (v)
-https://huhu.to/vavoo-iptv/play/144949986573359afbfeae
+
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now (v)
-https://huhu.to/vavoo-iptv/play/919108696a1b98997373b
+
+
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8 (v)
-https://huhu.to/vavoo-iptv/play/1662562034e8a914e62dce
+
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
-#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5 (v)
-https://huhu.to/vavoo-iptv/play/19082658164debc10cdc44
+
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5
 https://izle.dattavav.workers.dev/?id=935671761.m3u8
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5 (v)
@@ -69,30 +64,25 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel (v)
-https://huhu.to/vavoo-iptv/play/2439012215c6e5b64828da
+
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
 https://www.canlitv.tech/hls/ahaber.m3u8
-#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber (v)
-https://huhu.to/vavoo-iptv/play/1174108535f425095f15a6
+
 #EXTINF:-1 tvg-id="Türk Haber" tvg-name="Türk Haber" group-title="HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png",Türk Haber
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brüksel Türk TV" tvg-name="Brüksel Türk TV" group-title="HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/brukselturktv.png",Brüksel Türk TV
 https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-box-office-1-tr.png",B Box Office 1
 https://cr.denek1544.workers.dev/izle/bsboxoffice1-70.m3u8
-#EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-box-office-1-tr.png",B Box Office 1 (v)
-https://huhu.to/vavoo-iptv/play/29307461023dd1f85985b0
+
 #EXTINF:-1 tvg-id="B Stars" tvg-name="B Stars" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-stars-hd-tr.png",B Stars
 https://nord.ayakkabiparti.lol/bsstars/index.m3u8
-#EXTINF:-1 tvg-id="B Stars" tvg-name="B Stars" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-stars-hd-tr.png",B Stars (v)
-https://huhu.to/vavoo-iptv/play/19637487849304979bfdcb
+
 #EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-turk-hd-tr.png",B Movies Türk
 https://cr.denek1544.workers.dev/izle/bsturk-75.m3u8
-#EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-turk-hd-tr.png",B Movies Türk (v)
-https://huhu.to/vavoo-iptv/play/33905759489e0915a21ca8
+
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="SİNEMA" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png",Epic Drama
 https://k.testworkery0.workers.dev/epicdrama?key=patr0n
 #EXTINF:-1 group-title="SİNEMA" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo.png",MovieSmart Classic
@@ -111,8 +101,7 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/babytv.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Keloğlan Tv" tvg-name="Keloğlan Tv" group-title="ÇOCUK" tvg-logo="https://cdn.sinemalar.com/images/movie/239576/poster/keloglan-1459206993.jpg",Keloğlan Tv (v)
-https://huhu.to/vavoo-iptv/play/4644476933bb028f5c20f
+
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
 https://link.testworkery0.workers.dev/patron.m3u
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
@@ -152,10 +141,10 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 
 
 # Ulusal Kanallar
-#EXTINF:-1 tvg-id="KANAL D.tr" tvg-name="Kanal D" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/a/-p/245931/logo.png?v=638804938239723164" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-id="KANAL D.tr" tvg-name="Kanal D" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/a/-p/245931/logo.png?v=638804938239723164" group-title="Ulusal",Kanal D8
 http://104.238.23.191/dsgo.php?id=245931/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV2.tr" tvg-name="TV2" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/WE/245991/logo.png?v=639029456898926668" group-title="Ulusal",TV2
+#EXTINF:-1 tvg-id="TV2.tr" tvg-name="TV2" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/WE/245991/logo.png?v=639029456898926668" group-title="Ulusal",TV2 
 http://104.238.23.191/dsgo.php?id=245991/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-name="Show TV" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/rT/245949/logo.png?v=638671713564122216" group-title="Ulusal",Show TV
