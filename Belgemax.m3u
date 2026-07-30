@@ -29,10 +29,7 @@ https://proud-river-e20b.pantonum1.workers.dev/docubox.m3u8
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="ULUSAL ➾ BELGESEL",BBC EARTH 
 https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL",BEIN IZ 
-#https://goldvod.org/live/hpgdisco/123456/173.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="ULUSAL ➾ BELGESEL",LOVE NATURE 
-#https://goldvod.org/live/hpgdisco/123456/157.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="ULUSAL ➾ BELGESEL",NATIONAL GEOGRAPHIC 
 https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Pf41V1rt/In-Shot-20260127-124426100.png" group-title="ULUSAL ➾ BELGESEL",NATIONAL GEOGRAPHIC WILD 
@@ -56,13 +53,6 @@ http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:47:93:76&stream=594678
 
 #EXTINF:0, SPORMAX WILD
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/VkSMNT9t/In-Shot-20260127-124525778.png" group-title="ULUSAL ➾ BELGESEL",VIASAT EXPLORE 
-#https://goldvod.org/live/hpgdisco/123456/444.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/mDr1Q2PG/Yabantv-logo.png" group-title="ULUSAL ➾ BELGESEL",YABAN TV 
-#https://goldvod.org/live/hpgdisco/123456/448.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", BBC EARTH ENGLISH  
