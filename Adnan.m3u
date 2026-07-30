@@ -271,173 +271,167 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Dream Türk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png" group-title="DeaTHLesS-TV", Dream Türk HD
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 1 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV", Sinema TV 1 
-https://teknobaba.han686314.workers.dev/Yesilcam_Tv.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 2 
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 3 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 3 
-https://teknobaba.han686314.workers.dev/Kemal_Sunal_Tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 4 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 4 
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 5 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 5 
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 6 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 6 
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 6 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV", CİNE 5 TV 
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 7 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 7 HD
-https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 8 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 8 HD
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 9 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 9 HD
-https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 10 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 10 HD
-https://trn03.tulix.tv/gt-tivi6/tracks-v1a1/rewind-588800.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Komedi" tvg-logo="https://i.hizliresim.com/fp7aixh.png" group-title="DeaTHLesS-TV",TR:Sinema Komedi
+
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Komedi" tvg-logo="https://i.hizliresim.com/fp7aixh.png" group-title="DeaTHLesS-TV",Sinema Komedi
 https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 1" tvg-logo="https://i.hizliresim.com/kjt701f.png" group-title="DeaTHLesS-TV",TR:Sinema Aksiyon 1
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 1" tvg-logo="https://i.hizliresim.com/kjt701f.png" group-title="DeaTHLesS-TV",Sinema Aksiyon 1
 https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="https://i.hizliresim.com/ncnj330.png" group-title="DeaTHLesS-TV",TR:Sinema Aksiyon 2
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="https://i.hizliresim.com/ncnj330.png" group-title="DeaTHLesS-TV",Sinema Aksiyon 2
 https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Yerli" tvg-logo="https://i.hizliresim.com/e7m18lb.png" group-title="DeaTHLesS-TV",TR:Sinema Yerli
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Yerli" tvg-logo="https://i.hizliresim.com/e7m18lb.png" group-title="DeaTHLesS-TV",Sinema Yerli
 https://proud-river-e20b.pantonum1.workers.dev/sinemayerli.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aile" tvg-logo="https://i.hizliresim.com/mnfr82f.png" group-title="DeaTHLesS-TV",TR:Sinema Aile
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aile" tvg-logo="https://i.hizliresim.com/mnfr82f.png" group-title="DeaTHLesS-TV",Sinema Aile
 https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1001" tvg-logo="https://i.hizliresim.com/csdsbp8.png" group-title="DeaTHLesS-TV",TR:Sinema 1001
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1001" tvg-logo="https://i.hizliresim.com/csdsbp8.png" group-title="DeaTHLesS-TV",Sinema 1001
 https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1002" tvg-logo="https://i.hizliresim.com/sgqd2g0.png" group-title="DeaTHLesS-TV",TR:Sinema 1002
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1002" tvg-logo="https://i.hizliresim.com/sgqd2g0.png" group-title="DeaTHLesS-TV",Sinema 1002
 https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 1" tvg-logo="https://i.hizliresim.com/74fldjk.png" group-title="DeaTHLesS-TV",TR:Sinema Tv 1
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 1" tvg-logo="https://i.hizliresim.com/74fldjk.png" group-title="DeaTHLesS-TV",Sinema Tv 1
 https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 2" tvg-logo="https://i.hizliresim.com/m38w8z6.png" group-title="DeaTHLesS-TV",TR:Sinema Tv 2
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 2" tvg-logo="https://i.hizliresim.com/m38w8z6.png" group-title="DeaTHLesS-TV",Sinema Tv 2
 https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Fx" tvg-logo="https://i.hizliresim.com/e18xvq8.png" group-title="DeaTHLesS-TV",TR:Fx
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Fx" tvg-logo="https://i.hizliresim.com/e18xvq8.png" group-title="DeaTHLesS-TV", FX TV
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Movie Smart Türk" tvg-logo="https://i.hizliresim.com/kqzlyev.png" group-title="DeaTHLesS-TV",TR:Movie Smart Türk
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Movie Smart Türk" tvg-logo="https://i.hizliresim.com/kqzlyev.png" group-title="DeaTHLesS-TV",Movie Smart Türk
 https://proud-river-e20b.pantonum1.workers.dev/mvturk.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Premier" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Premier
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Premier" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Premier
 https://proud-river-e20b.pantonum1.workers.dev/bspremier1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Stars
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Stars
 https://proud-river-e20b.pantonum1.workers.dev/bsstars.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Family" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Family
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Family" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Family
 https://proud-river-e20b.pantonum1.workers.dev/bsfamily.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Türk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="DeaTHLesS-TV",TR:beIN Türk
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Türk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="DeaTHLesS-TV", beIN Türk
 https://proud-river-e20b.pantonum1.workers.dev/bsturk.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Action" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Action
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Action" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Action
 https://proud-river-e20b.pantonum1.workers.dev/bsaction1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Box 1
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 1
 https://proud-river-e20b.pantonum1.workers.dev/box1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-2-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Box 2
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-2-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 2
 https://proud-river-e20b.pantonum1.workers.dev/box2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:beIN Box 3
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 3
 https://proud-river-e20b.pantonum1.workers.dev/box3.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="DeaTHLesS-TV",TR:beIN Series 1
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="DeaTHLesS-TV", beIN Series 1
 https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png" group-title="DeaTHLesS-TV",TR:beIN Series 2
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png" group-title="DeaTHLesS-TV", beIN Series 2
 https://proud-river-e20b.pantonum1.workers.dev/bsseries2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="DeaTHLesS-TV",TR:beIN Series 3
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="DeaTHLesS-TV", beIN Series 3
 https://proud-river-e20b.pantonum1.workers.dev/bsseries3.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 4" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png" group-title="DeaTHLesS-TV",TR:beIN Series 4
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 4" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png" group-title="DeaTHLesS-TV", beIN Series 4
 https://proud-river-e20b.pantonum1.workers.dev/bsseries4.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery ID" tvg-logo="https://i.hizliresim.com/3tzovae.png" group-title="DeaTHLesS-TV",TR:Discovery ID
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery ID" tvg-logo="https://i.hizliresim.com/3tzovae.png" group-title="DeaTHLesS-TV", Discovery ID
 https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery" tvg-logo="https://i.hizliresim.com/pjou8bw.png" group-title="DeaTHLesS-TV",TR:Discovery
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery" tvg-logo="https://i.hizliresim.com/pjou8bw.png" group-title="DeaTHLesS-TV", Discovery
 https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Yaban" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yaban-tv-buyuk.png" group-title="DeaTHLesS-TV",TR:Yaban
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Yaban" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yaban-tv-buyuk.png" group-title="DeaTHLesS-TV", Yaban
 https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Docubox" tvg-logo="https://i.hizliresim.com/f982ch5.png" group-title="DeaTHLesS-TV",TR:Docubox
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Docubox" tvg-logo="https://i.hizliresim.com/f982ch5.png" group-title="DeaTHLesS-TV", Docubox
 https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Tarih Tv" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tarih-tv-buyuk.png" group-title="DeaTHLesS-TV",TR:Tarih Tv
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Tarih Tv" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tarih-tv-buyuk.png" group-title="DeaTHLesS-TV", Tarih Tv
 https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: History" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/history150.jpg" group-title="DeaTHLesS-TV",TR:History
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: History" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/history150.jpg" group-title="DeaTHLesS-TV", History
 https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV",TR:BBC Earth
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV", BBC Earth
 https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Geo" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" group-title="DeaTHLesS-TV",TR:Nat Geo
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Geo" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" group-title="DeaTHLesS-TV", Nat Geo
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Wild" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/logo1_0.jpg" group-title="DeaTHLesS-TV",TR:Nat Wild
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV",TR:Love Nature
+
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV", Love Nature
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV",TR:Viasat History
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV", Viasat History
 https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 1 HD
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", BEIN SPOR 1 HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 2 HD
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 3 HD
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 3 HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub3.m3u8
-#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 4 HD
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 4 HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub4.m3u8
-#EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:S Sport HD
+#EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", S SPORT HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
-#EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:S Sport 2 HD
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", S SPORT 2 HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus2.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TR:Tivibu Spor 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Spor 1 HD
+#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TR:Tivibu Spor 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", TiViBU SPOR 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut1.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TR:Tivibu Spor 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Spor 2 HD
+#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TR:Tivibu Spor 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 2 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut2.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TR:Tivibu Spor 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Spor 3 HD
+#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TR:Tivibu Spor 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 3 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut3.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Spor 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Spor 4 HD
+#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Spor 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 4 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut4.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 1 HD
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 1 HD
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 2 HD
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 3 HD
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 3 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 4 HD
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 4 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport 5 HD
+#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 5 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="bein-sports-max-1" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport Max 1 HD
+#EXTINF:-1 tvg-id="bein-sports-max-1" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR Max 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-max-2" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:beIN Sport Max 2 HD
+#EXTINF:-1 tvg-id="bein-sports-max-2" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR Max 2 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:S Sport 1 HD
+#EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", S SPORT 1 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:S Sport 2 HD
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:S SPORT 2 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Sport HD
+#EXTINF:-1 tvg-id="tivibu-spor" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Sport 1 HD
+#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Sport 2 HD
+#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 2 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Sport 3 HD
+#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 3 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tivibu Sport 4 HD
+#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 4 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-id="smart-sport-1" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Smart Sport 1 HD
+#EXTINF:-1 tvg-id="smart-sport-1" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", SMART SPOR 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-id="smart-sport-2" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Smart Sport 2 HD
+#EXTINF:-1 tvg-id="smart-sport-2" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", SMART SPOR 2 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-id="euro-sport-1" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Euro Sport 1 HD
+#EXTINF:-1 tvg-id="euro-sport-1" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",EURO SPORT 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-id="euro-sport-2" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Euro Sport 2 HD
+#EXTINF:-1 tvg-id="euro-sport-2" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", EURO SPORT 2 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-id="tabii" tvg-name="TR:Tabii HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii HD
+#EXTINF:-1 tvg-id="tabii" tvg-name="TR:Tabii HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-id="tabii-1" tvg-name="TR:Tabii 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 1 HD
+#EXTINF:-1 tvg-id="tabii-1" tvg-name="TR:Tabii 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 1 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-id="tabii-2" tvg-name="TR:Tabii 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 2 HD
+#EXTINF:-1 tvg-id="tabii-2" tvg-name="TR:Tabii 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 2 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb2.m3u8
-#EXTINF:-1 tvg-id="tabii-3" tvg-name="TR:Tabii 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 3 HD
+#EXTINF:-1 tvg-id="tabii-3" tvg-name="TR:Tabii 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 3 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb3.m3u8
-#EXTINF:-1 tvg-id="tabii-4" tvg-name="TR:Tabii 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 4 HD
+#EXTINF:-1 tvg-id="tabii-4" tvg-name="TR:Tabii 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 4 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb4.m3u8
-#EXTINF:-1 tvg-id="tabii-5" tvg-name="TR:Tabii 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 5 HD
+#EXTINF:-1 tvg-id="tabii-5" tvg-name="TR:Tabii 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 5 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb5.m3u8
-#EXTINF:-1 tvg-id="tabii-6" tvg-name="TR:Tabii 6 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 6 HD
+#EXTINF:-1 tvg-id="tabii-6" tvg-name="TR:Tabii 6 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 6 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-id="tabii-7" tvg-name="TR:Tabii 7 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 7 HD
+#EXTINF:-1 tvg-id="tabii-7" tvg-name="TR:Tabii 7 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 7 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb7.m3u8
-#EXTINF:-1 tvg-id="tabii-8" tvg-name="TR:Tabii 8 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Tabii 8 HD
+#EXTINF:-1 tvg-id="tabii-8" tvg-name="TR:Tabii 8 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tabii 8 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb8.m3u8
-#EXTINF:-1 tvg-id="exxen" tvg-name="TR:Exxen HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Exxen HD
+#EXTINF:-1 tvg-id="exxen" tvg-name="TR:Exxen HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", EXXEN HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-id="exxen-1" tvg-name="TR:Exxen 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:Exxen 1 HD
+#EXTINF:-1 tvg-id="exxen-1" tvg-name="TR:Exxen 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", EXXEN 1 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn1.m3u8
 
 
