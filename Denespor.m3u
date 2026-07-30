@@ -90,6 +90,7 @@ https://hlsforever.forgetmoenszo.workers.dev/https://netspor.tecostream.xyz/bs11
 http://look4k.com:8080/live/Alhusseintv/05032026/228365.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1B
 https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1BB
 https://hlsforever.forgetmoenszo.workers.dev/https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1C
 https://german.389c93e126491a.click/live/sbeinsports-1/playlist.m3u8
@@ -310,30 +311,20 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 
 
 #EXTINF:0 type="stream" channelId="641", S SPORT 1A
-https://bstelevision.com/proxy.php?url=https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport/playlist.m3u8
+https://bstelevision.com/proxy.php?url=https://corestream.siteyaptim.live//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1B
-https://bstelevision.com/proxy.php?url=https://dga1op10s1u3leo.562958f3179f30.click/live/sssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1C
-https://bstelevision.com/proxy.php?url=https://german.389c93e126491a.click/live/selcukssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1D
-https://bstelevision.com/proxy.php?url=https://german.389c93e126491a.click/live/sssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1E
-https://hlsforever.forgetmoenszo.workers.dev/https://agu.77b6de8e471484.click/live/selcukssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1F
-https://hlsforever.forgetmoenszo.workers.dev/https://agu.77b6de8e471484.click/live/sssport/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1G
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1H
+#EXTINF:0 type="stream" channelId="641", S SPORT 1C
 https://bstelevision.com/proxy.php?url=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1J
+#EXTINF:0 type="stream" channelId="641", S SPORT 1D
 https://bstelevision.com/proxy.php?url=https://biraz.6781237.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1K
+#EXTINF:0 type="stream" channelId="641", S SPORT 1E
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess1.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT 1F
+https://bstelevision.com/proxy.php?url=https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivess1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport
-https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivess1.m3u8
 
 #EXTINF:0 type="stream" channelId="641", S SPORT 2A
 https://dga1op10s1u3leo.562958f3179f30.click/live/selcukssport2/playlist.m3u8
