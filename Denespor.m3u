@@ -345,8 +345,7 @@ https://german.389c93e126491a.click/live/selcukssport2/playlist.m3u8
 https://german.389c93e126491a.click/live/sssport-2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2E
 https://agu.77b6de8e471484.click/live/selcukssport2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 2F
-https://agu.77b6de8e471484.click/live/sssport-2/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="641", S SPORT 2G
 https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2H
@@ -355,6 +354,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2K
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess2.m3u8
+
+#EXTINF:0 type="stream" channelId="641", S SPORT PLUS 1
+https://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/19070/index.m3u8
+#EXTINF:0 type="stream" channelId="641", S SPORT PLUS 2
+https://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/19071/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2ulgpm6.png" group-title="TR | SPOR 1",SSport
 https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivess2.m3u8
