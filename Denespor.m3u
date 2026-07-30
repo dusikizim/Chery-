@@ -77,19 +77,20 @@ http://cb22cdb9.rossteleccom.net/iptv/VEXVELA6Z7PXH6/6816/index.m3u8
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6816/index.m3u8
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT Aron
-https://corestream.ronaldovurdu.help//bein1/tracks-v1a1/mono.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://corestream.ronaldovurdu.help//bein1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1B
-https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1Cnet
-https://netspor.tecostream.xyz/bs1.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1Dnet
-https://netspor.tecostream.xyz/bs11.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://netspor.tecostream.xyz/bs1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK 1Dnet2
+https://hlsforever.forgetmoenszo.workers.dev/https://netspor.tecostream.xyz/bs11.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1LOK
 http://look4k.com:8080/live/Alhusseintv/05032026/228365.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1B
 https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1C
 https://german.389c93e126491a.click/live/sbeinsports-1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1D
