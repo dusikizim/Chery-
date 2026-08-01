@@ -1,17 +1,86 @@
 #EXTM3U
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery ID" tvg-logo="https://i.hizliresim.com/3tzovae.png" group-title="DeaTHLesS-TV", Discovery ID
+https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery" tvg-logo="https://i.hizliresim.com/pjou8bw.png" group-title="DeaTHLesS-TV", Discovery
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Yaban" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yaban-tv-buyuk.png" group-title="DeaTHLesS-TV", Yaban
+https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Docubox" tvg-logo="https://i.hizliresim.com/f982ch5.png" group-title="DeaTHLesS-TV", Docubox
+https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Tarih Tv" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tarih-tv-buyuk.png" group-title="DeaTHLesS-TV", Tarih Tv
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: History" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/history150.jpg" group-title="DeaTHLesS-TV", History
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV", BBC Earth
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Geo" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" group-title="DeaTHLesS-TV", Nat Geo
+https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
-#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
-https://www.canlitv.tech/hls/ahaber.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV", Love Nature
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV", Viasat History
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 1 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="DeaTHLesS-TV",TRT 1 
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 1 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="DeaTHLesS-TV",TRT 1 
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 2  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="DeaTHLesS-TV",TRT 2  
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 2  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="DeaTHLesS-TV",TRT 2  
+https://trn03.tulix.tv/gt-trt2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Atv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="DeaTHLesS-TV", ATV 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Atv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="DeaTHLesS-TV", ATV 
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/a2-tr.png",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kanal D HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="DeaTHLesS-TV", KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:Kanal D HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="DeaTHLesS-TV", KANAL D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Show TV HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="DeaTHLesS-TV", SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
+#EXTINF:-1 tvg-id="" tvg-name="TR:Show TV HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="DeaTHLesS-TV",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:Star  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="DeaTHLesS-TV", STAR TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
+#EXTINF:-1 tvg-id="" tvg-name="TR:Star  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="DeaTHLesS-TV",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/star-tv-tr.png",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8b7lgxw5regk&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="TR:Now HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="DeaTHLesS-TV", NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Now HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="DeaTHLesS-TV", NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tv 8 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="DeaTHLesS-TV", TV 8 HD
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8 Buçuk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="DeaTHLesS-TV", TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
+EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Türk Haber" tvg-name="Türk Haber" group-title="HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png",Türk Haber
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
@@ -52,68 +121,66 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 
 
 
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Komedi" tvg-logo="https://i.hizliresim.com/fp7aixh.png" group-title="DeaTHLesS-TV",Sinema Komedi
+https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 1" tvg-logo="https://i.hizliresim.com/kjt701f.png" group-title="DeaTHLesS-TV",Sinema Aksiyon 1
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="https://i.hizliresim.com/ncnj330.png" group-title="DeaTHLesS-TV",Sinema Aksiyon 2
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Yerli" tvg-logo="https://i.hizliresim.com/e7m18lb.png" group-title="DeaTHLesS-TV",Sinema Yerli
+https://proud-river-e20b.pantonum1.workers.dev/sinemayerli.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aile" tvg-logo="https://i.hizliresim.com/mnfr82f.png" group-title="DeaTHLesS-TV",Sinema Aile
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1001" tvg-logo="https://i.hizliresim.com/csdsbp8.png" group-title="DeaTHLesS-TV",Sinema 1001
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1002" tvg-logo="https://i.hizliresim.com/sgqd2g0.png" group-title="DeaTHLesS-TV",Sinema 1002
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 1" tvg-logo="https://i.hizliresim.com/74fldjk.png" group-title="DeaTHLesS-TV",Sinema Tv 1
+https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 2" tvg-logo="https://i.hizliresim.com/m38w8z6.png" group-title="DeaTHLesS-TV",Sinema Tv 2
+https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Fx" tvg-logo="https://i.hizliresim.com/e18xvq8.png" group-title="DeaTHLesS-TV", FX TV
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Movie Smart Türk" tvg-logo="https://i.hizliresim.com/kqzlyev.png" group-title="DeaTHLesS-TV",Movie Smart Türk
+https://proud-river-e20b.pantonum1.workers.dev/mvturk.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Premier" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Premier
+https://proud-river-e20b.pantonum1.workers.dev/bspremier1.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Stars
+https://proud-river-e20b.pantonum1.workers.dev/bsstars.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Family" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Family
+https://proud-river-e20b.pantonum1.workers.dev/bsfamily.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Türk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="DeaTHLesS-TV", beIN Türk
+https://proud-river-e20b.pantonum1.workers.dev/bsturk.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Action" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Action
+https://proud-river-e20b.pantonum1.workers.dev/bsaction1.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 1
+https://proud-river-e20b.pantonum1.workers.dev/box1.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-2-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 2
+https://proud-river-e20b.pantonum1.workers.dev/box2.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 3
+https://proud-river-e20b.pantonum1.workers.dev/box3.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="DeaTHLesS-TV", beIN Series 1
+https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png" group-title="DeaTHLesS-TV", beIN Series 2
+https://proud-river-e20b.pantonum1.workers.dev/bsseries2.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="DeaTHLesS-TV", beIN Series 3
+https://proud-river-e20b.pantonum1.workers.dev/bsseries3.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 4" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png" group-title="DeaTHLesS-TV", beIN Series 4
+https://proud-river-e20b.pantonum1.workers.dev/bsseries4.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 1
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 4 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 2
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 5 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 3
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 8 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 4
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 6 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV", CİNE 5 TV 
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 
 
-
-
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 1 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="DeaTHLesS-TV",TRT 1 
-https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 1 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="DeaTHLesS-TV",TRT 1 
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 2  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="DeaTHLesS-TV",TRT 2  
-https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt 2  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png" group-title="DeaTHLesS-TV",TRT 2  
-https://trn03.tulix.tv/gt-trt2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Atv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="DeaTHLesS-TV", ATV 
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Atv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="DeaTHLesS-TV", ATV 
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/a2-tr.png",A2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Kanal D HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="DeaTHLesS-TV", KANAL D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Kanal D HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="DeaTHLesS-TV", KANAL D
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Show TV HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="DeaTHLesS-TV", SHOW TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
-#EXTINF:-1 tvg-id="" tvg-name="TR:Show TV HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="DeaTHLesS-TV",SHOW TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Star  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="DeaTHLesS-TV", STAR TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
-#EXTINF:-1 tvg-id="" tvg-name="TR:Star  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="DeaTHLesS-TV",STAR TV
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/star-tv-tr.png",Star TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8b7lgxw5regk&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Now HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="DeaTHLesS-TV", NOW TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Now HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="DeaTHLesS-TV", NOW TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Tv 8 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="DeaTHLesS-TV", TV 8 HD
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8 Buçuk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="DeaTHLesS-TV", TV 8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
-EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:a2 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="DeaTHLesS-TV", A2 HD
@@ -258,93 +325,6 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 2 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 1
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 4 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 2
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 5 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 3
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 8 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",TR:Sinema TV 4
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 6 HD" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV", CİNE 5 TV 
-https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-
-
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Komedi" tvg-logo="https://i.hizliresim.com/fp7aixh.png" group-title="DeaTHLesS-TV",Sinema Komedi
-https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 1" tvg-logo="https://i.hizliresim.com/kjt701f.png" group-title="DeaTHLesS-TV",Sinema Aksiyon 1
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="https://i.hizliresim.com/ncnj330.png" group-title="DeaTHLesS-TV",Sinema Aksiyon 2
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Yerli" tvg-logo="https://i.hizliresim.com/e7m18lb.png" group-title="DeaTHLesS-TV",Sinema Yerli
-https://proud-river-e20b.pantonum1.workers.dev/sinemayerli.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Aile" tvg-logo="https://i.hizliresim.com/mnfr82f.png" group-title="DeaTHLesS-TV",Sinema Aile
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1001" tvg-logo="https://i.hizliresim.com/csdsbp8.png" group-title="DeaTHLesS-TV",Sinema 1001
-https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema 1002" tvg-logo="https://i.hizliresim.com/sgqd2g0.png" group-title="DeaTHLesS-TV",Sinema 1002
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 1" tvg-logo="https://i.hizliresim.com/74fldjk.png" group-title="DeaTHLesS-TV",Sinema Tv 1
-https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Sinema Tv 2" tvg-logo="https://i.hizliresim.com/m38w8z6.png" group-title="DeaTHLesS-TV",Sinema Tv 2
-https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Fx" tvg-logo="https://i.hizliresim.com/e18xvq8.png" group-title="DeaTHLesS-TV", FX TV
-https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Movie Smart Türk" tvg-logo="https://i.hizliresim.com/kqzlyev.png" group-title="DeaTHLesS-TV",Movie Smart Türk
-https://proud-river-e20b.pantonum1.workers.dev/mvturk.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Premier" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Premier
-https://proud-river-e20b.pantonum1.workers.dev/bspremier1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Stars" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Stars
-https://proud-river-e20b.pantonum1.workers.dev/bsstars.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Family" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Family
-https://proud-river-e20b.pantonum1.workers.dev/bsfamily.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Türk" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="DeaTHLesS-TV", beIN Türk
-https://proud-river-e20b.pantonum1.workers.dev/bsturk.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Action" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Action
-https://proud-river-e20b.pantonum1.workers.dev/bsaction1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 1
-https://proud-river-e20b.pantonum1.workers.dev/box1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-2-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 2
-https://proud-river-e20b.pantonum1.workers.dev/box2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Box 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="DeaTHLesS-TV", beIN Box 3
-https://proud-river-e20b.pantonum1.workers.dev/box3.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-1-logo.png" group-title="DeaTHLesS-TV", beIN Series 1
-https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-2-logo.png" group-title="DeaTHLesS-TV", beIN Series 2
-https://proud-river-e20b.pantonum1.workers.dev/bsseries2.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png" group-title="DeaTHLesS-TV", beIN Series 3
-https://proud-river-e20b.pantonum1.workers.dev/bsseries3.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: beIN Series 4" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png" group-title="DeaTHLesS-TV", beIN Series 4
-https://proud-river-e20b.pantonum1.workers.dev/bsseries4.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery ID" tvg-logo="https://i.hizliresim.com/3tzovae.png" group-title="DeaTHLesS-TV", Discovery ID
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery" tvg-logo="https://i.hizliresim.com/pjou8bw.png" group-title="DeaTHLesS-TV", Discovery
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Yaban" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yaban-tv-buyuk.png" group-title="DeaTHLesS-TV", Yaban
-https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Docubox" tvg-logo="https://i.hizliresim.com/f982ch5.png" group-title="DeaTHLesS-TV", Docubox
-https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Tarih Tv" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tarih-tv-buyuk.png" group-title="DeaTHLesS-TV", Tarih Tv
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: History" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/history150.jpg" group-title="DeaTHLesS-TV", History
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV", BBC Earth
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Geo" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" group-title="DeaTHLesS-TV", Nat Geo
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV", Love Nature
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV", Viasat History
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", BEIN SPOR 1 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
