@@ -181,6 +181,20 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png" group-title="DeaTHLesS-TV", TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png" group-title="DeaTHLesS-TV", A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor Yıldız HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" group-title="DeaTHLesS-TV",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sports Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png" group-title="DeaTHLesS-TV", SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Fb Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png" group-title="DeaTHLesS-TV", FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR:a2 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="DeaTHLesS-TV", A2 HD
@@ -249,7 +263,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="" tvg-name="TR:Ekol TV HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/229e051d-6090-4235-a2ef-9420a17e6f9d.png" group-title="DeaTHLesS-TV", EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Ekol Sport TV HD" tvg-logo="https://i.hizliresim.com/99egc5v.png" group-title="DeaTHLesS-TV",TR:Ekol Sport TV HD
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ekol Sport TV HD" tvg-logo="https://i.hizliresim.com/99egc5v.png" group-title="DeaTHLesS-TV", EKOL SPORT 
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Halk Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c9acd31e-5cc0-4b5d-bdef-7c9f8b577c42.png" group-title="DeaTHLesS-TV", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -267,26 +281,14 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:TRT World HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/acd68840-492b-43c5-9635-bbaf32148e2a.png" group-title="DeaTHLesS-TV", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT Arabia HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1857f0c2-3a80-4b95-bb35-ffcefdcf4729.png" group-title="DeaTHLesS-TV", TRT Arabia HD
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT Arabia HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1857f0c2-3a80-4b95-bb35-ffcefdcf4729.png" group-title="DeaTHLesS-TV", TRT Arabia 
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Dw Tv (English) HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png" group-title="DeaTHLesS-TV", Dw Tv (English) 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Belgesel HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png" group-title="DeaTHLesS-TV",TRT BELGESEL 
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Krt Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" group-title="DeaTHLesS-TV", KRT TV 
-https://teknobaba.han686314.workers.dev/Krt_Tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Ulusal Kanal HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="DeaTHLesS-TV", ULUSAL KANAL 
-https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png" group-title="DeaTHLesS-TV", TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:A Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png" group-title="DeaTHLesS-TV", A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor Yıldız HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" group-title="DeaTHLesS-TV",TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Sports Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png" group-title="DeaTHLesS-TV", SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:Fb Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png" group-title="DeaTHLesS-TV", FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:Trt Çocuk  HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="DeaTHLesS-TV", TRT ÇOCUK 
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Minika Çocuk HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png" group-title="DeaTHLesS-TV", MİNİKA ÇOCUK 
@@ -327,12 +329,30 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", BEIN SPOR 1 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
+
 #EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8
+
 #EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 3 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub3.m3u8
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 3 
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs3.m3u8
+
 #EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 4 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub4.m3u8
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 4 
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 5 
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 5 
+https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", S SPORT 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
 #EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", S SPORT 2 
@@ -345,22 +365,18 @@ https://tinyurl.com/Fiat-linea-multijet/yula/ceydut2.m3u8
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut3.m3u8
 #EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Spor 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TiViBU SPOR 4 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut4.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 3 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 4 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 5 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs5.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="bein-sports-max-1" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR Max 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-id="bein-sports-max-2" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR Max 2 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm2.m3u8
+
+
 #EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", S SPORT 1 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",TR:S SPORT 2 
