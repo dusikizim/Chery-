@@ -58,6 +58,17 @@ http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 
+EXTINF:0 type="stream" channelId="641", BEİN SPOR 1 aggu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1080.xyz
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXT-X-REFERER:https://taraftarium1080.xyz
+#EXT-X-ORIGIN:https://taraftarium1080.xyz
+https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
+
+
+
+
 EXTINF:0 type="stream" channelId="641", BEİN SPOR 1 BRZ
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT Aron
