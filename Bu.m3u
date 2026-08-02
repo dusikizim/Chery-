@@ -15,18 +15,42 @@ https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 
 #EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports Haber.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports Haber
 https://netspor.tecostream.xyz/bsh.m3u8
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-A
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-B
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1B
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-B.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-C
 https://andro.2385437.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",BEIN SPOR 1
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",BEIN SPOR 1
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1D
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.adece12.sbs/checklist/receptestt.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",BEIN SPOR 1
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1E
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1A
+
+
+
 
 #EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-B.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-D
 https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
