@@ -38,10 +38,9 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT Spor Yildiz C
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",TRT SPOR A
+#EXTINF:0 type="stream" channelId="641", TRT SPOR A
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-ff
-#EXTINF:0 type="stream" channelId="641", TRT SPOR B 2K
+#EXTINF:0 type="stream" channelId="641", TRT SPOR B 
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:0 type="stream" channelId="641", TRT SPOR C
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
