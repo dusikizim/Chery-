@@ -17,16 +17,22 @@ https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 https://netspor.tecostream.xyz/bsh.m3u8
 #EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-A
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-A
+#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-B
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-B.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-B
+#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-B.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-C
 https://andro.2385437.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",BEIN SPOR 1
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",BEIN SPOR 1
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.adece12.sbs/checklist/receptestt.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",BEIN SPOR 1
+https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-B.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-B
+#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-B.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-D
 https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-C.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-C
+#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-C.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-E
 https://vavoo.to/vavoo-iptv/play/1453692314f52730c50395
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-D
+#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-F
 https://vavoo.to/vavoo-iptv/play/5934938605e361d7e0ff0
 
 
