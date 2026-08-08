@@ -4,7 +4,8 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://taraftarium1080.xyz
 #EXT-X-ORIGIN:https://taraftarium1080.xyz
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" group-title="BeinSports",BeIN Sports 1
+
+#EXTINF:0 type="stream" channelId="BEİN", BEİN SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1080.xyz
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -12,7 +13,7 @@
 #EXT-X-ORIGIN:https://taraftarium1080.xyz
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" group-title="BeinSports",BeIN Sports 1
+#EXTINF:0 type="stream" channelId="BEİN", BEİN SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1080.xyz
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -154,26 +155,44 @@ https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss2/mono.
 #EXTINF:0 type="stream" channelId="BEİN", S Sport Plus
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 
-#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Smart Spor",Smart Spor 1
+#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Smart Spor", SMART SPOR 1
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Smart Spor",Smart Spor 2
+#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Smart Spor", SMART SPOR 2
 https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", SMART SPOR 
+https://andro.226503.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", SMART SPOR 2
+https://andro.226503.xyz/checklist/androstreamlivesm2.m3u8
 
 
 #EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
 https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", Tivibu Spor 
+https://andro.226503.xyz/checklist/androstreamlivets.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
 https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", Tivibu Spor 1
+https://andro.226503.xyz/checklist/androstreamlivets1.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
 https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", Tivibu Spor 2
+https://andro.226503.xyz/checklist/androstreamlivets2.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
 https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", Tivibu Spor 3
+https://andro.226503.xyz/checklist/androstreamlivets3.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
 https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", Tivibu Spor 4
+https://andro.226503.xyz/checklist/androstreamlivets4.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Sports Tv" group-title="Ulusal ve Diğer Kanallar",Sports Tv
+#EXTINF:0 type="stream" channelId="BEİN", SPORTS TV
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,Tabii Spor
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
@@ -196,12 +215,29 @@ https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor 8.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,Tabii Spor 8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
 
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",Euro Sport 1
+
+#EXTINF:0 type="stream" channelId="BEİN", İDMAN TV 
+https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", iDMAN TV
+https://andro.226503.xyz/checklist/androstreamliveeidm.m3u8
+
+#EXTINF:0 type="stream" channelId="BEİN", CBC SPORT 
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="EuroSport",Euro Sport 1
+#EXTINF:0 type="stream" channelId="BEİN", CBC SPORT 
+https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8
+
+#EXTINF:0 type="stream" channelId="BEİN", NBA TV
+https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
+
+#EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 1
+https://andro.226503.xyz/checklist/androstreamlivees1.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 1
 https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 2" group-title="EuroSport",Euro Sport 2
+#EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 2
 https://andro.2385437.xyz/checklist/androstreamlivees2.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 2
+https://andro.226503.xyz/checklist/androstreamlivees2.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
@@ -228,8 +264,10 @@ https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Ulusal ve Diğer Kanallar",Ht Spor
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
-#EXTINF:-1 tvg-name="Nba Tv" group-title="NBA",Nba Tv
-https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
+
+https://andro.226503.xyz/checklist/androstreamliveht.m3u8
+
+
 
 
 
