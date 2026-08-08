@@ -20,27 +20,29 @@ https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 #EXT-X-ORIGIN:https://taraftarium1080.xyz
 https://patronsports2.cfd/patron/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEiN GER
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR",BEİN SPOR 1ZIRVE
 https://bstelevision.com/proxy.php?url=https://patronsports2.cfd/zirve/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="641", BEiN GER
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR",BEİN SPOR 1PATR
 https://bstelevision.com/proxy.php?url=https://patronsports2.cfd/patron/mono.m3u8
 
-
-#EXTINF:0 type="stream" channelId="641", BEiN HABER 
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR",BEİN HABER
 https://netspor.tecostream.xyz/bsh.m3u8
 
-
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" group-title="BeinSports", BEiN SPORT 1A
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEİN SPOR 1A
 https://young-surf-88a9.halitumutseler.workers.dev/https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" group-title="BeinSports", BEiN SPORT 1B
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1B
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" group-title="BeinSports", BEiN SPORT 1C
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" group-title="BeinSports", BEiN SPORT 1D
+
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1D
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1E
+
+
+
+#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1E
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.adece12.sbs/checklist/receptestt.m3u8
+
 #EXTINF:0 type="stream" channelId="641", BEiN SPORT 1F
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEiN SPORT 1G
