@@ -20,27 +20,27 @@ https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 #EXT-X-ORIGIN:https://taraftarium1080.xyz
 https://patronsports2.cfd/patron/mono.m3u8
 
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR",BEİN SPOR 1ZIRVE
-https://bstelevision.com/proxy.php?url=https://patronsports2.cfd/zirve/mono.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR",BEİN SPOR 1PATR
-https://bstelevision.com/proxy.php?url=https://patronsports2.cfd/patron/mono.m3u8
 
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR",BEİN HABER
+#EXTINF:0 type="stream" channelId="BEİN", BEİN HABER
 https://netspor.tecostream.xyz/bsh.m3u8
 
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEİN SPOR 1A
+
+#EXTINF:0 type="stream" channelId="BEİN", BEİN SPOR 1ZIRVE
+https://bstelevision.com/proxy.php?url=https://patronsports2.cfd/zirve/mono.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", BEİN SPOR 1PATR
+https://bstelevision.com/proxy.php?url=https://patronsports2.cfd/patron/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="BEİN", BEİN SPOR 1A
 https://young-surf-88a9.halitumutseler.workers.dev/https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1B
+#EXTINF:0 type="stream" channelId="BEİN",  BEiN SPORT 1B
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1C
+
+#EXTINF:0 type="stream" channelId="BEİN",  BEiN SPORT 1C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1D
+#EXTINF:0 type="stream" channelId="BEİN", BEiN SPORT 1D
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs1.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="BEİN SPOR", BEiN SPORT 1E
+#EXTINF:0 type="stream" channelId="BEİN", BEiN SPORT 1E
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.adece12.sbs/checklist/receptestt.m3u8
 
 #EXTINF:0 type="stream" channelId="BEİN", BEiN SPORT 1F
@@ -151,11 +151,9 @@ https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/check
 https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2E
 https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-name="S Sport Plus" group-title="S Sports",S Sport Plus
+#EXTINF:0 type="stream" channelId="BEİN", S Sport Plus
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+
 #EXTINF:-1 tvg-name="Smart Spor 1" group-title="Smart Spor",Smart Spor 1
 https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Smart Spor",Smart Spor 2
