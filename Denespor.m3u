@@ -79,8 +79,12 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 
 
-
-
+#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1A
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1B
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1C
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT Aron
