@@ -6,6 +6,24 @@ https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , SDM TV Sinema b
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
+#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon2
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
+https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+#EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
+https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
+#EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv2-tr.png",Sinema Tv2
+https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
+#EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
+
+
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" tvg-id="Dummy" , tabi tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=x_jOY6i_kEupfpF7NXdTYg&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" tvg-id="Dummy" , 000.Tabii Tv b
@@ -50,8 +68,7 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://canli.gopsentv.com:3604/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",ISVIÇRETV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",KUZEYMAX
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",RUMELITÜRK
 http://145.239.37.125:20458/rumeliturk/rumeliturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",SDMSINEMA
@@ -62,34 +79,7 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 
-
-#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema.tr" tvg-logo="tv logo" ,RİZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema2.tr" tvg-logo="tv logo" ,Komedi SİNEMA 
-https://65.108.239.207/sinemakomedi/index.m3u8
-#EXTINF:-1 group-title="SİNEMA" tvg-id="PofidixSinema3.tr" tvg-logo="tv logo" ,Pofidix SİNEMA 3
-http://104.238.23.182/d/live/out.m3u8?checkedby:MyWay
-#EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon2
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
-#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
-https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
-#EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
-https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
-#EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv2-tr.png",Sinema Tv2
-https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
-#EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
-https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
-#EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
-
-
-
-
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Apex
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Apex
 https://imdb-video.media-imdb.com/mc/vi1890568985/vi1890568985_1080p.mp4
 #EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Avengers: Doomsday (2026)
 https://imdb-video.media-imdb.com/mc/vi1068354329/vi1068354329_1080p.mp4
@@ -101,34 +91,34 @@ https://imdb-video.media-imdb.com/mc/vi2460338969/vi2460338969_1080p.mp4
 https://imdb-video.media-imdb.com/mc/vi1082903321/vi1082903321_1080p.mp4
 #EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg1MmRiODQtMjU1OC00Nzc5LTlhNjktNzllMmUwODIzMDU2XkEyXkFqcGc@._V1.jpg" tvg-id="https://imdb-video.media-imdb.com/mc/vi1901512729/hls/vi1901512729_8000k.m3u8" , (Yakında Michael
 https://imdb-video.media-imdb.com/mc/vi1901512729/vi1901512729_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ4MzMwYWQtZmFiNy00NmJiLWExNmEtMzgzNGE2ZDQ4NWMzXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Minions & Monsters
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ4MzMwYWQtZmFiNy00NmJiLWExNmEtMzgzNGE2ZDQ4NWMzXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Minions & Monsters
 https://imdb-video.media-imdb.com/mc/vi2684275481/vi2684275481_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MjM5M2ItMTU0My00YzI2LTg5NzEtZGNmN2ZmNzhiNjQ1XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Moana
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MjM5M2ItMTU0My00YzI2LTg5NzEtZGNmN2ZmNzhiNjQ1XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Moana
 https://imdb-video.media-imdb.com/mc/vi105367577/vi105367577_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyNDJhMjMtZTc4My00MGExLWJjN2MtNWRlNWJmMjcyOTZlXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Mortal Combat 2
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyNDJhMjMtZTc4My00MGExLWJjN2MtNWRlNWJmMjcyOTZlXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Mortal Combat 2
 https://imdb-video.media-imdb.com/vi2977548313/1701734515261-esrwmn-1760221346633.m3u8
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJiZTM2ZmItMGRiZC00NzgwLTk3M2QtNDI1ZmYxOTJkOGI3XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Scarpetta
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJiZTM2ZmItMGRiZC00NzgwLTk3M2QtNDI1ZmYxOTJkOGI3XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Scarpetta
 https://imdb-video.media-imdb.com/mc/vi1474415385/vi1474415385_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Scream 7
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Scream 7
 https://imdb-video.media-imdb.com/mc/vi2272184345/vi2272184345_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3NjEwNTItMzc1Mi00Y2QyLTljNDItOTQ4YjU4NjZjN2EyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Spider-Noir
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3NjEwNTItMzc1Mi00Y2QyLTljNDItOTQ4YjU4NjZjN2EyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Spider-Noir
 https://imdb-video.media-imdb.com/mc/vi3152202521/vi3152202521_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q5ODAzYzYtNGUwMi00NDhkLTljZDEtNjk2MjJiZmQ0MTBjXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Street Fighter
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q5ODAzYzYtNGUwMi00NDhkLTljZDEtNjk2MjJiZmQ0MTBjXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Street Fighter
 https://imdb-video.media-imdb.com/mc/vi312593177/vi312593177_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzN2VhNTAtYWUxZi00OTNiLWIyZDgtMGMxZTNlYzM3ZmE1XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Supergirl
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzN2VhNTAtYWUxZi00OTNiLWIyZDgtMGMxZTNlYzM3ZmE1XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Supergirl
 https://imdb-video.media-imdb.com/mc/vi849398553/vi849398553_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyODQzZjAtNmYxYS00YjNiLWEzYTMtNzgyZWE5ODBkZDVhXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Süper Mario Galaksi Meet Yoshi
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyODQzZjAtNmYxYS00YjNiLWEzYTMtNzgyZWE5ODBkZDVhXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Süper Mario Galaksi Meet Yoshi
 https://imdb-video.media-imdb.com/mc/vi3700345625/vi3700345625_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında The Bride
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında The Bride
 https://imdb-video.media-imdb.com/mc/vi3229862681/vi3229862681_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZhNjJmYmQtN2JkNS00OGY0LTk3YzYtNDgwNjE2ODIwODczXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında The Hunger Games Sunrise on the Reaping
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZhNjJmYmQtN2JkNS00OGY0LTk3YzYtNDgwNjE2ODIwODczXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında The Hunger Games Sunrise on the Reaping
 https://imdb-video.media-imdb.com/mc/vi2102315033/vi2102315033_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyYjk2MWMtODMyZS00MDUyLWE0OGQtOTQ3MGY0MDE0ZjVmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında The Odyssey
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyYjk2MWMtODMyZS00MDUyLWE0OGQtOTQ3MGY0MDE0ZjVmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında The Odyssey
 https://imdb-video.media-imdb.com/mc/vi766298905/vi766298905_1080p.mp4
 
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg5ZjQ0ZGQtMmY1NS00NTgyLTlkZWYtMDhlNzE3ZGY5ZDdmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında They Will Kill You
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg5ZjQ0ZGQtMmY1NS00NTgyLTlkZWYtMDhlNzE3ZGY5ZDdmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında They Will Kill You
 https://imdb-video.media-imdb.com/mc/vi1738001177/vi1738001177_1080p.mp4
-#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1YTY5ODQtOWUxYi00MGU5LWE0MGItZDkwODcyMzc3OGQ3XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , (Yakında Undertone
+#EXTINF:-1 group-title="08.FiLM YENi 2026" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1YTY5ODQtOWUxYi00MGU5LWE0MGItZDkwODcyMzc3OGQ3XkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yakında Undertone
 https://imdb-video.media-imdb.com/mc/vi2778385177/vi2778385177_1080p.mp4
 
 
@@ -152,8 +142,6 @@ https://vidmody.com/vs/tt12300742
 
 
 
-
-#EXTM3U
 #EXTINF:-1,Gurbet Kuşları (1964)
 http://lockmovies.moppie.info:8000/movie/ftVulvnpte/hD8CtQ5ntz/8069.mkv
 #EXTINF:-1,Fosforlu Cevriyem (1969)
