@@ -9,6 +9,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:0, D MAX HD
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=M2pVYVN4MmRkazFOZW9PaWRISllXOVlJKzEybT
 #EXTINF:0, D MAX HD
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:0, D MAX HD
 https://dmax.blutv.com/blutv_dmax2/live.m3u8
 
 
