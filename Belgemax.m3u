@@ -10,7 +10,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=M2pVYVN4MmRkazFOZW9PaWRISllXOVlJKzEybT
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pLDjv6w3/TLC-Logo-svg.png" group-title="ULUSAL ➾ BELGESEL",TLC 
-https://bstelevision.com/proxy.php?url=http://cdn.vizitv.workers.dev/32.m3u8&live=true
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/pLDjv6w3/TLC-Logo-svg.png" group-title="ULUSAL ➾ BELGESEL",TLC 
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqnbkVy3/In-Shot-20251210-111920820.png" group-title="ULUSAL ➾ BELGESEL",TARİH TV 
