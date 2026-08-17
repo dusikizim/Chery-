@@ -99,6 +99,10 @@ https://hlsforever.forgetmoenszo.workers.dev/https://corestream.ronaldovurdu.hel
 https://hlsforever.forgetmoenszo.workers.dev/https://netspor.tecostream.xyz/bs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK MEVOS
 https://deathless.pantonum1.workers.dev/patron.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN SPORT YEDEK MEVOSCZ
+https://deathless.pantonum1.workers.dev/zirve.m3u8
+
+
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1A
 https://young-surf-88a9.halitumutseler.workers.dev/https://562.562958f3179f30.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPORT 1LOK
