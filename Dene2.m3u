@@ -13,10 +13,13 @@ http://31.43.191.125:8880//live/VIP0168175968003861/6gsfgs2zaf5d/141359.m3u8
 #EXTINF:-1 tvg-name="BEINSPOR" group-title="BEINSPOR", BeIN HABER
 https://netspor.tecostream.xyz/bsh.m3u8
 
-
+#EXTINF:0 type="stream" channelId="641", BEİN MEVOS 1
+https://deathless.pantonum1.workers.dev/patron.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN MEVOSCZ 1
+https://deathless.pantonum1.workers.dev/zirve.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEİN SPOR 1A
-https://cors-anywhere.yidianzhishi.cn//https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1B
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
