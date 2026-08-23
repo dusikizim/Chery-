@@ -6,12 +6,9 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913460&e
 #EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA8
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913458&extension=m3u8
 
-
-
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA
-https://bstelevision.com/proxy.php?url=http://as01.spr24.net/5824/playlist.m3u8?token=nSbamDBvPQC9zu
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AAa
-https://cors-anywhere.yidianzhishi.cn/http://as01.spr24.net/5824/playlist.m3u8?token=nSbamDBvPQC9zu
+#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA8
+https://bstelevision.com/proxy.php?url=http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/836.ts
+http://31.43.191.125:8880//live/VIP0168175968003861/6gsfgs2zaf5d/141359.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", PATRON Tv
