@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913460&extension=ts&play_token=F8zr6MTpQn
+#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA8
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913460&extension=m3u8&play_token=F8zr6MTpQn
+#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA8
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913458&extension=m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1AA
 https://bstelevision.com/proxy.php?url=http://as01.spr24.net/5824/playlist.m3u8?token=nSbamDBvPQC9zu
