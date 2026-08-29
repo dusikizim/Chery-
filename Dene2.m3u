@@ -5,10 +5,6 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913460&e
 #EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1MC
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913458&extension=m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1 836
-https://bstelevision.com/proxy.php?url=http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/836.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 159
-http://31.43.191.125:8880//live/VIP0168175968003861/6gsfgs2zaf5d/141359.m3u8
 
 #EXTINF:-1 tvg-name="BEINSPOR" group-title="BEINSPOR", BeIN HABER
 https://netspor.tecostream.xyz/bsh.m3u8
@@ -23,51 +19,51 @@ https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/andros
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1B
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1C
+#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPOR 1C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1D
+#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPOR 1D
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1E
+#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPOR 1E
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.adece12.sbs/checklist/receptestt.m3u8
 
-#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1F
+#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPOR 1F
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 1G
-https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT 1H
+
+
+#EXTINF:0 type="stream" channelId="641", BEİN SPOR 1H
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.6441255.xyz/checklist/receptestt.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT MEVOS
+#EXTINF:0 type="stream" channelId="641", BEİN SPOR MEVOS
 http://ekobayi789.xyz:80/live/kamer.kasal/AtqQquB5up/454145.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN SPORT MEVOS
+#EXTINF:0 type="stream" channelId="641", BEİN SPOR MEVOS
 http://ekobayi789.xyz:80/live/kamer.kasal/AtqQquB5up/454131.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 11
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 11
 https://bstelevision.com/proxy.php?url=https://biraz.7486038.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 2A
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 2A
 https://young-surf-88a9.halitumutseler.workers.dev/https://andro.226503.xyz/checklist/androstreamlivebiraz2.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 2B
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 2B
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 2C
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 2C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 2D
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 2D
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 22
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 22
 https://bstelevision.com/proxy.php?url=https://biraz.7486038.xyz/checklist/androstreamlivebs22.m3u8
 
 
 
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 3A
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 3A
 https://young-surf-88a9.halitumutseler.workers.dev/https://andro.226503.xyz/checklist/androstreamlivebiraz3.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 3B
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 3B
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 3C
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 3C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 3D
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 3D
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN SPORT 33
+#EXTINF:0 type="stream" channelId="641", BEiN SPOR 3E
 https://bstelevision.com/proxy.php?url=https://biraz.7486038.xyz/checklist/androstreamlivebs3.m3u8
 
 
@@ -103,10 +99,6 @@ https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/andros
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebsm1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEiN MAX 1C
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN MAX 1D
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN MAX 1E
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/bsm1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="641", BEiN MAX 2A
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebsm2.m3u8
@@ -114,10 +106,6 @@ https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/andros
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebsm3.m3u8
 #EXTINF:0 type="stream" channelId="641", BEiN MAX 2C
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm2.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN MAX 2D
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
-#EXTINF:0 type="stream" channelId="641", BEiN MAX 2E
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/bsm2/mono.m3u8
 
 
 
@@ -128,10 +116,6 @@ https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/andros
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 1C
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess1.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1D
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss1/mono.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 1E
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="641", S SPORT 2A
 https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/androstreamlivebss2.m3u8
@@ -139,10 +123,6 @@ https://bstelevision.com/proxy.php?url=https://andro.226503.xyz/checklist/andros
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2C
 https://bstelevision.com/proxy.php?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess2.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 2D
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-#EXTINF:0 type="stream" channelId="641", S SPORT 2E
-https://bstelevision.com/proxy.php?url=https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
 #EXTINF:0 type="stream" channelId="BEİN", S Sport Plus
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 
@@ -256,11 +236,6 @@ https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Ulusal ve Diğer Kanallar",Ht Spor
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 
-https://andro.226503.xyz/checklist/androstreamliveht.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-name="Tjk Tv" group-title="Ulusal ve Diğer Kanallar",Tjk Tv
 https://andro.2385437.xyz/checklist/androstreamlivetjk.m3u8
@@ -276,25 +251,4 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 
 
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-C.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-E
-https://vavoo.to/vavoo-iptv/play/1453692314f52730c50395
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 1-A.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 1-F
-https://vavoo.to/vavoo-iptv/play/5934938605e361d7e0ff0
-
-
-#EXTINF:-1 group-title="SporB" tvg-id="BeIN Sports 2.tr" tvg-logo="https://resmim.net/cdn/2026/07/22/ETtrXH.png" ,BeIN Sports 22
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
