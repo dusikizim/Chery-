@@ -4,21 +4,41 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://mahsun-amp.click/
 
-#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
+
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1CEY
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1BS
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1BRZ
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1TEST
 https://andro.evrenesoglu99.click/checklist/batutest.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1SEL
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1ST
+https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2
 https://andro.evrenesoglu99.click/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports", BEIN SPOR 3
 https://andro.evrenesoglu99.click/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
+#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports", BEIN SPOR 4
 https://andro.evrenesoglu99.click/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
+#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports", BEIN SPOR 5
 https://andro.evrenesoglu99.click/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Max 1" group-title="BeinSports",BeIN Sports Max 1
+#EXTINF:-1 tvg-name="BeIN Sports Max 1" group-title="BeinSports", BEIN MAX 1
 https://andro.evrenesoglu99.click/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports",BeIN Sports Max 2
+#EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports", BEIN MAX 2
 https://andro.evrenesoglu99.click/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Haber" group-title="BeinSports",BeIN Sports Haber
+#EXTINF:-1 tvg-name="BeIN Sports Haber" group-title="BeinSports", BEIN HABER
 https://andro.evrenesoglu99.click/checklist/androstreamlivebsh.m3u8
 #EXTINF:-1 tvg-name="S Sport 1" group-title="S Sports",S Sport 1
 https://andro.evrenesoglu99.click/checklist/androstreamlivess1.m3u8
@@ -91,17 +111,7 @@ https://andro.evrenesoglu99.click/checklist/androstreamliveexn4.m3u8
 
 
 
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", BEIN SPOR 1 
-https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 1 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
-https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 2 
-https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",BEIN SPOR 3 
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub3.m3u8
