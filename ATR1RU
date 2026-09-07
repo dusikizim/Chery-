@@ -24,6 +24,13 @@ http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2293/index.m3u8
 http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2293/index.m3u8
 #EXTINF:-1,TRT 2B
 http://61043419.edemist.com/iptv/iptv/LNUZFZ7YFN4ACA/6884/index.m3u8
+#EXTINF:-1,TRT 2C
+http://c3921155.edmonst.net/iptv/ESMHU7B3S7N5NW/2293/index.m3u8
+#EXTINF:-1,TRT 2D
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6884/index.m3u8
+
+
+
 #EXTINF:-1,TRT Turk A
 http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2281/index.m3u8
 #EXTINF:-1,TRT Turk B
@@ -48,10 +55,9 @@ http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6891/index.m3u8
 http://61043419.edemist.com/iptv/2EZAKDSGZZRHAQ/6891/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="3945" tvg-rec="3" tvg-logo="http://epg.one/img2/3945.png" group-title="Türkiye ",Euro D A
+#EXTINF:-1,KANAL EURO D
 http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/6892/index.m3u8
-#EXTINF:-1 tvg-id="3945" tvg-rec="3" tvg-logo="http://epg.one/img2/3945.png" group-title="Türkiye ",Euro D B
+#EXTINF:-1,KANAL EURO D
 http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6892/index.m3u8
 
 
