@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1MC2
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913460&extension=m3u8&play_token=F8zr6MTpQn
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1MC
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:D0:EE:94&stream=913458&extension=m3u8
 
 
 #EXTINF:-1 tvg-name="BEINSPOR" group-title="BEINSPOR", BeIN HABER
