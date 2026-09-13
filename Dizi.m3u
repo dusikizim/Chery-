@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/cennetin-cocuklari.jpg" group-title="PAZARTESİ DİZİLERİ", KURTLAR VADİSİ
+https://catcast.ismailturret.workers.dev/fanatikprimekurtlarvadisi.m3u8
+
+
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/cennetin-cocuklari.jpg" group-title="PAZARTESİ DİZİLERİ",Cennetin Çocukları (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/653952/653950.m3u8
 #EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/85/2085-69525617.jpg" group-title="PAZARTESİ DİZİLERİ",Uzak şehir (Kanal D)
