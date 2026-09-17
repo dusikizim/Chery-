@@ -1,39 +1,39 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1A
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6817/index.m3u8
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6817/.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1B
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6817/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6817/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6817/index.m3u8
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6817/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1C
+http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6817/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1D
+http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6817/.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6781/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6781/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6781/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1E
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1F
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6781/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1G
+http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6781/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1HH
+http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6781/.m3u8
 
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2A
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6818/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2B
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6818/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2C
 http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6818/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2D
 http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6818/index.m3u8
 
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2E
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6819/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2F
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6819/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2HD
 http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6819/index.m3u8
@@ -437,4 +437,5 @@ http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6840/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TRT Cocuk HD TR
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6841/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Disney Junior TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6842/i
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6842/index.m3u8
+#EXT
