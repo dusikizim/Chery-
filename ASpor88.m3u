@@ -10,6 +10,7 @@
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1RED
 http://red23.eu/live/fahrettinerdinc/03.11.2020/332252.m3u8
+
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1CEY
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1BS
@@ -19,10 +20,15 @@ https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1TEST
 https://andro.evrenesoglu99.click/checklist/batutest.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1SEL
-https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
+https://bstelevision.com/proxy.php?url=https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1ST
-https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
-
+https://bstelevision.com/proxy.php?url=https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1tds
+http://31.43.191.142:8880//live/191703089055131/01703089055686/62817.ts
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1WPMX
+http://vipmax.site:8080/live/00:1A:79:B1:0D:DF/5fd87ba4/447237.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1SKY
+http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/101858.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2CEY
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2BS
