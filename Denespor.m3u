@@ -53,8 +53,6 @@ http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 
-#EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1A
-https://hlsforever.forgetmoenszo.workers.dev/https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1B
 https://hlsforever.forgetmoenszo.workers.dev/https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1C
@@ -72,7 +70,8 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://562.562958f3179f30.cl
 #EXTINF:0 type="stream" channelId="641", BEİN SPOR 1B
 https://hlsforever.forgetmoenszo.workers.dev/https://7af.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPOR 1C
-https://young-surf-88a9.halitumutseler.workers.dev/https://389.389c93e126491a.click/live/sbeinsports-1/playlist.m3u8
+https://young-surf-88a9.halitumutseler.workers.dev/https://389.389c93e126491a.click/live/selcukbeinsports1/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="641", BEİN SPOR 1D
 https://bstelevision.com/proxy.php?url=https://389.389c93e126491a.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SPOR 1E
