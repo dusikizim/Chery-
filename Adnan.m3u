@@ -7,10 +7,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV", Love Nature
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV", Viasat History
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 
 
 
@@ -421,6 +417,10 @@ https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
 https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
 #EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV", BBC Earth
 https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV", Love Nature
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV", Viasat History
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 
 
 
