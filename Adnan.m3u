@@ -1,27 +1,8 @@
 #EXTM3U
 
-
-
-#EXTINF:0 type="stream" channelId="641", BEİN 1 3143
-http://31.43.191.142:8880//live/191703089055131/01703089055686/62815.m3u8
-
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery ID" tvg-logo="https://i.hizliresim.com/3tzovae.png" group-title="DeaTHLesS-TV", Discovery ID
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery" tvg-logo="https://i.hizliresim.com/pjou8bw.png" group-title="DeaTHLesS-TV", Discovery
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Yaban" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yaban-tv-buyuk.png" group-title="DeaTHLesS-TV", Yaban
-https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Docubox" tvg-logo="https://i.hizliresim.com/f982ch5.png" group-title="DeaTHLesS-TV", Docubox
-https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Tarih Tv" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tarih-tv-buyuk.png" group-title="DeaTHLesS-TV", Tarih Tv
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: History" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/history150.jpg" group-title="DeaTHLesS-TV", History
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV", BBC Earth
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
 #EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Geo" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" group-title="DeaTHLesS-TV", Nat Geo
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
@@ -426,6 +407,20 @@ https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-id="exxen-1" tvg-name="TR:Exxen 1 HD" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV", EXXEN 1 
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn1.m3u8
 
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery ID" tvg-logo="https://i.hizliresim.com/3tzovae.png" group-title="DeaTHLesS-TV", Discovery ID
+https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Discovery" tvg-logo="https://i.hizliresim.com/pjou8bw.png" group-title="DeaTHLesS-TV", Discovery
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Yaban" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yaban-tv-buyuk.png" group-title="DeaTHLesS-TV", Yaban
+https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Docubox" tvg-logo="https://i.hizliresim.com/f982ch5.png" group-title="DeaTHLesS-TV", Docubox
+https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Tarih Tv" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tarih-tv-buyuk.png" group-title="DeaTHLesS-TV", Tarih Tv
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: History" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/history150.jpg" group-title="DeaTHLesS-TV", History
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: BBC Earth" tvg-logo="https://i.hizliresim.com/nz8bwhs.png" group-title="DeaTHLesS-TV", BBC Earth
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
 
 
 
