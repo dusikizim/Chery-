@@ -1,418 +1,435 @@
 #EXTM3U
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPORTS HABER
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2322/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPORTS HABER HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2323/index.m3u8
+
 
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1A
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6817/.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6817/.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1B
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6817/.m3u8
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1E
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6817/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1C
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6781/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1D
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 1F
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6781/.m3u8
-
-
 
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2A
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6818/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6818/.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2B
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6818/index.m3u8
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6818/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2C
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6819/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2D
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6819/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3A
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6820/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3B
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6820/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3C
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6821/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3D
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6821/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4A
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6822/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4B
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6822/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", beIN SPOR 4C
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6823/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4D
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6823/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN MAX 1A
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6824/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN MAX 1B
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6824/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", beIN MAX 1C
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6824/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN MAX 1D
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6824/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",S SPORT 1A
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6825/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",S SPORT 1B
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6824/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", S SPORT 1C
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6824/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",S SPORT 1D
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6825/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",TiViBU SPOR 2
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6816/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TiViBU SPOR 2
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6816/.m3u8
 
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2E
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6819/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 2F
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6819/index.m3u8
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6820/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6820/index.m3u8
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6821/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 3HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6821/index.m3u8
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6822/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6822/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6822/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6822/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3", beIN SPOR 4HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6823/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6823/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6823/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPOR 4HD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6823/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Sports Max 1 HD TR
-http://5d14fc23.edmonst.net/iptv/AVNFCNQBEC9VQU/6824/index.m3u8
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",S Sport 1 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6825/index.m3u8
-
-
-
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT 1
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2283/.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TRT 1
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2283/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT 1
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2283/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT 1
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/2283/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT 1
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/2283/index.m3u8
 
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT HD 4K
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/4001/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_4",TRT HD 4K
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TRT 4K
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/4001/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_8",TRT HD 4K
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/4001/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/4001/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_4",TRT 4K
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/4001/index.m3u8
 
 #EXTINF:-1 group-title="|TR| EDEM_3",KANAL D
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2326/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2326/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",KANAL D
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2326/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",KANAL D
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/2326/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",KANAL D
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/2326/index.m3u8
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2304/index.m3u8
 
+#EXTINF:-1 group-title="|TR| EDEM_3",ATV TR
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6887/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",ATV TR
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6887/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",ATV TR
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6887/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",ATV TR
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6887/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",ATV TR
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6887/index.m3u8
 
-
-
-
+#EXTINF:-1 group-title="|TR| EDEM_3",FOX TV
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2309/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",FOX TV
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2309/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",FOX TV
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2309/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",FOX TV
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/2309/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",FOX TV
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/2309/index.m3u8
 
-
-#EXTINF:-1 group-title="|TR| EDEM_3", SHOW TV HD
+#EXTINF:-1 group-title="|TR| EDEM_3", SHOW TV 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2307/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",SHOW TV HD
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2307/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",SHOW TV HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2307/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",SHOW TV HD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/2307/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",SHOW TV HD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/2307/index.m3u8
 
-
+#EXTINF:-1 group-title="|TR| EDEM_3",STAR TV FHD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6893/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",STAR TV FHD
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6893/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",STAR TV FHD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6893/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",STAR TV FHD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6893/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",STAR TV FHD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6893/index.m3u8
 
+#EXTINF:-1 group-title="|TR| EDEM_3",TV8 HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2286/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TV8 HD
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2286/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TV8 HD
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2286/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TV8 HD
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/2286/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TV8 HD
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/2286/index.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",KANAL 7
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2257/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",KANAL 7
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2257/index.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",Beyaz TV HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2310/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Beyaz TV HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2310/index.m3u8
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",Sinema TV Aile
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6806/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Sinema TV Aile
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6806/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Sinema TV Aile
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6806/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Sinema TV Aile
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6806/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",BBC EARTH 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6854/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", BBC EARTH
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6855/index.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3",SiNEMA AKSiYON
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6812/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",SiNEMA AKSiYON
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6812/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",SiNEMA AKSiYON
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6812/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",SiNEMA AKSiYON
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6812/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",HiSTORY HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6856/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", HiSTORY HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6856/index.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",DiSCOVERY HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6861/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", DiSCOVERY HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6861/index.m3u8
 
 
-
-#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART TURK
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6807/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART TURK
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6807/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART TURK
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6807/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART TURK
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6811/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",LOVE NATURE 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6864/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", LOVE NATURE 
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6864/index.m3u8
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",DiZiSMART PREMiUM
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6802/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",DiZiSMART PREMiUM
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6802/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",DiZiSMART PREMiUM
-http://4e87b8a2.rossteleccom.net/iptv/LY9PHWZHRXA5SE/6802/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",DiZiSMART PREMiUM
-http://5d14fc23.edmonst.net/iptv/ESMHU7B3S7N5NW/6802/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",NAT GEO HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6867/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", NAT GEO HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6867/index.m3u8
 
+#EXTINF:-1 group-title="|TR| EDEM_3",YABAN HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6787/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", YABAN HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6787/index.m3u8
 
+#EXTINF:-1 group-title="|TR| EDEM_3", D MAX 
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",DMAX HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2300/index.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3",Show Turk TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6797/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT Turk TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6798/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT Avaz TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6799/index.m3u8
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",Fox Crime TR
+#EXTINF:-1 group-title="|TR| EDEM_3",FOX CRIME
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6803/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", FOX CRIME 
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6803/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Gurme HD TR
+
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN GURME
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6804/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", beIN GURME 
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6804/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",FX HD TR
+
+#EXTINF:-1 group-title="|TR| EDEM_3",FX HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6805/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", FX HD 
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6805/index.m3u8
 
 
+#EXTINF:-1 group-title="|TR| EDEM_3",Sinema TV Aile
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6806/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Sinema TV Aile
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6806/index.m3u8
 
-
-#EXTINF:-1 group-title="|TR| EDEM_3",Movie Smart Classic HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",Movie Smart Action TR
+#EXTINF:-1 group-title="|TR| EDEM_3",SiNEMA AKSiYON
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6812/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",SiNEMA AKSiYON
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6812/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Series Vice TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6813/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Series Sci-fi TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6814/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Tivibu Sport 2 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6816/index.m3u8
+http://c23.edmonst.net/iptv/ESMHU7B3S7N5NW/6812/index.m3u8
 
 
 
+#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART TURK
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6807/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART TURK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6807/index.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3",A SPORT
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2256/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART Classic
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6811/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART Classic
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3",Kanal 7 HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2257/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",A2
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2260/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART ACTiON
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6812/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MOViE SMART ACTiON
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6812/.m3u8
 
-
-#EXTINF:-1 group-title="|TR| EDEM_3",STAR TV
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2274/index.m3u8
-
-
-
-#EXTINF:-1 group-title="|TR| EDEM_3",A HABER
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2259/index.m3u8
-
-#EXTINF:-1 group-title="|TR| EDEM_3",minikaGO
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2266/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",NR1 TURK TV HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2267/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT TURK EUROPA
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2281/index.m3u8
-
-#EXTINF:-1 group-title="|TR| EDEM_3",DMAX
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2290/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",A HABER HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2294/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",POWER HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2297/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",POWERTURK HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2298/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",NTV HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2299/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",DMAX HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2300/index.m3u8
-
-#EXTINF:-1 group-title="|TR| EDEM_3",STAR TV HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2301/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", LOCA 1
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6738/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",LOCA 1
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6738/.m3u8
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",NTV
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2302/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Minika Çocuk
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2303/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Kanal D HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2304/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",CNN Turk HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2305/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Teve 2 HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2306/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Haberturk HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2308/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN BOX 1 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6744/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN BOX 1
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6744/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN BOX 2 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6745/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN BOX 2
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6745/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN BOX 3
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6743/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN BOX 3
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6743/.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3",Beyaz TV HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2310/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Ulke TV HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2311/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Bloomberg HT
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2317/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",5 HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2318/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",24 TV HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2319/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",DiZiSMART PREMiUM
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6802/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",DiZiSMART PREMiUM
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6802/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN Series Vice 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6813/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN Series Vice 
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6813/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN Series Sci-fi 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6814/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",beIN Series Sci-fi
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6814/.m3u8
+
+
+#EXTINF:-1 group-title="|TR| EDEM_3",SHOW TURK
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6797/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",SHOW TURK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6797/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",A2 TV
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2260/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",A2 TV
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2260/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Teve 2 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2306/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TEVE 2
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2306/.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",360 HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2320/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2320/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",360 TV
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2320/.m3u8
+
 #EXTINF:-1 group-title="|TR| EDEM_3",TV 4 HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2321/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPORTS HABER
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2322/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN SPORTS HABER HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2323/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",CARTOON NETWORK TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2325/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2321/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3", TV 4
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2321/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT TURK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6798/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT TURK
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2281/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT AVAZ
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6799/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT AVAZ
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6799/.m3u8
 
 
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT COCUK 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6841/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TRT COCUK 
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6841/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Disney Junior 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6842/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Disney Junior 
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6842/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Minika Çocuk
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2303/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MiNiKa COCUK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2303/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MiNiKaGO
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2266/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",MiNiKaGO
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2266/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",CARTOON NETWORK
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2325/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",CARTOON NETWORK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2325/.m3u8
+
+
+#EXTINF:-1 group-title="|TR| EDEM_3",NR1 TURK TV
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2267/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",NR1 TURK TV
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2267/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",POWERTURK HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2297/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",POWERTURK HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2297/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",POWER HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2298/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",POWER HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2298/.m3u8
+
+
+#EXTINF:-1 group-title="|TR| EDEM_3",A HABER HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2294/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",A HABER
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2259/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",NTV HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2299/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",NTV
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2302/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",CNN Turk HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2305/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",CNN turk HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2305/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Haberturk HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2308/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Haberturk HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2308/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Ulke TV HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2311/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Ulke TV HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2311/.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",Bloomberg HT
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2317/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Bloomberg HT
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2317/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TV5 HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2318/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TV5 HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2318/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",24 TV HD
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2319/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",24 TV HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2319/.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TV 100 HD
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2328/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Loca 1 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6738/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Box Office 3 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6743/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Box Office 1 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6744/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Box Office 2 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6745/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2328/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TV 100 HD
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2328/.m3u8
+
+
+
 #EXTINF:-1 group-title="|TR| EDEM_3",ARTI 1 TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6748/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Uzay Haber TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6749/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6748/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Uzay Haber 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6749/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TV 5 TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6751/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6751/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TV 41 TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6752/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6752/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TV 4 TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6753/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Mavi Karadeniz TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6758/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Line TV Bursa TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6759/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6753/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Mavi Karadeniz 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6758/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Line TV Bursa
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6759/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Koy TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6761/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Kibris Genc TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6762/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Kardelen TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6763/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Kanal Avrupa TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6766/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6761/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Kibris Genc TV 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6762/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Kardelen TV 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6763/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Kanal Avrupa 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6766/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",ER TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6768/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Deha TV Denizli TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6771/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6768/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Deha TV 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6771/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Ciftci TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6772/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6772/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",BRT 3 TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6774/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6774/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",BRT 2 TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6775/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6775/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",BRT 1 TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6776/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",AS TV Bursa TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6777/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Anadolu Dernek TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6778/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Anadolu TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6779/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6776/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",AS TV Bursa 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6777/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Anadolu Dernek 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6778/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Anadolu TV 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6779/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Akit TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6780/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",beIN Sports 1 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6781/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Turk Karadeniz TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6782/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6780/index.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",Turk Karadeniz 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6782/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Ada TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6783/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6783/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Vatan TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6784/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6784/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Ucankus TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6785/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TV Kayseri TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6786/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Yaban HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6787/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6785/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",TV Kayseri 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6786/index.m3u8
+
+
 #EXTINF:-1 group-title="|TR| EDEM_3",FM TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6789/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6789/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Lalegul TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6790/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6790/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TV 2000 TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6791/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6791/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Meltem TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6792/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6792/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Dost TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6793/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6793/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TRT Diyanet TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6794/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6794/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",TGRT EU TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6796/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6796/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="|TR| EDEM_3",Sports TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6828/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Eurosport 1 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6829/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Eurosport 2 HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6830/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",A Sport TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6832/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Galatasaray TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6834/index.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",A SPOR
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/2256/.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",A SPOR 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6832/index.m3u8
+
 #EXTINF:-1 group-title="|TR| EDEM_3",TJK TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6837/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6837/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",NBA TV TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6838/index.m3u8
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6838/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3",Idman TV HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6840/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",TRT Cocuk HD TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6841/index.m3u8
-#EXTINF:-1 group-title="|TR| EDEM_3",Disney Junior TR
-http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6842/index.m3u8
-#EXT
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6840/index.m3u8
+
+#EXTINF:-1 group-title="|TR| EDEM_3",Sports TV 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6828/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Eurosport 1 HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6829/index.m3u8
+#EXTINF:-1 group-title="|TR| EDEM_3",Eurosport 2 HD 
+http://233d3515.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/6830/index.m3u8
