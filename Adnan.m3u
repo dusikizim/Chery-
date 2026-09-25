@@ -3,8 +3,6 @@
 #EXTINF:-1 group-title="|TR| EDEM_3", TRT BELGESEL 
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="|TR| EDEM_3", NAT GEO
-https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 group-title="|TR| EDEM_3", D MAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
 
