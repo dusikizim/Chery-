@@ -1,28 +1,13 @@
 #EXTM3U
 
 
-
-
-
-
-
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 1.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B1
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 2.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B2
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 3.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B3
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 4.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B4
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 5.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B5
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 6.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B6
-#EXTINF:0 type="video" tvg-logo="https://dizipal.im/wp-content/uploads/2026/03/mztN5i20h6qcdy9MBa7cqVYgK0q.jpg" group-title="YARIŞMA",The Traitors Türkiye 7.Bölüm
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-traitors-turkiye/S1B7
-
 #EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yeraltı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
+#EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , MUHTEMEL ASK
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Muhtemel.Ask.SON.mkv
+
+
+
 
 #EXTINF:-1, TRT ESKİ DİZİLERi
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
