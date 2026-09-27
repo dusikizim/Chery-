@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , Yeraltı
+#EXTINF:-1, YERALTI 
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
-#EXTINF:-1 group-title="00.KIL-DiZi-SONBÖLÜMLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1.jpg" tvg-id="Dummy" , MUHTEMEL ASK
+#EXTINF:-1, MUHTEMEL ASK
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Muhtemel.Ask.SON.mkv
 
 
