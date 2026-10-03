@@ -16,17 +16,10 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="Show Plus Tv" tvg-name="Show Plus Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png",Show Plus Tv (Az)
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-
-
-
-#EXTINF:0 type="stream" channelId="641", CBC SPORT OK
-https://cors-anywhere.yidianzhishi.cn/https://andro.okan12gote14sokan.cfd/checklist/androstreamlivecbcs.m3u8
 #EXTINF:0 type="stream" channelId="641", CBC SPORT
-https://young-surf-88a9.halitumutseler.workers.dev/https://ccmoztunnelvpn.global.ssl.fastly.net/checklist/androstreamlivecbcs.m3u8
-
+https://cors-anywhere.yidianzhishi.cn/https://ccmoztunnelvpn.global.ssl.fastly.net/checklist/androstreamlivecbcs.m3u8
 #EXTINF:0 type="stream" channelId="641", CBC SPORT
 https://cors-anywhere.yidianzhishi.cn/https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
-
 
 #EXTINF:0 type="stream" channelId="641", İDMAN TV 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
