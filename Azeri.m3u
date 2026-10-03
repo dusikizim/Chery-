@@ -24,36 +24,26 @@ https://cors-anywhere.yidianzhishi.cn/https://andro.2385437.xyz/checklist/andros
 #EXTINF:0 type="stream" channelId="641", Az Tv HD
 http://ww6gvvez.ukminlt.fun/iptv/GKTT8YW6E9SFM2/966/.m3u8
 #EXTINF:0 type="stream" channelId="641", Az Tv HD
-http://ww6gvvez.ukminlt.fun/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/966/.m3u8
-#EXTINF:0 type="stream" channelId="641", Az Tv HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/966/.m3u8
 
 #EXTINF:0 type="stream" channelId="641", İctimai HD
 http://ww6gvvez.ukminlt.fun/iptv/GKTT8YW6E9SFM2/2195/.m3u8
 #EXTINF:0 type="stream" channelId="641", İctimai Tv HD
-http://ww6gvvez.ukminlt.fun/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2195/.m3u8
-#EXTINF:0 type="stream" channelId="641", İctimai Tv HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2195/.m3u8
 
 #EXTINF:0 type="stream" channelId="641", ATV Azərbaycan 
 http://ww6gvvez.ukminlt.fun/iptv/GKTT8YW6E9SFM2/16045/index.m3u8
-#EXTINF:0 type="stream" channelId="641", ATV Azərbaycan 
-http://ww6gvvez.ukminlt.fun/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/16045/index.m3u8
 #EXTINF:0 type="stream" channelId="641", ATV Azərbaycan
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/16045/index.m3u8
 
 #EXTINF:0 type="stream" channelId="641", ATV Cinema 
 http://a0bn5xro.rostelekom.xyz/iptv/GKTT8YW6E9SFM2/2120/index.m3u8
-#EXTINF:0 type="stream" channelId="641", ATV Cinema 
-http://ww6gvvez.ukminlt.fun/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2120/index.m3u8
-#EXTINF:0 type="stream" channelId="641", ATV Cinema
+EXTINF:0 type="stream" channelId="641", ATV Cinema
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2120/index.m3u8
 
 #EXTINF:0 type="stream" channelId="641", Xəzər 
 http://ww6gvvez.ukminlt.fun/iptv/GKTT8YW6E9SFM2/2199/index.m3u8
-#EXTINF:0 type="stream" channelId="641", Xəzər 
-http://ww6gvvez.ukminlt.fun/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/2199/index.m3u8
-#EXTINF:0 type="stream" channelId="641", Xəzər
+EXTINF:0 type="stream" channelId="641", Xəzər
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2199/index.m3u8
 
 #EXTINF:0 type="stream" channelId="641", ARB TV 
