@@ -1,0 +1,3 @@
+http://germany1.net:8080 | User/MAC: t7YYbsg4 | Pass: prhMFJAATE | Bitiş: 18.06.2028 00:00 | Bağlantı: 0/1
+Link: http://germany1.net:8080/get.php?username=t7YYbsg4&password=prhMFJAATE&type=m3u
+--------------------------------------------------
