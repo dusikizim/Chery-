@@ -24,7 +24,8 @@ http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/101858.m3u8
 https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib11.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 1 DAG
 https://young-surf-88a9.halitumutseler.workers.dev/https://yayinlarfidanafidanlaragaca.xyz/hls/8.m3u8
-
+#EXTINF:0 type="stream" channelId="641", BEİN 1 DAG
+https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusi1.m3u8
 
 
 #EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BEIN SPOR 2CEY
