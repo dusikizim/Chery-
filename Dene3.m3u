@@ -11,9 +11,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:7e:bd:3b&stream=401285&exten
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1RED
 http://red23.eu/live/fahrettinerdinc/03.11.2020/332252.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1TEST27
-https://andro.evrenesoglu127.click/checklist/batutest.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu127.click/checklist/batutest.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 113
-https://andro.evrenesoglu113.click/checklist/androstreamlivebs1.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu113.click/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1SEL 7af
 https://young-surf-88a9.halitumutseler.workers.dev/https://7af32.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1SEL 822
@@ -21,17 +21,18 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://8225.82250d06d39d38.c
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1ST
 https://young-surf-88a9.halitumutseler.workers.dev/https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1TDS
-http://31.43.191.142:8880//live/191703089055131/01703089055686/62817.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/http://31.43.191.142:8880//live/191703089055131/01703089055686/62817.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SKY
 http://skytv4k.org:8080//live/ajA72trobH/x8oK6dpJNP/101858.m3u8
 
+#EXTINF:0 type="stream" channelId="641", BEİN azer
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs1.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN core
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 1ZiRVE
 https://deathless.pantonum1.workers.dev/zirve.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 1PAT
 https://deathless.pantonum1.workers.dev/patron.m3u8
-
-#EXTINF:0 type="stream" channelId="641", BEİN 1 85
-http://85.203.18.21:8080//live/VIP013131757862333616/pzj69jpbmfd5/141361.m3u8?token=TxBbUEFZGgNDCQoPDgdRAQ8ABQNUUVVRVgIFDlYJVVFQAAcGV1QOXQMbFRREQRFcVwtsWFNECwFVBlcABBRHFEdXQW5bVRoDQw0KAgIGVRsaREdYWgMTClEbRkZcXEdbFgQCBwsEGhVDXEFCUkcNWFo5V1RBD1JVQw0KQ1lUSUNbXGxVV1xZVwUbAxQGF08bXxVDEw0IRFwNG0ZUXEwXAEBXEQtcRFRVTRtaWUJbF0tPRAkTYzQTHENSHEJQVhYIW1wRCxBcC0xZGxUUXkY8S1MVR0NSB1xVExVeFAUaSUNZU0tuUV5WVwRaTV9YWxAbDEQCExtEXF8PXhBZR2cVCFAQCRMEAA4AUBtE
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 1CEY
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
