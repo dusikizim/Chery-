@@ -11,8 +11,6 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?&ua=okhttp/4.12.0 Dalvik/2.1
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atv.png" group-title="ULUSAL",↺ATV HD+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-#EXTINF:-1 tvg-id="ATV Avrupa.de" tvg-name="ATV Avrupa TR" tvg-logo="https://i.imgur.com/8t5aAVx.png"  group-title="ULUSAL",ATV AVRUPA ᴴᴰ
-http://umperisn.mywire.org/index.php?id=1875&token=DeaTHLesS
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="ULUSAL",↺SHOW TV HD+
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
@@ -66,13 +64,7 @@ http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_720p.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/5tGFB0YB/In-Shot-20260111-083605419.png" group-title="ULUSAL",TRT GENÇ ᵁᴴᴰ⁺⁺™
-https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtgenc.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-name="TGRT EU" tvg-logo="https://picon-13398.kxcdn.com/tgrteutr.jpg" tvg-url="" aspect-ratio="16:9" group-title="ULUSAL",TGRT EU ᴴᴰ
-http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
-
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel"  tvg-logo="https://picon-13398.kxcdn.com/tgrtbelgeseltr.jpg" aspect-ratio="16:9"  group-title="ULUSAL",TGRT BELGESEL ᴴᴰ
-http://umperisn.mywire.org/index.php?id=594641&token=DeaTHLesS
+https://tv-trtgenc.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:1 tvg-id="ons.tr" tvg-language="Turkish" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png"  group-title="ULUSAL",ONS TV ᴴᴰ⁺
 #http://cdn-onstv.yayin.com.tr/onstv/playlist.m3u8
@@ -128,23 +120,11 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="AKİT TV HD"  tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="ULUSAL ➾ HABER",AKIT TV ᵁᴴᴰ⁺™
 https://github.com/umitm0d/-mittube/raw/main/Umittube/Akit.m3u8
 
-#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="BENGUTURK" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="ULUSAL ➾ HABER",BENGU TURK ᵁᴴᴰ⁺™
-https://yt.tecostream.xyz/live/benguturk
-
 #EXTINF:-1 tvg-id="Lider Haber Tv.tr" tvg-name="LİDERTV"  tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="ULUSAL ➾ HABER",LİDER HABER ᴴᴰ⁺™
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ulusal TV.tr" tvg-name="ULUSAL KANAL" tvg-logo="https://picon-13398.kxcdn.com/ulsalkanaltr.jpg" group-title="ULUSAL ➾ HABER",ULUSAL KANAL ᵁᴴᴰ⁺™
-https://yt.tecostream.xyz/live/ulusalkanal
-
-#EXTINF:-1 tvg-id="SZC.tr" tvg-name="SÖZCÜ TV"  tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="ULUSAL ➾ HABER" , SÖZCÜ TV ᵁᴴᴰ⁺™
-https://yt.tecostream.xyz/live/sozcutelevizyonu
-
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV"  tvg-logo="https://picon-13398.kxcdn.com/halktvtr.jpg" group-title="ULUSAL ➾ HABER",HALK TV ᵁᴴᴰ⁺™
 https://halktv-live.daioncdn.net/halktv/halktv_720.m3u8
-
-#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT TV" tvg-logo="https://www.giniko.com/logos/190x110/1112.jpg" group-title="ULUSAL ➾ HABER",KRT TV ᵁᴴᴰ⁺™
-https://yt.tecostream.xyz/live/krt
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-name="TELE1" tvg-logo="https://picon-13398.kxcdn.com/tele1tr.jpg" group-title="ULUSAL ➾ HABER",TELE 1 ᵁᴴᴰ⁺™
 https://tele1-live.ercdn.net/tele1/tele1_720.m3u8
@@ -161,12 +141,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_720p.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://picon-13398.kxcdn.com/bloomberg.jpg" group-title="ULUSAL ➾ HABER",BLOOMBERG HT ᵁᴴᴰ⁺
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght_720p.m3u8
 
-#EXTINF:-1 tvg-id="APara.tr" tvg-name="A PARA HD" tvg-logo="https://picon-13398.kxcdn.com/aparatr.jpg" group-title="ULUSAL ➾ HABER",A PARA ᵁᴴᴰ⁺™
-http://193.123.61.120:3000/kanal/apara
-
-#EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="EKOTÜRK HD" tvg-logo="https://picon-13398.kxcdn.com/ekoturktr.jpg"  group-title="ULUSAL ➾ HABER",EKOTURK ᵁᴴᴰ⁺™
-http://193.123.61.120:3000/kanal/EKOTURKTV
-
 #EXTINF:-1 tvg-id="Finansturk.tr" tvg-logo="https://finansturktv.com/images/logo.png" group-title="ULUSAL ➾ HABER",FINANSTURK ᴴᴰ⁺™
 http://51.68.154.158:1935/live/finansturk/finansturk_720p.m3u8
 
@@ -182,20 +156,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTMeclis.tr" tvg-name="TRT Meclis HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbmm_tv.png" group-title="ULUSAL ➾ HABER",TBMM - MECLiS TVᴴᴰ
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER ➾ NEWS",1 ANADOLU AJANS Live  Haber Ajansı 
-https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0e060623.smil/chunklist_b200000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnassets.aa.com.tr/assets/newVersion/images/logo1_b_yan_100.png"  group-title="HABER ➾ NEWS",2 ANADOLU AJANS Live  Haber Ajansı 
-https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c12387f12.smil/chunklist_b200000.m3u8
-
-#EXTINF:0 type="stream" group-title="HABER ➾ NEWS" channelId="-1" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/234dd0da-3246-40cd-a249-947178ae6269.jpeg",Albayrak Ajans
-https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
-
-#EXTINF:-1 group-title="HABER ➾ NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", 1DHA Canlı 1
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
-
-#EXTINF:-1 group-title="HABER ➾ NEWS" tvg-logo="https://i.imgur.com/pSvhSP2.png", 2DHA Canlı 2
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
 
 
 
