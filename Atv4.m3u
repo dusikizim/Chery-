@@ -1,0 +1,373 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor",Spor Tv
+https://sentivim.xyz/live/futbol_tv.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor",BEIN SPORTS 1-A
+#EXTVLCOPT:http-referrer=https://www.atomsportv516.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor",BEIN SPORTS 1-ZEUS
+https://zeus645423.cfd/b1/index.txt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor",BEIN SPORTS 1-TVNOW
+#EXTVLCOPT:http-referrer=https://tvnow247.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzkwNzg4OTQyMzk1fQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor",BEIN SPORTS 1-CDN
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccbfe/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYmZlOjE3OTIwMDE2OTg0NzQ6Y2RubGl2ZXR2LnR2OjhjZTZiYjc4NmY2NmIyMjguZDk3MTc5YjM1MzMyYmYwZTE3YTYzYTJlNmIwZmIwNzBkMmZiNzI4Y2U0MjkwY2E4YmI0YWZmOGFlNjcyMmMyZg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor" tvg-name="beIN Sports 1",BEIN SPORTS 1-BİT
+#EXTVLCOPT:http-referrer=https://sportsbite.org//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sportsbite.org/247/beinsports1tr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor", BEIN SPORTS 1-M
+#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
+https://andro.evrenesoglu153.click/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor", BEIN SPORTS 1-M2
+#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
+https://andro.evrenesoglu153.click/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="Spor",BEIN SPORTS 1-ACE
+http://88.99.165.164:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd&pid=238
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor",Bein Sports 1 SD-Bigo
+https://avva.magnitude.workers.dev/?url=https://yayinlarfidanafidanlaragaca.xyz/hls/4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2-A
+#EXTVLCOPT:http-referrer=https://www.atomsportv516.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein_sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="Spor",BEIN SPORTS 2-ZEUS
+https://zeus645423.cfd/b2/index.txt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="Spor",BEIN SPORTS 2-TVNOW
+#EXTVLCOPT:http-referrer=https://tvnow247.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MyIsInRzIjoxNzkwNzg4OTQyOTMyfQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="Spor",BEIN SPORTS 2-CDN
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccc04/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYzA0OjE3OTIwMDE2OTg3OTE6Y2RubGl2ZXR2LnR2OjE5NGVhNDdiOTQyYzE1NDQuNWY5YWIxZDRiOTljY2ZkNWI5NTY0ZDY2ZGFlYTZmZjViNDYwYWRmNTQ1MTg1NjVhMWRhNDc1ZTljMmU4NWE1OA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="Spor" tvg-name="beIN Sports 2",BEIN SPORTS 2-BİT
+#EXTVLCOPT:http-referrer=https://sportsbite.org//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sportsbite.org/247/beinsports2tr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="Spor", BEIN SPORTS 2-M
+#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
+https://andro.evrenesoglu153.click/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="Spor",BEIN SPORTS 2-ACE
+http://88.99.165.164:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e&pid=239
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor",Bein Sports 2 SD-Bigo
+https://avva.magnitude.workers.dev/?url=https://yayinlarfidanafidanlaragaca.xyz/hls/7.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-3-HD.png" group-title="Spor",BEIN SPORTS 3-A
+#EXTVLCOPT:http-referrer=https://www.atomsportv516.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-3-HD.png" group-title="Spor",BEIN SPORTS 3-ZEUS
+https://zeus645423.cfd/b3/index.txt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-3-HD.png" group-title="Spor",BEIN SPORTS 3-TVNOW
+#EXTVLCOPT:http-referrer=https://tvnow247.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2NCIsInRzIjoxNzkwNzg4OTQzODcxfQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-3-HD.png" group-title="Spor",BEIN SPORTS 3-CDN
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccc08/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYzA4OjE3OTIwMDE2OTkwMjU6Y2RubGl2ZXR2LnR2OjU4ZGZlZWViNmQ4MDk4ZWYuMDMwNDQzZDUyNTY3M2IxMDkxNGNlZWU3MjI2OTA0MjA4YzMxYjVhZmE4Zjk0YmVhM2IzNzc4OTExYWRiMDgyZA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-3-HD.png" group-title="Spor",BEIN SPORTS 3-BİT
+#EXTVLCOPT:http-referrer=https://sportsbite.org//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:1 group-title="Radyolar",Radyo Ekin
+http://yayin.turkhosted.com:6006/
+#EXTINF:1 group-title="Radyolar",Radyo Eksen
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",Radyo Eksen 96.2
+http://eksenwmp.radyotvonline.com/;stream.mp3
+#EXTINF:1 group-title="Radyolar",Radyo EN
+https://yayin2.canliyayin.org:7222/;
+#EXTINF:1 group-title="Radyolar",Radyo Ender
+https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
+#EXTINF:1 group-title="Radyolar",RADYO ENERGY
+https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",Radyo Esenler
+https://yayin2.canliyayin.org:10978/;
+#EXTINF:1 group-title="Radyolar",RADYO EŞME
+https://anadolu.liderhost.com.tr:8358/
+#EXTINF:1 group-title="Radyolar",RADYO ESTÜ
+https://ssl120.radyotelekom.com.tr/8024/stream
+#EXTINF:1 group-title="Radyolar",Radyo Fenomen
+https://live.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:1 group-title="Radyolar",RADYO FENOMEN 2010 LAR
+https://live.radyofenomen.com/fenomen2010/abr/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",Radyo Fenomen Clubbin
+https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:1 group-title="Radyolar",Radyo Fenomen Dans
+https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",Radyo Fikir
+https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999
+#EXTINF:1 group-title="Radyolar",Radyo Fıtrat
+http://radyofitrat.radyotvonline.net/
+#EXTINF:1 group-title="Radyolar",RADYO FLAS
+https://radyo.yayindakiler.com:4096/
+#EXTINF:1 group-title="Radyolar",Radyo Genç FM 91.4
+https://dl.gen.tr/gencradyo/canli
+#EXTINF:1 group-title="Radyolar",RADYO GERÇEK
+https://ssl120.radyotelekom.com.tr:8198/
+#EXTINF:1 group-title="Radyolar",Radyo Gökçeada
+https://radyo.yayin.com.tr:6179/;
+#EXTINF:1 group-title="Radyolar",Radyo Göktürk
+https://ip231.ozelip.com:8004/;stream.mp3
+#EXTINF:1 group-title="Radyolar",Radyo Gol
+https://edge1.radyotvonline.net/shoutcast/play/radyogol
+#EXTINF:1 group-title="Radyolar",Radyo Gül
+http://yayin2.canliyayin.org:8866/;*.mp3
+#EXTINF:1 group-title="Radyolar",RADYO GÜNEŞ
+https://sssx.radyosfer.com/radyogunes/stream
+#EXTINF:1 group-title="Radyolar",RADYO GÜVEN
+https://radyo.yayin.com.tr:4098/
+#EXTINF:1 group-title="Radyolar",RADYO HABER
+https://radyo.yayindakiler.com:4118/
+#EXTINF:1 group-title="Radyolar",Radyo Hakkın Sesi
+https://radio.mihr.com/radio/8010/hakkinsesi
+#EXTINF:1 group-title="Radyolar",Radyo Havaları
+http://37.247.98.8/stream/30/
+#EXTINF:1 group-title="Radyolar",Radyo Hayat
+http://live4.radyotvonline.com:9450/
+#EXTINF:1 group-title="Radyolar",RADYO HAZAR
+https://radyo.yayin.com.tr:8286/
+#EXTINF:1 group-title="Radyolar",Radyo Hidayet Çağı
+https://radio.mihr.com/radio/8000/radio.mp3
+#EXTINF:1 group-title="Radyolar",Radyo İlahi
+https://anadolu.liderhost.com.tr:10994/;
+#EXTINF:1 group-title="Radyolar",Radyo ILEF Ankara
+http://radyo.cc.ankara.edu.tr:8089/listen.pls
+#EXTINF:1 group-title="Radyolar",RADYO İMZA
+https://radyo.radyoimza.com:8016/
+#EXTINF:1 group-title="Radyolar",Radyo Karabalı
+https://radyokarabali.ozelip.com:9884/;
+#EXTINF:1 group-title="Radyolar",Radyo Karadeniz
+https://radyomar.80.yayin.com.tr/;
+#EXTINF:1 group-title="Radyolar",Radyo Karakoçan
+https://radyokarakocan.ozelip.com/8006/stream
+#EXTINF:1 group-title="Radyolar",Radyo Kent
+https://kentfm955.ozelip.com/9306/stream
+#EXTINF:1 group-title="Radyolar",RADYO KİLİM
+https://sslyayin.netyayin.net:10946/
+#EXTINF:1 group-title="Radyolar",RADYO KLÜP
+https://radyo.yayin.com.tr:5894/
+#EXTINF:1 group-title="Radyolar",RADYO KOÇ
+https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio
+#EXTINF:1 group-title="Radyolar",RADYO KTU
+https://sslyayin.netyayin.net:8076/
+#EXTINF:1 group-title="Radyolar",Radyo light
+https://yayin.radiolight.net:8005/live
+#EXTINF:1 group-title="Radyolar",RADYO LİVA
+https://yayin.radyoliva.com:3068/stream
+#EXTINF:1 group-title="Radyolar",RADYO LOJİK
+https://ip20.ozelip.com:9710/
+#EXTINF:1 group-title="Radyolar",radyo madyo
+https://yayin.radyomadyo.com:8004/stream
+#EXTINF:1 group-title="Radyolar",Radyo Maksat
+https://live.sinirsizhost.com.tr/8038/stream
+#EXTINF:1 group-title="Radyolar",Radyo Maranata
+http://medya.radyomaranata.com:8005/live
+#EXTINF:1 group-title="Radyolar",Radyo Mars
+https://yayin.radyomadyo.com:9400/stream
+#EXTINF:1 group-title="Radyolar",Radyo Mavi Denizim
+https://live.radyositesihazir.com/8076/stream
+#EXTINF:1 group-title="Radyolar",RADYO MEGA
+https://megaradyoiskenderun.ozelip.com/8024/stream
+#EXTINF:1 group-title="Radyolar",Radyo Megasite
+http://mega.netradyom.com:7900/;
+#EXTINF:1 group-title="Radyolar",radyo megasite
+http://mega.netradyom.com:7900/listen.pls
+#EXTINF:1 group-title="Radyolar",RADYO MEYDAN
+https://live.sinirsizhost.com/8042/stream
+#EXTINF:1 group-title="Radyolar",radyo mezopotamya
+https://anadolu.liderhost.com.tr/9404/stream
+#EXTINF:1 group-title="Radyolar",Radyo MODyAn
+http://stream.radio.co/s55d598f42/listen
+#EXTINF:1 group-title="Radyolar",RADYO MONİ
+https://radyo.yayin.com.tr:4262/stream
+#EXTINF:1 group-title="Radyolar",RADYO MOOD
+https://radyo.yayin.com.tr:5862/;
+#EXTINF:1 group-title="Radyolar",Radyo Mori
+https://amed.ozelip.com/8040/stream
+#EXTINF:1 group-title="Radyolar",RADYO MUĞLA
+https://radyo.yayindakiler.com:3006/
+#EXTINF:1 group-title="Radyolar",Radyo Munzur 97.7
+http://yayin1.yayindakiler.com:3002/;stream.nsv
+#EXTINF:1 group-title="Radyolar",RADYO MÜZEYYEN
+https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",radyo mydonose
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3
+#EXTINF:1 group-title="Radyolar",Radyo Nebi
+https://anadolu.liderhost.com.tr/9006/stream
+#EXTINF:1 group-title="Radyolar",RADYO NEŞE
+https://radyo.yayindakiler.com:2042/
+#EXTINF:1 group-title="Radyolar",RADYO NET
+https://sslyayin.netyayin.net:8068/
+#EXTINF:1 group-title="Radyolar",Radyo Net FM 98.9
+https://anadolu.liderhost.com.tr:10983/stream
+#EXTINF:1 group-title="Radyolar",RADYO NEVŞEHİR
+https://stream2.rtvtakip.com:7025/
+#EXTINF:1 group-title="Radyolar",Radyo Nida
+https://anadolu.liderhost.com.tr/8106/stream
+#EXTINF:1 group-title="Radyolar",Radyo Nostaljinin Sesi
+http://eu8.fastcast4u.com/proxy/eskininadami/stream
+#EXTINF:1 group-title="Radyolar",Radyo ODTU
+http://stream.radyoodtu.com.tr/;
+#EXTINF:1 group-title="Radyolar",Radyo ODTU - Rock
+http://stream.radyoodtu.com.tr/rock
+#EXTINF:1 group-title="Radyolar",Radyo Odtu Easy
+https://stream3.radyoodtu.com.tr:8000/easy
+#EXTINF:1 group-title="Radyolar",RADYO PAUSE
+https://radyopause.ozelip.com.tr:8040/
+#EXTINF:1 group-title="Radyolar",Radyo S
+http://icecast.netmedya.net/radyos
+#EXTINF:1 group-title="Radyolar",RADYO SAHİL
+https://radyo1.radyo-dinle.tc/8056/stream
+#EXTINF:1 group-title="Radyolar",RADYO ŞAMPİYON
+https://radyo.yayin.com.tr:4106/stream
+#EXTINF:1 group-title="Radyolar",RADYO SARI TRAMVAY
+http://37.247.98.8/stream/27/
+#EXTINF:1 group-title="Radyolar",Radyo Sarıkamış
+https://live.radyositesihazir.com:8004/stream
+#EXTINF:1 group-title="Radyolar",RADYO SEVTEK
+https://sevtekfm.ozelip.com/8020/stream
+#EXTINF:1 group-title="Radyolar",Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:1 group-title="Radyolar",Radyo Sinerji
+https://radio.guventechnology.com/9994/stream
+#EXTINF:1 group-title="Radyolar",Radyo Şiran
+https://live.radyositesihazir.com/8078/stream
+#EXTINF:1 group-title="Radyolar",Radyo Slow Time
+http://46.20.7.103:8040/;
+#EXTINF:1 group-title="Radyolar",Radyo Spor
+http://46.20.4.5:8170/
+#EXTINF:1 group-title="Radyolar",Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
+#EXTINF:1 group-title="Radyolar",Radyo Taksi
+https://live.radyo.in/8006/stream
+#EXTINF:1 group-title="Radyolar",RADYO TALYA
+https://yayin.radyotalya.com:9424/stream
+#EXTINF:1 group-title="Radyolar",Radyo Trafik 104.2 Ankara
+http://live2.radyotvonline.com:8000/
+#EXTINF:1 group-title="Radyolar",Radyo Trafik İstanbul
+http://37.247.100.118/stream/157/
+#EXTINF:1 group-title="Radyolar",Radyo Trafik Marmara
+http://37.247.100.118/stream/161/
+#EXTINF:1 group-title="Radyolar",Radyo Trio
+https://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:1 group-title="Radyolar",Radyo Tulu
+http://yayin2.canliyayin.org:8248/;*.mp3
+#EXTINF:1 group-title="Radyolar",RADYO TÜRKÜ
+https://yayin.radyomadyo.com:8008/stream
+#EXTINF:1 group-title="Radyolar",Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",RADYO TUTKU
+https://sssx.radyosfer.com/tutkuradyo/
+#EXTINF:1 group-title="Radyolar",RADYO ÜLKÜ
+https://radyo.yayin.com.tr:4006/
+#EXTINF:1 group-title="Radyolar",Radyo Vatan Türkü
+http://95.0.173.195:9000/turku
+#EXTINF:1 group-title="Radyolar",Radyo Venüs
+https://stream2.rtvtakip.com:7005/;stream.mp3
+#EXTINF:1 group-title="Radyolar",Radyo Viva
+https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",radyo viva
+https://radyoviva.radyotvonline.net/radyovivaaac
+#EXTINF:1 group-title="Radyolar",Radyo Voyage
+http://voyagewmp.radyotvonline.com/;stream.mp3
+#EXTINF:1 group-title="Radyolar",RADYO VOYAGE
+http://voyagewmp.radyotvonline.com/;
+#EXTINF:1 group-title="Radyolar",Radyo Yalova
+https://studio25.radiolize.com/radio/8200/radio.mp3
+#EXTINF:1 group-title="Radyolar",RADYO YANKI
+https://radyoyanki.ozelip.com:9918/
+#EXTINF:1 group-title="Radyolar",RADYO ZERGAN (47)
+https://sslyayin.netyayin.net/radyozergan/;
+#EXTINF:1 group-title="Radyolar",Radyo Zile FM 93.5
+https://radyozile.ozelip.com/8114/stream
+#EXTINF:1 group-title="Radyolar",RadyoAura
+https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c
+#EXTINF:1 group-title="Radyolar",RADYOTÜRK
+https://radyo.yayindakiler.com:4028/
+#EXTINF:1 group-title="Radyolar",RadyoVoyage
+http://voyagesc.radyotvonline.com/
+#EXTINF:1 group-title="Radyolar",RAP HOME
+http://37.247.98.8/stream/606/
+#EXTINF:1 group-title="Radyolar",RELAX HOME
+https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",REPLAY NEWS - Türkçe    Her 5 dakikada haber radyosu
+#EXTINF:1 group-title="Radyolar",TURKUVAZ EFSANE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",Turkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",TURKUVAZ NOSTALJİ
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",TURKUVAZ ROMANTİK
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",ÜLKÜ RADYO
+https://radyo.yayindakiler.com:4112/stream.mp3
+#EXTINF:1 group-title="Radyolar",ULUSAL ARABESK
+https://radio.guventechnology.com/9334/stream
+#EXTINF:1 group-title="Radyolar",Vav Radyo
+https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",Veng RADYO
+https://live.radyo.in/8012/stream
+#EXTINF:1 group-title="Radyolar",VİBE STATİON
+https://stream.zeno.fm/528but9e7motv
+#EXTINF:1 group-title="Radyolar",Virgin Radio Türkiye
+http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls
+#EXTINF:1 group-title="Radyolar",VİRGİN RADYO
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
+#EXTINF:1 group-title="Radyolar",VİVA TEMPO
+http://37.247.98.8/stream/166/
+#EXTINF:1 group-title="Radyolar",VİZYON NOSTALJİ
+https://stream.netradyom.com/radio/7090/radio.mp3/;
+#EXTINF:1 group-title="Radyolar",Vokal Tr
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:1 group-title="Radyolar",WORLD HİTS
+http://37.247.98.8/stream/34/
+#EXTINF:1 group-title="Radyolar",X Radio
+https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1 tvg-logo="https://logo-adresi.com/logo.png" group-title="World Sport",Arena-Premium 1
+#EXTVLCOPT:http-referrer=https://sportsbite.org//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sportsbite.org/247/arenasport1premiumrs
+#EXTINF:-1 tvg-logo="" group-title="World Sport",uktntsports1
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTEyNDgyMzgxNjI6Y2RubGl2ZXR2LnR2OjRjMDY0M2JkMDMzYTZlYzAuOTY1ZWUxZWZhZjQyM2RmZWZlNDFiYzcyN2FkY2VkMThlMDRkNTk5YzhmMTg3NTNhMTcxOGJmOTI3ZWRjMGFjMw
+#EXTINF:-1 tvg-name="beIN Sports 1",beIN Sports 1
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMDI3Njk6Y2RubGl2ZXR2LnR2Ojc4NjZkNDQ5N2Y3ZDlmYzguNGNiNjA4NDEwNjBiNjA4ZDRlMDExYzlhMDZlMzVlNDIxNzY4MzYwYmJiNGY2NDM0ZGU1MjBhNWU1YmI3Zjg4ZQ
+#EXTINF:-1 tvg-name="beIN Sports 2",beIN Sports 2
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMDcwMzg6Y2RubGl2ZXR2LnR2OjJhYTcyMWEyZDMwZTdjOTIuOTQ1N2NjY2JlYzQzY2Y2OTFjZjk3NGU1ZGIyYzZiZDA1ZDczODAyYjY3ZDliMzZjMjQ0ZDViMjEwYzE3NTYwZA
+#EXTINF:-1 tvg-name="beIN Sports 3",beIN Sports 3
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMTExNzU6Y2RubGl2ZXR2LnR2OmIwZWZlMTAxMTQzZjNmNjMuYmZlYmIwNDliMTExYWFhYmVjMzcwZGI4MjM1Nzg1YzUyOGQwNWNhYzI5ZTMwOTY4MzM0MTZkMDE4NmQ1OWE2NQ
+#EXTINF:-1 tvg-name="beIN Sports 4",beIN Sports 4
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMTUyNzI6Y2RubGl2ZXR2LnR2OjAyYzlmZjM4ZGE5MmJlYWIuN2U5MjY1M2E0M2Y1MmY4Y2I4OTdjMTc0OGM0MmI5NzdjMTIxNTg2YTk4YzgwNjI3ZTUzMTYzZWI0YTExMmVlZQ
+#EXTINF:-1 tvg-name="beIN Sports 5",beIN Sports 5
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMTk0NTQ6Y2RubGl2ZXR2LnR2OmZhNmM1ZjY1YmRkMDI3ODAuNzE2MWU2MzZhZmZjZWQyOWJmOTBiMGYxOGJjZGJlNWFhOGRjOGJhZjAwNjEwYTU0NWZmMTQwOTY3YmMxMTUyNw
+#EXTINF:-1 tvg-name="beIN Sports Haber",beIN Sports Haber
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMjM1Njk6Y2RubGl2ZXR2LnR2OmI1ZGU4YzQwMjlkM2EyNjkuYTU2NTViMDJjYjY4MjE1OWEwZWFkZjgzNDJhY2MwNGIxYmI3ZjJiZjlmNTUxMTUwOGE4YTE5YTE3Y2I0NjU4Ng
+#EXTINF:-1 tvg-name="S Sport 1",S Sport 1
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMTQxMjc2OTU6Y2RubGl2ZXR2LnR2OmNmN2I3YTcyZTA5YzVmNjIuNjY0ZTY0Y2JjZDQxODdhOGI3NDRmNmMwZTJiZDljMWI5ZjliY2M5MTk3NTJkOGRlZmI4Njg1YmUwOTg4YWY2NQ
+#EXTINF:-1 tvg-name="TiviBu Spor 1",TiviBu Spor 1
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEzMDYyMjI4OTc6Y2RubGl2ZXR2LnR2OjUzNWQxNDRmMTBjMjZkYWIuMzJiYTNkMjQ4YTM3N2Y0YzlhYjZkYmQ1MGFhNDE1NmY0YjA2ZjRiZjQ3ZDQ0ZjNjYzZkZGYwZWRlOTFmMTU4NA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="World Sport",Bein Sports usa
+https://sportsbite.org/247/beinsportsus
+ 
