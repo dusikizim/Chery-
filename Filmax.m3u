@@ -17,17 +17,8 @@ https://raw.githubusercontent.com/metvmetv33/METV/main/coutubee/kurtlar-vadisi-p
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png", GÜLDÜR GÜLDÜR 
 https://raw.githubusercontent.com/metvmetv33/METV/main/coutubee/guldur-guldur.m3u8
 
-#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
-https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
-#EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
-https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
-#EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv2-tr.png",Sinema Tv2
-https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
-#EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
-https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
-#EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
-
+#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",KEMAL
+https://raw.githubusercontent.com/metvmetv33/METV/main/coutubee/Kemal-sunal-1.m3u8
 
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" tvg-id="Dummy" , tabi tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=x_jOY6i_kEupfpF7NXdTYg&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
