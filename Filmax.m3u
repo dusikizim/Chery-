@@ -6,12 +6,17 @@ https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , SDM TV Sinema b
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon2
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+#EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",KEMAL SUNAL
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-1.m3u8
+#EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",KEMAL SUNAL 2
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-2.m3u8
+
+#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png", KURTLAR VADİSİ 
+https://raw.githubusercontent.com/metvmetv33/METV/main/coutubee/kurtlar-vadisi-pusu.m3u8
+
+#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png", GÜLDÜR GÜLDÜR 
+https://raw.githubusercontent.com/metvmetv33/METV/main/coutubee/guldur-guldur.m3u8
+
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
