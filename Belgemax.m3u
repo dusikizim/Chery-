@@ -21,43 +21,8 @@ https://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PqnbkVy3/In-Shot-20251210-111920820.png" group-title="ULUSAL ➾ BELGESEL",TARİH TV 
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqnbkVy3/In-Shot-20251210-111920820.png" group-title="ULUSAL ➾ BELGESEL",ITB TV 
 https://live.itbtvlive.com/itbtvlive/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tT0QvZkG/In-Shot-20260102-231626031.png" group-title="ULUSAL ➾ BELGESEL",VİASAT HİSTORY 
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/yNrKNHFV/In-Shot-20260111-160438896.png" group-title="ULUSAL ➾ BELGESEL",INVESTIGATION DISCOVERY  
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="ULUSAL ➾ BELGESEL", DISCOVERY CHANNEL
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="ULUSAL ➾ BELGESEL",DocuScreen
-https://proud-river-e20b.pantonum1.workers.dev/docubox.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="ULUSAL ➾ BELGESEL",LOVE NATURE 
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="ULUSAL ➾ BELGESEL",BBC EARTH 
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="ULUSAL ➾ BELGESEL",NATIONAL GEOGRAPHIC 
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf41V1rt/In-Shot-20260127-124426100.png" group-title="ULUSAL ➾ BELGESEL",NATIONAL GEOGRAPHIC WILD 
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT WILD ENGLISH
-http://41.205.77.102/NATGEO-WILD/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT WILD ENGLISH
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT WILD ENGLISH
-http://40.160.24.53/NAT_GEO_WILD/index.m3u8
-
-#EXTINF:0, NAT GEO WILD
-http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:47:93:76&stream=594679&extension=m3u8
-
-#EXTINF:0, NAT GEO WILD
-http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:47:93:76&stream=594678&extension=m3u8
-
 
 #EXTINF:0, SPORMAX WILD
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -68,36 +33,12 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", DOCU BOX ENGLISH  
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", HISTORY CHANNEL ENGLISH  
-40.160.24.53/HISTORY_CHANNEL/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", CAP TERRE FRANCE  
-http://145.239.5.177/359a/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", IN. WILD ENGLISH  
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", BBC EARTH ENGLISH  
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", N24 GERMANY  
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhkNzg0NWUzLTUwYTgtNGVmMS04MDk5LTA2ZDA3NTRkMzQyZCIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1MDIyMDQ4LCJpYXQiOjE3ODQ5MzU2NDgsImp0aSI6IjEwNThiMjM5LWU1MWMtNGJkYy05NjY1LWM3ZTZmYjA0ZTE3MyJ9.jrYOMGcI6cafQNSzShPU-AE79yqrEAipkBjM-d5iLwM
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT GEO RUSYA
-https://stream.mcquack.net/115/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", N24 GERMANY
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT GEO ENGLISH
-http://206.212.244.63/122/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT GEO ENGLISH
-http://46.32.176.50/NationalGeographicHD/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", NAT GEO ENGLISH
-http://40.160.24.53/NAT_GEO/index.m3u8
 
 
 
@@ -114,27 +55,6 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", ÖZBEKİSTAN TARiHi
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", PLUTO ANIMALS 140
-https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", PLUTO ANIMALS 142
-https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", PLUTO ANIMAUX FRANCE
-https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", PLUTO NATURA FRANCE
-https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", PLUTO NATURELEZA LATIN
-https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ELHdRqI.png" group-title="ULUSAL ➾ BELGESEL", PLUTO ANIMAUX FRANCE
 
 
 
