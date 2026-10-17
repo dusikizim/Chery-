@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/D1OSuc.jpg" group-title="Selçuk-Panel", BEiN SPOR 1 (2)
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/D1OSuc.png" group-title="Selçuk-Panel", BEiN SPOR 1 (2)
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/EOnkOB.jpg" group-title="Selçuk-Panel", BEiN SPOR 1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/D1OSuc.png" group-title="Selçuk-Panel", BEiN SPOR 1
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3lea.82250d06d39d38.click/live/sbeinsports-1/playlist.m3u8
 
