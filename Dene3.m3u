@@ -15,8 +15,7 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://8225.82250d06d39d38.c
 
 #EXTINF:0 type="stream" channelId="641", BEİN azer
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs1.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN core
-http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/253733.m3u8
+
 #EXTINF:0 type="stream" channelId="641", BEİN 1ZiRVE
 https://deathless.pantonum1.workers.dev/zirve.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 1PAT
@@ -71,10 +70,6 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://8225.82250d06d39d38.c
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs3.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 3 ZiRVE
 https://deathless.pantonum1.workers.dev/b3.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN 3 ATG 
-http://1g4qej7v.rostelekom.xyz/iptv/2ATGFW9WHHST2M4PQ48D2SNG/6820/.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN 3 WZ4V 
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6820/.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 3 DUSi
 https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib3.m3u8
 
@@ -96,10 +91,6 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://8225.82250d06d39d38.c
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs4.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 4 ZiRVE
 https://deathless.pantonum1.workers.dev/b4.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN 4 ATG 
-http://1g4qej7v.rostelekom.xyz/iptv/2ATGFW9WHHST2M4PQ48D2SNG/6822/.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN 4 WZ4V 
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6822/.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 4 DUSi
 https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib4.m3u8
 
@@ -174,7 +165,7 @@ https://deathless.pantonum1.workers.dev/ss.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",S SPORT 2 53
 https://andro.evrenesoglu153.click/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",S SPORT 2 41
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlives2.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlivess2.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2 SL389
 https://young-surf-88a9.halitumutseler.workers.dev/https://389.389c93e126491a.click/live/selcukssport2/playlist.m3u8
 EXTINF:0 type="stream" channelId="641", S SPORT 2 SL33A
@@ -182,7 +173,7 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://33a.33a6243d11525c.cl
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",S SPORT 2 SEL 7af
 https://young-surf-88a9.halitumutseler.workers.dev/https://7af32.7af32068d38fdf.click/live/selcukssport2/playlist.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",S SPORT 2 SEL 822
-https://young-surf-88a9.halitumutseler.workers.dev/https://8225.82250d06d39d38.click/live/selcuksspor2t/playlist.m3u8
+https://young-surf-88a9.halitumutseler.workers.dev/https://8225.82250d06d39d38.click/live/selcuksspor2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT 2 ZiRVE
 https://deathless.pantonum1.workers.dev/ss2.m3u8
 #EXTINF:0 type="stream" channelId="641", S SPORT PLUS 1 141
