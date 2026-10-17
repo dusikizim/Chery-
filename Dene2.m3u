@@ -11,6 +11,11 @@ https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist
 #EXTINF:0 type="stream" channelId="641", BEiN SPOR E
 https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivebs1.m3u8
 
+#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",YEDEK 1
+https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",YEDEK B
+https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 2A
@@ -173,117 +178,114 @@ https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR
 https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR B
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 1A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor1/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 1B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 1C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets1.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb1.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 1D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets4.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb1.m3u8
 
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 2A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor2/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 2B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 2C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets2.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 2D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets2.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 3A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor3/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 3B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb3.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 3C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets3.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb3.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 3D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets3.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb3.m3u8
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 4A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 4B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 4C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets4.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 5D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets4.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb4.m3u8
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 5A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor5/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 5B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets5.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetn5.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 5C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets5.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb5.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 5D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets5.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb5.m3u8
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 6A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor6/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 6B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets6.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 6C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets6.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 6D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets6.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb6.m3u8
 
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 7A
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor7/playlist.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 7B     
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivets7.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 7C
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivets7.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 group-title="TABİİ SPOR" tvg-id="Tabii Spor Alternatif.tr" tvg-logo="https://i.hizliresim.com/qxn7rxs.png" ,TABii SPOR 7D
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivets7.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivetb7.m3u8
 
 
 
 #EXTINF:0 type="stream" channelId="BEİN", İDMAN TV 
 https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
 #EXTINF:0 type="stream" channelId="BEİN", iDMAN TV
-https://andro.226503.xyz/checklist/androstreamliveeidm.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamliveidm.m3u8
 
 #EXTINF:0 type="stream" channelId="BEİN", CBC SPORT 
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:0 type="stream" channelId="BEİN", CBC SPORT 
-https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivecbcs.m3u8
 
-#EXTINF:0 type="stream" channelId="BEİN", NBA TV
-https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-
-#EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 1
-https://andro.226503.xyz/checklist/androstreamlivees1.m3u8
 #EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 1
 https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
+#EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 1
+https://andro.7486038.xyz/checklist/androstreamlivees1.m3u8
 #EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 2
 https://andro.2385437.xyz/checklist/androstreamlivees2.m3u8
 #EXTINF:0 type="stream" channelId="BEİN", EURO SPORT 2
-https://andro.226503.xyz/checklist/androstreamlivees2.m3u8
+https://andro.7486038.xyz/checklist/androstreamlivees2.m3u8
 
 
-
-#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
-https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 2" group-title="Exxen",Exxen Sports 2
-https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 3" group-title="Exxen",Exxen Sports 3
-https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 4" group-title="Exxen",Exxen Sports 4
-https://andro.2385437.xyz/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 5" group-title="Exxen",Exxen Sports 5
-https://andro.2385437.xyz/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 6" group-title="Exxen",Exxen Sports 6
-https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 7" group-title="Exxen",Exxen Sports 7
-https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
-https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",Exxen Tv
+#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",EXXEN Tv
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="Fb Tv" group-title="Ulusal ve Diğer Kanallar",Fb Tv
+#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",EXXEN SPOR 1
+https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 2" group-title="Exxen",EXXEN SPOR 2
+https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 3" group-title="Exxen",EXXEN SPOR 3
+https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 4" group-title="Exxen",EXXEN SPOR 4
+https://andro.2385437.xyz/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 5" group-title="Exxen",EXXEN SPOR 5
+https://andro.2385437.xyz/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 6" group-title="Exxen",EXXEN SPOR 6
+https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 7" group-title="Exxen",EXXEN SPOR 7
+https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",EXXEN SPOR 8
+https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
+
+#EXTINF:-1 tvg-name="Fb Tv" group-title="Ulusal ve Diğer Kanallar",FB Tv
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-name="Gs Tv" group-title="Ulusal ve Diğer Kanallar",Gs Tv
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
