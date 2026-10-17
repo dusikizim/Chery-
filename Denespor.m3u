@@ -1,15 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEİN SPOR 1A
-https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib11.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1B
 https://8225.82250d06d39d38.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPORT 1B
+https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPOR 1C
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.2385437.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="BEIN", BEiN SPOR 1D
 https://hlsforever.forgetmoenszo.workers.dev/https://andro.5493033.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEiN SPOR E
-https://hlsforever.forgetmoenszo.workers.dev/https://biraz.7486038.xyz/checklist/androstreamlivebs1.m3u8
+https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib11.m3u8
+
 
 #EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",YEDEK 1
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
