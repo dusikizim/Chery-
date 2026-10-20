@@ -35,22 +35,16 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc
 #EXTINF:0 type="stream" channelId="641", TRT Spor Yildiz C
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="641", TRT SPOR A
-https://tv-trtspor1.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0 type="stream" channelId="641", TRT SPOR B 
+#EXTINF:0 type="stream" channelId="641", TRT SPOR A 
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:0 type="stream" channelId="641", TRT SPOR C
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="641", TRT SPOR D
+EXTINF:0 type="stream" channelId="641", TRT SPOR B
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:0 type="stream" channelId="641", TRT SPOR E
-http://trt.daioncdn.net/trtspor/master_1440.m3u8?app=web
+#EXTINF:0 type="stream" channelId="641", TRT SPOR C
+http://trt.daioncdn.net/trtspor/master.m3u8?app=web
 
 
 #EXTINF:0 type="stream" channelId="641", TR SPOR 
 http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
-#EXTINF:0 type="stream" channelId="641", BEİN HABER
-https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", BEİN YEDEK 1A
