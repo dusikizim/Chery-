@@ -54,6 +54,7 @@ http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nsxye31r.png" group-title="SİNEMA/DİZİ KANALLARI",MAX PREMİER
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7zJ3PBF/22382-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",MAX DİZİ
 http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/adxuo3wb.png" group-title="SİNEMA/DİZİ KANALLARI",FİX TV
@@ -106,8 +107,6 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=x_jOY6i_kEupfpF7NXdT
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
-#EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy" , 02.Dizi film
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.cine1.com.tr/img/cine1loogo.png" tvg-id="Dummy" , 1.CINE1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png" tvg-id="Dummy" , 1.Deniz Postası
@@ -138,8 +137,8 @@ http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",CHANNEL6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",FILMSCREEN
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",GÖPSENTV
 https://canli.gopsentv.com:3604/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Sinema",ISVIÇRETV
