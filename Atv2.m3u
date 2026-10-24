@@ -368,6 +368,7 @@ https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w116897790.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RwxcCtT/unnamed-removebg-preview-(1).png" group-title="YEREL KANALLAR",KARDELEN TV
 https://edge2.taksimbilisim.com/kardelentv/bant1/chunks.m3u8?
+
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/Aq2Zk1zK5WsMokll/luys-logo-mv0LokJNE3tK8ovr.png" group-title="YEREL KANALLAR",LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/mt_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="YEREL KANALLAR",ALANYA POSTA TV
