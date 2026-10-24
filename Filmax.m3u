@@ -1,6 +1,90 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQZynzK/38
+368227-ico.png" group-title="SİNEMA/DİZİ KANALLARI",FLUX TV
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png" group-title="SİNEMA/DİZİ KANALLARI",TELEON
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" group-title="SİNEMA/DİZİ KANALLARI",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yS5jp8R/69b468997c5a5-1773430937-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",TİVİ 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lriu4jlj.png" group-title="SİNEMA/DİZİ KANALLARI",SİRİUS TV
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jzok414r.png" group-title="SİNEMA/DİZİ KANALLARI",DENİZ POSTASI TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dszsyuyq.png" group-title="SİNEMA/DİZİ KANALLARI",ŞABAN TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ocwpfya7.png" group-title="SİNEMA/DİZİ KANALLARI",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/4b5huwxzCeL.png" group-title="SİNEMA/DİZİ KANALLARI",AKASYA DURAĞI TV
+https://canli-tv.ismayilbaba611.workers.dev/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine1.com.tr/img/cine1loogo.png" group-title="SİNEMA/DİZİ KANALLARI",CİNE 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="SİNEMA/DİZİ KANALLARI",CİNE 5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS1HX7WF/37615020-ico.png" group-title="SİNEMA/DİZİ KANALLARI",PATİ TV
+http://45.88.139.156/d/live/out.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1vwfucg5.png" group-title="SİNEMA/DİZİ KANALLARI",GÖPSEN TV
+https://canli.gopsentv.com:3604/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFjW271w/37606681-ico.png" group-title="SİNEMA/DİZİ KANALLARI",BAŞKA TV
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/baska-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/j2k7tiuv.png" group-title="SİNEMA/DİZİ KANALLARI",YANSIMA SİNEMA
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/yzvued9p.png" group-title="SİNEMA/DİZİ KANALLARI",YANSIMA NOSTALJİ
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dyekf50t.png" group-title="SİNEMA/DİZİ KANALLARI",SDM SİNEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/t20j2tfo.png" group-title="SİNEMA/DİZİ KANALLARI",RİZE TÜRK TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGYfx25t/38333816-ico.png" group-title="SİNEMA/DİZİ KANALLARI",DİGİNET CİNEMA
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/vqsug3ex.png" group-title="SİNEMA/DİZİ KANALLARI",TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/u2oc8lce.png" group-title="SİNEMA/DİZİ KANALLARI",TVB
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT6V9GD3/37586347-ico.png" group-title="SİNEMA/DİZİ KANALLARI",FİLMSCREEN İNT
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="SİNEMA/DİZİ KANALLARI",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/ui9jCyKLJbY.png" group-title="SİNEMA/DİZİ KANALLARI",MAX TV
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NHN8Lrp/38943114-ico.png" group-title="SİNEMA/DİZİ KANALLARI",MAX YERLİ
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nsxye31r.png" group-title="SİNEMA/DİZİ KANALLARI",MAX PREMİER
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7zJ3PBF/22382-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",MAX DİZİ
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/adxuo3wb.png" group-title="SİNEMA/DİZİ KANALLARI",FİX TV
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/VP-NLRX.png" group-title="SİNEMA/DİZİ KANALLARI",RESURRECTİON CHANNEL
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/STAR1.png" group-title="SİNEMA/DİZİ KANALLARI",STAR 1
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/STAR2.png" group-title="SİNEMA/DİZİ KANALLARI",STAR 2
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/Turkmax.png" group-title="SİNEMA/DİZİ KANALLARI",TÜRKMAX
+http://162.212.179.32/akamaissh101/ssh101/turk_max/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/HBB_TV.gif" group-title="SİNEMA/DİZİ KANALLARI",HBB
+http://162.212.179.32/akamaissh101/ssh101/hbb_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/MEGA_ON.png" group-title="SİNEMA/DİZİ KANALLARI",MEGA ON
+http://162.212.179.32/akamaissh101/ssh101/mega_on/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1nyeqpar.png" group-title="SİNEMA/DİZİ KANALLARI",TÜRK 6
+http://162.212.179.32/akamaissh101/ssh101/turk6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vNmtL8C/23111-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",DENGE MOVİE TV
+http://162.212.179.32/akamaissh101/ssh101/dengemovie/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDFVqKhh/23113-removebg-preview.png" group-title="SİNEMA/DİZİ KANALLARI",DENGE YEŞİLÇAM TV
+http://162.212.179.32/akamaissh101/ssh101/denge1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/on1bgkjg.png" group-title="SİNEMA/DİZİ KANALLARI",ZİRVE SA
+http://maxmedya.duckdns.org/akamaissh101/ssh101/zirvesa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfphas7u.png" group-title="SİNEMA/DİZİ KANALLARI",ZİRVE SA SİNEMA
+http://maxmedya.duckdns.org/akamaissh101/ssh101/zirvesinema/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 #EXTINF:-1 group-title="00.KIL-DiZi-FİLM" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" tvg-id="Dummy" , SDM TV Sinema b
