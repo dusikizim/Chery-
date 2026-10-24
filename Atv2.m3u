@@ -75,8 +75,7 @@ https://telezen-stream.wisp.uno/telezen.m3u8
 http://176.65.153.40:6002/play/a01e/index.m3u8
 
 rr
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQZynzK/38
-368227-ico.png" group-title="SİNEMA/DİZİ KANALLARI",FLUX TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQZynzK/38368227-ico.png" group-title="SİNEMA/DİZİ KANALLARI",FLUX TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png" group-title="SİNEMA/DİZİ KANALLARI",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
