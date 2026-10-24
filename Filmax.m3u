@@ -1,8 +1,9 @@
 #EXTM3U 
 guncelleme 22 ekim/http://m3u.ch/pl/1d84259d4bf3a9832067b3c4be608cbe_6f37cddc89cc539132a35d2ac0248c89.m3u
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQZynzK/38
-368227-ico.png" group-title="SİNEMA/DİZİ KANALLARI",FLUX TV
+#EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" group-title="SİNEMA/DİZİ KANALLARI",Bİ dene
+http://germanyservers2.net:8080/live/muhammetpst/lfvmMOLYZp/89026.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQZynzK/38368227-ico.png" group-title="SİNEMA/DİZİ KANALLARI",FLUX TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png" group-title="SİNEMA/DİZİ KANALLARI",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
