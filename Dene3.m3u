@@ -52,8 +52,10 @@ http://1g4qej7v.rostelekom.xyz/iptv/2ATGFW9WHHST2M4PQ48D2SNG/6818/.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6818/.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 2 DUSi
 https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib2.m3u8
-
-
+#EXTINF:0 type="stream" channelId="641", BEİN 2 gervip
+http://germanyservers.vip/live/qr3Agyaq/rds1Gjs/146096.m3u8
+#EXTINF:0 type="stream" channelId="641", BEİN 2 gerser
+http://germanyservers2.net:8080/live/mahmut2021/2021mahmut/146096.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 3 53
 https://andro.evrenesoglu153.click/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 3 41
