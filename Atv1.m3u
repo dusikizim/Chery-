@@ -104,6 +104,9 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Teve 2 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="DeaTHLesS-TV", TV 2 
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-id="teve2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3e7hv4zG4AuAWSfRof4XxDG3bf6pZSm1ApOoONJeGaJeJBrjEAjWnHAi3&s=10" tvg-name="Teve 2 -A-" group-title="Ulusal",TEVE 2 
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR:360 HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/36157058-80ce-4724-a7ff-28bbad7df301.png" group-title="DeaTHLesS-TV", 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Tlc HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="DeaTHLesS-TV", TLC HD
