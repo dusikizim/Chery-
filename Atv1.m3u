@@ -991,7 +991,8 @@ https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Viasat History" tvg-logo="https://i.hizliresim.com/aoofg4e.png" group-title="DeaTHLesS-TV", Viasat History
 https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 
-
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Love Nature" tvg-logo="https://i.hizliresim.com/8po4g48.png" group-title="DeaTHLesS-TV", Love Nature
+https://sportsbite.org/247/beinsports1tr?.playlist.m3u8
 
 
 
