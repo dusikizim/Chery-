@@ -1,13 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 153
-https://79.76.50.223/live/ViP/GaraveliForum/34774.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34772.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34773.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34774.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34775.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34776.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34777.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34778.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+https://79.76.50.223/live/ViP/GaraveliForum/34779.ts
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 153
 https://79.76.50.223/live/ViP/GaraveliForum/34774.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD2
+https://79.76.50.223/live/ViP/GaraveliForum/34780.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD2
+https://79.76.50.223/live/ViP/GaraveliForum/34781.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD2
+https://79.76.50.223/live/ViP/GaraveliForum/34782.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD2
+https://79.76.50.223/live/ViP/GaraveliForum/34783.ts
+
 
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 153
 https://andro.evrenesoglu153.click/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 141
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlivebs1.m3u8
+https://andro.evrenesoglu141.click/checklist/androstreamlivebs1.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN SL389
 https://young-surf-88a9.halitumutseler.workers.dev/https://389.389c93e126491a.click/live/selcukbeinsports1/playlist.m3u8
 EXTINF:0 type="stream" channelId="641", BEİN 1 SL33A
@@ -37,7 +61,7 @@ http://1g4qej7v.rostelekom.xyz/iptv/R54TX4G5GFNAUK/6781/.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 2 53
 https://andro.evrenesoglu153.click/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 2 41
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlivebs2.m3u8
+https://andro.evrenesoglu141.click/checklist/androstreamlivebs2.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 2 SL389
 https://young-surf-88a9.halitumutseler.workers.dev/https://389.389c93e126491a.click/live/selcukbeinsports2/playlist.m3u8
 EXTINF:0 type="stream" channelId="641", BEİN 2 SL33A
@@ -60,10 +84,20 @@ https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib2.m3u8
 http://germanyservers.vip/live/qr3Agyaq/rds1Gjs/146096.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 2 gerser
 http://germanyservers2.net:8080/live/mahmut2021/2021mahmut/146096.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-logo="https://79.76.50.223/HD3.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD3
+https://79.76.50.223/live/ViP/GaraveliForum/34784.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-logo="https://79.76.50.223/HD3.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD3
+https://79.76.50.223/live/ViP/GaraveliForum/34785.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-logo="https://79.76.50.223/HD3.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD3
+https://79.76.50.223/live/ViP/GaraveliForum/34786.ts
+
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 3 53
 https://andro.evrenesoglu153.click/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 3 41
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlivebs3.m3u8
+https://andro.evrenesoglu141.click/checklist/androstreamlivebs3.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 3 SL389
 https://young-surf-88a9.halitumutseler.workers.dev/https://389.389c93e126491a.click/live/selcukbeinsports3/playlist.m3u8
 EXTINF:0 type="stream" channelId="641", BEİN 3 SL33A
@@ -88,7 +122,7 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://33a.33a6243d11525c.cl
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 4 53
 https://andro.evrenesoglu153.click/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 4 41
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlivebs4.m3u8
+https://andro.evrenesoglu141.click/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 4 SEL 7af
 https://young-surf-88a9.halitumutseler.workers.dev/https://7af32.7af32068d38fdf.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 4 SEL 822
@@ -99,6 +133,14 @@ https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstrea
 https://deathless.pantonum1.workers.dev/b4.m3u8
 #EXTINF:0 type="stream" channelId="641", BEİN 4 DUSi
 https://raw.githubusercontent.com/dusikizim/Trg/refs/heads/main/Dusib4.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 4.tr" tvg-logo="https://79.76.50.223/HD4.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD4
+https://79.76.50.223/live/ViP/GaraveliForum/34787.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-logo="https://79.76.50.223/HD5.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD5
+https://79.76.50.223/live/ViP/GaraveliForum/34788.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-logo="https://79.76.50.223/HD5.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD5
+https://79.76.50.223/live/ViP/GaraveliForum/34789.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-logo="https://79.76.50.223/HD5.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD5
+https://79.76.50.223/live/ViP/GaraveliForum/34790.ts
 
 
 
@@ -109,7 +151,7 @@ https://young-surf-88a9.halitumutseler.workers.dev/https://33a.33a6243d11525c.cl
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 5 53
 https://andro.evrenesoglu153.click/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 5 41
-https://hlsforever.forgetmoenszo.workers.dev/https://andro.evrenesoglu141.click/checklist/androstreamlivebs5.m3u8
+https://andro.evrenesoglu141.click/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 5 SEL 7af
 https://young-surf-88a9.halitumutseler.workers.dev/https://7af32.7af32068d38fdf.click/live/selcukbeinsports5/playlist.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BEIN SPOR 5 SEL 822
