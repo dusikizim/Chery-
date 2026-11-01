@@ -1,6 +1,18 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 1 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37893.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 2 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37897.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 3 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37901.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-4-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 4 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37903.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/beINSPORTS5-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 5 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37905.ts
+
+
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ATV
 https://79.76.50.223/live/ViP/GaraveliForum/37310.ts
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ATV Avrupa
@@ -34,7 +46,168 @@ https://79.76.50.223/live/ViP/GaraveliForum/37861.ts
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Tivibu SPOR Turkey
 https://79.76.50.223/live/ViP/GaraveliForum/37862.ts
 
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1217.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Sinema Türk 1
+https://79.76.50.223/live/ViP/GaraveliForum/35124.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1218.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Sinema Türk 2
+https://79.76.50.223/live/ViP/GaraveliForum/35125.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1219.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Sinema Türk 3
+https://79.76.50.223/live/ViP/GaraveliForum/35126.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/207.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Yeşilçam TV
+https://79.76.50.223/live/ViP/GaraveliForum/35127.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1215.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Yeşilçam TV 2
+https://79.76.50.223/live/ViP/GaraveliForum/35128.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1216.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Yeşilçam TV 3
+https://79.76.50.223/live/ViP/GaraveliForum/35129.ts
+#EXTINF:-1 tvg-id="24 HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/913.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",24
+https://79.76.50.223/live/ViP/GaraveliForum/35130.ts
+#EXTINF:-1 tvg-id="360 HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/693.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",360
+https://79.76.50.223/live/ViP/GaraveliForum/35131.ts
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/946.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",A2
+https://79.76.50.223/live/ViP/GaraveliForum/35132.ts
+#EXTINF:-1 tvg-id="A HABER HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/394.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",aHABER
+https://79.76.50.223/live/ViP/GaraveliForum/35133.ts
+#EXTINF:-1 tvg-id="A HABER HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1134.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",aHABER
+https://79.76.50.223/live/ViP/GaraveliForum/35134.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/209.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Altas Ordu TV
+https://79.76.50.223/live/ViP/GaraveliForum/35135.ts
+#EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/390.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",aSPOR
+https://79.76.50.223/live/ViP/GaraveliForum/35136.ts
+#EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1139.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",aSPOR
+https://79.76.50.223/live/ViP/GaraveliForum/35137.ts
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/98.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",ATV
+https://79.76.50.223/live/ViP/GaraveliForum/35138.ts
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1125.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",ATV
+https://79.76.50.223/live/ViP/GaraveliForum/35139.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/699.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",atv AVRUPA
+https://79.76.50.223/live/ViP/GaraveliForum/35140.ts
+#EXTINF:-1 tvg-id="Bİ Kanal.tr" tvg-logo="https://www.giniko.com/logos/190x110/784.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",B! Kanal
+https://79.76.50.223/live/ViP/GaraveliForum/35141.ts
+#EXTINF:-1 tvg-id="beIN SPORTS HABER.tr" tvg-logo="https://www.giniko.com/logos/190x110/944.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HABER
+https://79.76.50.223/live/ViP/GaraveliForum/35142.ts
+#EXTINF:-1 tvg-id="BENGÜTÜRK.tr" tvg-logo="https://www.giniko.com/logos/190x110/230.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Bengu Turk
+https://79.76.50.223/live/ViP/GaraveliForum/35143.ts
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/346.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Beyaz TV
+https://79.76.50.223/live/ViP/GaraveliForum/35144.ts
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1130.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Beyaz TV
+https://79.76.50.223/live/ViP/GaraveliForum/35145.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1159.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",CBC Sport Azerbaijan
+https://79.76.50.223/live/ViP/GaraveliForum/35146.ts
+#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/97.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",CNN Turk
+https://79.76.50.223/live/ViP/GaraveliForum/35147.ts
+#EXTINF:-1 tvg-id="DİYANET TV.tr" tvg-logo="https://www.giniko.com/logos/190x110/688.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Diyanet TV
+https://79.76.50.223/live/ViP/GaraveliForum/35148.ts
+#EXTINF:-1 tvg-id="DREAM TÜRK TV.tr" tvg-logo="https://www.giniko.com/logos/190x110/1038.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Dream Turk
+https://79.76.50.223/live/ViP/GaraveliForum/35149.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/247.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Dunya TV
+https://79.76.50.223/live/ViP/GaraveliForum/35150.ts
+#EXTINF:-1 tvg-id="Euro D.tr" tvg-logo="https://www.giniko.com/logos/190x110/164.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Euro D
+https://79.76.50.223/live/ViP/GaraveliForum/35151.ts
+#EXTINF:-1 tvg-id="Euro D.tr" tvg-logo="https://www.giniko.com/logos/190x110/1128.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Euro D
+https://79.76.50.223/live/ViP/GaraveliForum/35152.ts
+#EXTINF:-1 tvg-id="Euro Star.tr" tvg-logo="https://www.giniko.com/logos/190x110/680.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",EuroStar
+https://79.76.50.223/live/ViP/GaraveliForum/35153.ts
+#EXTINF:-1 tvg-id="FB TV.tr" tvg-logo="https://www.giniko.com/logos/190x110/210.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Fenerbahce TV
+https://79.76.50.223/live/ViP/GaraveliForum/35154.ts
+#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1094.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Haber Global
+https://79.76.50.223/live/ViP/GaraveliForum/35155.ts
+#EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/694.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",HABERTURK
+https://79.76.50.223/live/ViP/GaraveliForum/35156.ts
+#EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1137.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",HABERTURK
+https://79.76.50.223/live/ViP/GaraveliForum/35157.ts
+#EXTINF:-1 tvg-id="HALK TV.tr" tvg-logo="https://www.giniko.com/logos/190x110/1135.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Halk TV
+https://79.76.50.223/live/ViP/GaraveliForum/35158.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1160.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Idman TV
+https://79.76.50.223/live/ViP/GaraveliForum/35159.ts
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/199.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Kanal 7
+https://79.76.50.223/live/ViP/GaraveliForum/35160.ts
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1429.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Kanal 7
+https://79.76.50.223/live/ViP/GaraveliForum/35161.ts
+#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1116.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Kanal D
+https://79.76.50.223/live/ViP/GaraveliForum/35162.ts
+#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1138.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Kanal D
+https://79.76.50.223/live/ViP/GaraveliForum/35163.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/84.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",KRAL POP TV
+https://79.76.50.223/live/ViP/GaraveliForum/35170.ts
+#EXTINF:-1 tvg-id="KRT TV.tr" tvg-logo="https://www.giniko.com/logos/190x110/1112.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",KRT Kultur TV
+https://79.76.50.223/live/ViP/GaraveliForum/35171.ts
+#EXTINF:-1 tvg-id="Minika Çocuk.tr" tvg-logo="https://www.giniko.com/logos/190x110/404.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",minika COCUK
+https://79.76.50.223/live/ViP/GaraveliForum/35172.ts
+#EXTINF:-1 tvg-id="MİNİKAGO.tr" tvg-logo="https://www.giniko.com/logos/190x110/405.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",minika GO
+https://79.76.50.223/live/ViP/GaraveliForum/35173.ts
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://www.giniko.com/logos/190x110/195.gif" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",NOW
+https://79.76.50.223/live/ViP/GaraveliForum/35174.ts
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://www.giniko.com/logos/190x110/1117.gif" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",NOW
+https://79.76.50.223/live/ViP/GaraveliForum/35175.ts
+#EXTINF:-1 tvg-id="NTV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/131.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",NTV
+https://79.76.50.223/live/ViP/GaraveliForum/35176.ts
+#EXTINF:-1 tvg-id="NTV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1133.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",NTV
+https://79.76.50.223/live/ViP/GaraveliForum/35177.ts
+#EXTINF:-1 tvg-id="NUMBER1 TURK HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/172.gif" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Number 1 Turk
+https://79.76.50.223/live/ViP/GaraveliForum/35178.ts
+#EXTINF:-1 tvg-id="POWER TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/165.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Power TV
+https://79.76.50.223/live/ViP/GaraveliForum/35179.ts
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1419.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",Sat7 Turk
+https://79.76.50.223/live/ViP/GaraveliForum/35180.ts
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1420.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",SHOW
+https://79.76.50.223/live/ViP/GaraveliForum/35181.ts
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/96.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",SHOW
+https://79.76.50.223/live/ViP/GaraveliForum/35182.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/83.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/ViP/GaraveliForum/35183.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1124.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/ViP/GaraveliForum/35184.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1421.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/ViP/GaraveliForum/35185.ts
+#EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/173.png" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",TEVE2
+https://79.76.50.223/live/ViP/GaraveliForum/35186.ts
+#EXTINF:-1 tvg-id="TELE 1.tr" tvg-logo="https://www.giniko.com/logos/190x110/947.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",TELE1
+https://79.76.50.223/live/ViP/GaraveliForum/35187.ts
 
+
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 1 FR
+https://79.76.50.223/live/ViP/GaraveliForum/37892.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 1 UK
+https://79.76.50.223/live/ViP/GaraveliForum/37894.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 2 Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37895.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 2 FR
+https://79.76.50.223/live/ViP/GaraveliForum/37896.ts
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 2 UK
+https://79.76.50.223/live/ViP/GaraveliForum/37898.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 3 Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37899.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports_3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 3 FR
+https://79.76.50.223/live/ViP/GaraveliForum/37900.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-4-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 4 Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37902.ts
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-5_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 5 Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37904.ts
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-6_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 6 Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37906.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-7-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS 7 Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37907.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein_sports1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37908.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein_sports4-max-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Max 4
+https://79.76.50.223/live/ViP/GaraveliForum/37909.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein_sports-5-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Max 5
+https://79.76.50.223/live/ViP/GaraveliForum/37910.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max-6-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Max 6
+https://79.76.50.223/live/ViP/GaraveliForum/37911.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max_7-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Max 7
+https://79.76.50.223/live/ViP/GaraveliForum/37912.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/BeIn-Sports-Max-8-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Max 8
+https://79.76.50.223/live/ViP/GaraveliForum/37913.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/BeIn_Sports_Max_9-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS Max 9
+https://79.76.50.223/live/ViP/GaraveliForum/37914.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/bein-sports-news-ar.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",beIN SPORTS NEWS Arabia
+https://79.76.50.223/live/ViP/GaraveliForum/37915.ts
 
 
 
