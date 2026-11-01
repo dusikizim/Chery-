@@ -1,4 +1,186 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ATV
+https://79.76.50.223/live/ViP/GaraveliForum/37310.ts
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ATV Avrupa
+https://79.76.50.223/live/ViP/GaraveliForum/37311.ts
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="http://yt3.googleusercontent.com/RZG-XV8AGd-_HWnGIVJtSNurIjUJxtZrb06jwRrrWt1BTTRChGOdz75ATZqaPlS0zQitJdI8Rg" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",a2
+https://79.76.50.223/live/ViP/GaraveliForum/37312.ts
+#EXTINF:-1 tvg-id="Minika Çocuk.tr" tvg-logo="http://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",Minika COCUK
+https://79.76.50.223/live/ViP/GaraveliForum/37313.ts
+#EXTINF:-1 tvg-id="Minika GO.tr" tvg-logo="http://yt3.googleusercontent.com/6Ci6NdBP5dl_pY3TLFxWa6NdSm9IsG182yNUE5qmOKFiQLPscSkRyerA4AWgI2h9IFpFXN82uA" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",Minika GO
+https://79.76.50.223/live/ViP/GaraveliForum/37314.ts
+#EXTINF:-1 tvg-id="A HABER HD.tr" tvg-logo="http://yt3.ggpht.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",AHABER
+https://79.76.50.223/live/ViP/GaraveliForum/37315.ts
+#EXTINF:-1 tvg-id="A PARA HD.tr" tvg-logo="http://yt3.ggpht.com/XJtyMUH7ikXxeg2nrhjVb0k9LbpdqimTV9QawOxlQipdDFYe0cy6kdFZeFqzpeqPCyOkJCMM_w" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",APARA
+https://79.76.50.223/live/ViP/GaraveliForum/37316.ts
+#EXTINF:-1 tvg-id="A NEWS HD.tr" tvg-logo="http://yt3.ggpht.com/6NEH0h3dFrnG36dk8lHHfocRKiz2GqiM0pzd-UeIvj_B-25aGYsB1sUUZodoD9JCgVpRt-hDGUM" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ANEWS
+https://79.76.50.223/live/ViP/GaraveliForum/37317.ts
+#EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-logo="http://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ASPOR
+https://79.76.50.223/live/ViP/GaraveliForum/37318.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/A-Spor-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",A Spor
+https://79.76.50.223/live/ViP/GaraveliForum/37402.ts
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/HT-SPOR-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",HT SPOR Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37607.ts
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Tivibu SPOR 2 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37860.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Tivibu SPOR 3 Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37861.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Tivibu SPOR Turkey
+https://79.76.50.223/live/ViP/GaraveliForum/37862.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Arena-Sport-1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 1 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37405.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-1-premium-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 1 PREMIUM RS
+https://79.76.50.223/live/ViP/GaraveliForum/37406.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Arena-Sport-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 2 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37407.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-2-premium-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 2 PREMIUM RS
+https://79.76.50.223/live/ViP/GaraveliForum/37408.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-3.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 3 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37409.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-3-premium-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 3 PREMIUM RS
+https://79.76.50.223/live/ViP/GaraveliForum/37410.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-logo-4.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 4 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37411.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-5-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 5 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37412.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-6-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 6 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37413.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-7-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 7 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37414.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ArenaSport-8-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ARENA SPORT 8 HR
+https://79.76.50.223/live/ViP/GaraveliForum/37415.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ART Sport 1 XK
+https://79.76.50.223/live/ViP/GaraveliForum/37416.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ART Sport 2 XK
+https://79.76.50.223/live/ViP/GaraveliForum/37417.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ART Sport 3 XK
+https://79.76.50.223/live/ViP/GaraveliForum/37418.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ART Sport 4 XK
+https://79.76.50.223/live/ViP/GaraveliForum/37419.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ART Sport 5 XK
+https://79.76.50.223/live/ViP/GaraveliForum/37420.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ART Sport 6 XK
+https://79.76.50.223/live/ViP/GaraveliForum/37421.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/AbuDhabiSports-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Abu Dhabi Sports 1
+https://79.76.50.223/live/ViP/GaraveliForum/37422.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/AbuDhabiSports-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Abu Dhabi Sports 2
+https://79.76.50.223/live/ViP/GaraveliForum/37423.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/AbuDhabiTV-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Abu Dhabi TV
+https://79.76.50.223/live/ViP/GaraveliForum/37424.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Animal-Planet-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Animal Planet USA
+https://79.76.50.223/live/ViP/GaraveliForum/37425.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/arenasport1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Arena Sport 1 Slovakia
+https://79.76.50.223/live/ViP/GaraveliForum/37426.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/arenasport2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Arena Sport 2 Slovakia
+https://79.76.50.223/live/ViP/GaraveliForum/37427.ts
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-Afrique-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 1 Afrique
+https://79.76.50.223/live/ViP/GaraveliForum/37457.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-2-Afrique-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 2 Afrique
+https://79.76.50.223/live/ViP/GaraveliForum/37458.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport2-poland_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 2 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37459.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-3-Afrique-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 3 Afrique
+https://79.76.50.223/live/ViP/GaraveliForum/37460.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport3-poland_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 3 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37461.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/canal-plus-sport-360-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 360 FR
+https://79.76.50.223/live/ViP/GaraveliForum/37462.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-4-Afrique-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 4 Afrique
+https://79.76.50.223/live/ViP/GaraveliForum/37463.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport4-poland_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 4 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37464.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-5-Afrique-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 5 Afrique
+https://79.76.50.223/live/ViP/GaraveliForum/37465.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport5-poland_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT 5 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37466.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-poland_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT FR
+https://79.76.50.223/live/ViP/GaraveliForum/37467.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Canal+Sport-poland_logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CANAL+ SPORT PL
+https://79.76.50.223/live/ViP/GaraveliForum/37468.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/cbs_sports_network-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",CBS Sports Network
+https://79.76.50.223/live/ViP/GaraveliForum/37469.ts
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cablenet-Sports-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cablenet Sports 1 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37473.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cablenet-Sports-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cablenet Sports 2 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37474.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CanalMotorTV-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Canal Motor TV Norway
+https://79.76.50.223/live/ViP/GaraveliForum/37475.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 1 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37478.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 2 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37479.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 3 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37480.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport4-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 4 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37481.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 5 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37482.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 6 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37483.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport7-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 7 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37484.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 8 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37485.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport9-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport 9 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37486.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport-Highlights-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cosmote Sport Highlights GR
+https://79.76.50.223/live/ViP/GaraveliForum/37487.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 1 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37488.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 2 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37489.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 3 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37490.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 4 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37491.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 5 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37492.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 6 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37493.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 7 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37494.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Cytavision-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",Cytavision Sports 8 GR
+https://79.76.50.223/live/ViP/GaraveliForum/37495.ts
+
+
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN PRO LEAGUE 1 BE
+https://79.76.50.223/live/ViP/GaraveliForum/37523.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN PRO LEAGUE 2 BE
+https://79.76.50.223/live/ViP/GaraveliForum/37524.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Eleven_Pro_League-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN PRO LEAGUE 3 BE
+https://79.76.50.223/live/ViP/GaraveliForum/37525.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ElevenSports1-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN SPORTS 1 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37526.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ElevenSports2-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN SPORTS 2 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37527.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ElevenSports3-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN SPORTS 3 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37528.ts
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/ElevenSports4-logo.png" group-title="Yabancı / 🔵 FRESHOOT" group-logo="https://79.76.50.223/Yabanci.png",ELEVEN SPORTS 4 PL
+https://79.76.50.223/live/ViP/GaraveliForum/37529.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ATV https://79.76.50.223/live/ViP/GaraveliForum/37310.ts
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="http://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",ATV Avrupa https://79.76.50.223/live/ViP/GaraveliForum/37311.ts
 #EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="http://yt3.googleusercontent.com/RZG-XV8AGd-_HWnGIVJtSNurIjUJxtZrb06jwRrrWt1BTTRChGOdz75ATZqaPlS0zQitJdI8Rg" group-title="Yerel / 🟢 ATVGroup" group-logo="https://79.76.50.223/Yerel.png",a2 https://79.76.50.223/live/ViP/GaraveliForum/37312.ts
