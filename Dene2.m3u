@@ -1,5 +1,102 @@
 #EXTM3U
 
+
+# ==========================================
+# 8. SPOR KANALLARI
+# ==========================================
+#EXTINF:0 group-title="Spor" tvg-id="3873" tvg-logo="http://epg.one/img2/3873.png" tvg-rec="3",beIN HABER 
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19064/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="88014" tvg-logo="http://epg.one/img2/88014.png" tvg-rec="0",TRT SPOR FHD
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19067/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="88014" tvg-logo="http://epg.one/img2/88014.png" tvg-rec="0",TRT SPOR FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/19067/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="88014" tvg-logo="http://epg.one/img2/88014.png" tvg-rec="0",TRT Spor Yildiz FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/32213/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="88014" tvg-logo="http://epg.one/img2/88014.png" tvg-rec="3",TRT Spor Yildiz HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/2145/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3873" tvg-logo="http://epg.one/img2/3873.png" tvg-rec="3",beIN SPORT 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6781/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3873" tvg-logo="http://epg.one/img2/3873.png" tvg-rec="3",beIN SPORT 1 HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6781/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3874" tvg-logo="http://epg.one/img2/3874.png" tvg-rec="3",beIN SPORT 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6818/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3874" tvg-logo="http://epg.one/img2/3874.png" tvg-rec="3",beIN SPORT 2 HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6818/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3876" tvg-logo="http://epg.one/img2/3876.png" tvg-rec="3",beIN SPORT 3 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6821/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3876" tvg-logo="http://epg.one/img2/3876.png" tvg-rec="3",beIN SPORT 3 HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6821/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3878" tvg-logo="http://epg.one/img2/3878.png" tvg-rec="3",beIN SPORT 4 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6823/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3878" tvg-logo="http://epg.one/img2/3878.png" tvg-rec="3",beIN SPORT 4 HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6823/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="3",beIN SPORT Max 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6824/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="3",beIN SPORT Max 1 HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/19065/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="3",beIN SPORT Max 2 HD
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19063/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="3",beIN SPORT Max 2 HD
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19066/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3872" tvg-logo="http://epg.one/img2/3872.png" tvg-rec="3",Tivibu SPORT 1 HD
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19074/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3872" tvg-logo="http://epg.one/img2/3872.png" tvg-rec="3",Tivibu SPORT 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/19074/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3872" tvg-logo="http://epg.one/img2/3872.png" tvg-rec="3",Tivibu SPORT 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6816/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3872" tvg-logo="http://epg.one/img2/3872.png" tvg-rec="3",Tivibu SPORT 2 HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6816/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3872" tvg-logo="http://epg.one/img2/3872.png" tvg-rec="3",Tivibu SPORT 3 HD
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19076/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3872" tvg-logo="http://epg.one/img2/3872.png" tvg-rec="3",Tivibu SPORT 3 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/19076/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3881" tvg-logo="http://epg.one/img2/3881.png" tvg-rec="3",S SPORT HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6825/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3881" tvg-logo="http://epg.one/img2/3881.png" tvg-rec="3",S SPORT HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6825/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3881" tvg-logo="http://epg.one/img2/3881.png" tvg-rec="3",S SPORT PLUS
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19070/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3881" tvg-logo="http://epg.one/img2/3881.png" tvg-rec="3",S SPORT PLUS
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19071/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3881" tvg-logo="http://epg.one/img2/3881.png" tvg-rec="3",SPOR SMART 2
+http://3765ef67.ottrast.com/iptv/GCWTHP8XPUNUEX/19073/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="2587" tvg-logo="http://epg.one/img2/2587.png" tvg-rec="3",A SPOR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6832/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="2587" tvg-logo="http://epg.one/img2/2587.png" tvg-rec="3",A SPOR
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6832/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3884" tvg-logo="http://epg.one/img2/3884.png" tvg-rec="3",Sports TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6828/index.m3u8
+#EXTINF:0 group-title="Spor" tvg-id="3884" tvg-logo="http://epg.one/img2/3884.png" tvg-rec="3",Sports TV HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/9A4A5D6WCXS4XF/6828/index.m3u8
+
+#EXTINF:0 group-title="Spor" tvg-id="3885" tvg-logo="http://epg.one/img2/3885.png" tvg-rec="3",Eurosport 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6829/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title="Spor" tvg-id="3895" tvg-logo="http://epg.one/img2/3895.png" tvg-rec="3",IDMAN TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6840/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/D1OSuc.png" group-title="Selçuk-Panel", BEiN SPOR 1 (2)
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcukbeinsports1/playlist.m3u8
