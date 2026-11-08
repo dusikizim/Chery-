@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+http://sultanios.alwaysdata.net/vavo.php?ID=593493860
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
+http://sultanios.alwaysdata.net/vavo.php?ID=3236362911
+
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
 https://79.76.50.223/live/ViP/GaraveliForum/34772.ts
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Yerel / 🔴 SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPOR HD1
