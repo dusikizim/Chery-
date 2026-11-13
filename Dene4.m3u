@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
-#EXTINF:0 type="stream" channelId="641", deneme
-https://github.com/dusikizim/Sportstr/raw/refs/heads/main/Sine1.m3u8
+
 #EXTINF:0 type="stream" channelId="641", Ziraat Türkiye Kupası Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 #EXTINF:-1 tvg-id="88014" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",SPORTS TV
@@ -12,11 +11,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:0 type="stream" channelId="641", A SPOR B
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:0 type="stream" channelId="641", A SPOR C
-http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
+http://0v6ltnhf.virelloso.top/iptv/H8Z65MVLMM4E9Q/19069/index.m3u8
 
 #EXTINF:0 type="stream" channelId="641", EKOL SPOR A
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
-#EXTINF:0 type="stream" channelId="641", EKOL SPOR B
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-id="88018" tvg-rec="3" tvg-logo="http://epg.one/img2/88014.png" group-title="Türkiye ",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
@@ -25,23 +22,17 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:0 type="stream" channelId="641", HT SPOR B
 https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-#EXTINF:0 type="stream" channelId="641", HT SPOR C
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 
 
 #EXTINF:0 type="stream" channelId="641", TRT Spor Yildiz A
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 #EXTINF:0 type="stream" channelId="641", TRT Spor Yildiz B
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
-#EXTINF:0 type="stream" channelId="641", TRT Spor Yildiz C
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="641", TRT SPOR A 
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 EXTINF:0 type="stream" channelId="641", TRT SPOR B
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:0 type="stream" channelId="641", TRT SPOR C
-http://trt.daioncdn.net/trtspor/master.m3u8?app=web
 
 
 #EXTINF:0 type="stream" channelId="641", TR SPOR 
