@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: TELEGRAM DEATHLESS IPTV" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="DeaTHLesS",TR: TELEGRAM DEATHLESS IPTV
-http://jenerik2.cdn.zerocdn.com/DeaTHLess-Jenerik.mp4
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",BEIN SPORTS 1 + |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzYyMTY4OTdhZjEzZTdmYzIwZjY=
@@ -3040,18 +3038,11 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",STAR TV RAW |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NTQ3OTAwMTVmY2NhOWQ0ODE2ZmQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",SUN RTV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTQ1NDM4MTE2ZjM5NTA4ZDBhYzg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",SUN TV |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjI4NjMwMzIwZTdhMTUxNmI5ZTQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",SÃœNGER BOB |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4Njg1ODIwMjUyZTIxYWY2YTk5Nzg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",SURELER VE T RKCE MEALI |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MzA4OTA0NjFmZTY3NWFmYjkwYmY=
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",SZC |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMzY3OTQ5NzIwNjlhNzgwYWY4MzY=
@@ -3331,15 +3322,8 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT DIYANET COCUK |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMDE4NDkzOTBlZDc3Zjg0MjM5Yzc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT EBA |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2ODEwNzE3NDY2MmZmZDBhYTlkY2Q=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT EBA ILKOKUL |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyODc2NTgwMzMzMzVkODA5Zjk0M2E=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT EBA ORTAOKUL |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDIwMzk4MzFhODE2NWIyZGZl
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT HABER |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDM3MDMzNTczMGY1MzlhMTY0NTA=
@@ -3373,7 +3357,7 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT MUZIK RAW |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQzMzU4MTMxNTM2MWU4NmMzNWRhMA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT OCUK HD |D
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT COCUK HD |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU1MDA0NTEwMjQ2ZmE0ZDVkNzQ2NA==
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT SPOR YILDIZ |H
@@ -3391,22 +3375,12 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT TURK RAW |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwOTU4Nzk4NTMyMjZkOGIxMDgwNzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT WORLD |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMDMxNDc0MDNhNTY1ODFmYTgwZGY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT WORLD |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMDcyMDU1MzU5MmI5MzEyOTEzM2M=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TRT WORLD HEVC |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODU2MTUxMTc3Mzk4ODczMTdkY2M=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TUNCELI DERSIM 62 TV |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0MjE4MDIxOGIzNDA4YWNkNTk0Mw==
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TURKASAT KEMAL SUNAL |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NzI5MzEzNzBkMGZiZjYyNTNjYw==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TÃœRKHABER TV |E
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TURKHABER TV |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMTIwMzgyNDNhMmY1Y2E5MTZlZTk=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TURKMENLI TV |E
@@ -3433,24 +3407,12 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 4 |H
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExOTMyNzYwMTlkODhiOTYzZDg5ZjU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 41 |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMDY0MDM4NjQ1NzczYTc5YjE1ODg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 41 |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ5NTQ2NzE0MTk1MzI0Yjk2YzYw
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 5 |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMjEzNTM4NDRmM2E1ZjliOTkwZg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 5 |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNTUxOTk2ODM4ZTAzYWZhZjNhYTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 52 |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNTA3NDg3ODFkZGE3ZjAzMmNmMjU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 52 ORDU |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDIyODE4NTE0ZjUyYTg5ZjU1ZTU=
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",TV 8 |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyOTIzMDY5MjExY2M0YmIxYjgwYmI=
@@ -3532,7 +3494,7 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",UCANKUS |H
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMTU1NzE3NzhlYjZkNDE0MWNhZDg=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ÃœLKE TV |E
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULKE TV |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNTMyMDY2MjM2ZGY5YzRiMWM3MTQ=
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULKE TV |H
@@ -3565,87 +3527,16 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULTRA KORKU |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NjM1NjI1NDc1Njk1ODJkNmUwMzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULUSAL KANAL |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTAwNDg4MTc5OGJiOGQyYzVlN2U=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULUSAL KANAL |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDk4MDE2NTVkZmU0MTQ3MGM5NzI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULUSAL KANAL |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4NTQ1MzQ2OWQ5M2EzMzc3MjdiYQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ULUSAL KANAL SD |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTc5MDM2MjkxNWFiODJkMTI2YjE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",UR FANATIK TV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzOTY1OTM1OTg0MzgyNTUxZThkMA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",USKUDAR UNIVERSITIES |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMzgxNTE3Mjg5MWU5YmY1ZDY5ZmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",UZAY HABER |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwOTMwMDEwNDIyNzkxZWZkMGIzYmU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",UZAY HABER |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMjY3OTczOTBmOTY1MTk0Nzc0ZDU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VAN TV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzcwNDE2NTA2Mzk4YTJkNzNiNWY1Yg==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VATAN TV |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyODIxODE1MTEyNmUzNTVhYjA2ZTQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VATAN TV |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3MzAwNDc0NjRjZDEzZDU1MTgxMzQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIASAT EXPLORE |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTgyNDEwNzY0YWFkNmZhOWU0MGQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIASAT EXPLORE |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3ODU0Nzk5MTQ5ZWM3Mzc2MzUyYzE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIASAT HISTORY |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDA5NDUyMTMzOWViOWYxMzdiOTk=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIASAT HISTORY |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MTU2ODYzNzEzMDk5NThiMGU2MGU=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIASAT HISTORY HD+ |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0ODA0Njg5NjJjN2MzMWI0NGYzMjM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIASAT HISTORY HEVC |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExNjU2NzAyNjM1Mjc0MTM1M2U0MjY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIKINGLER TV |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNTM5Mzc1MzA5YzI3OGZmOTliYzk=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIYANA TV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDI1MTQ4MDVlNzBjMDY2NDgxYmE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIZYON 58 |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzUzMjY2MTVmOGY0ZTA5N2VlNjA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIZYON 58 |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNjQyMDE1NTY5YTZhY2I4MzEwZjY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIZYON 58 |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyODM2MDI0OTY4MWE1YTY5MGZjZDQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VIZYON 58 TV SIVAS |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNzgxMTg2NTRkZmQ2Yzc4OThhOWI=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VUSLAT TV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0OTAzMzEyMjc1ZjA5YmUyNzMyMA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",VUSLAT TV |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNjE3NTI3NThiZjAwZDBhOGVlMzY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",WAKFU |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0NTU3NjY0MDI2NmIwNzU2OTk3Ng==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",WM TV WOMAN KADIN |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTk1MjA3MjYxYzNhMTZlOTE4ZGY=
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",X NOSTALJI T RK E KLASIK |D
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3Njc3NTcwNTI1MmUwOGI0NDVhOTc=
@@ -3664,30 +3555,8 @@ http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YESILCAM |E
 #EXTVLCOPT:http-user-agent=salam
 http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1ODQzMzUzODM0ZGViYzM1YTBjOTY=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YILDIZ EN TV |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NDUwMTE1OTE5MjNmNjZlMWY5NA==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YILDIZ KIZ |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyNDAxMzY2MTk1MTYzZGY4MzYyYjE=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YILDIZ TV EN |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MjQzMTYwMTYxMzljMGQyZmQzNTA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YOL TV |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2MDM1ODAxMzE1Nzk0Zjk5ODA5MjM=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YOL TV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNzcwNTU2NTM5Y2Y5MTUyYjEzZDA=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YOL TV |H
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNzExNjYwNTQ1MmQ1ZDNlNjYyNmQ=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",YOL TV SD |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYwNzA3NzE1NTE3ODZmNTk3ODg5ZQ==
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ZAROK TV |E
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNDc1NTczODc2Y2U5MzhjNzljNjc=
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",ZONGULDAK KANAL Z |D
-#EXTVLCOPT:http-user-agent=salam
-http://telif-atma-deathless-siker-adami-free-yayin.mywire.org/redom/packet/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0Njc4MzQwOTBmNDY2MTJhZWUyZGI=
+
+
+
+
+
