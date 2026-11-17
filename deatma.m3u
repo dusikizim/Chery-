@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",BEIN SPORTS 1 + |D
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="Watched",DEME 1 
 #EXTVLCOPT:http-user-agent=salam
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
