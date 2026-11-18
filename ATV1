@@ -1,0 +1,325 @@
+
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+
+#EXTINF:-1,TRT 4K A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/4001/.m3u8
+#EXTINF:-1,TRT 4K B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/4001/.m3u8
+#EXTINF:-1,TRT 4K C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/4001/.m3u8
+#EXTINF:-1,TRT 4K D
+http://61043419.edemist.com/iptv/2EZAKDSGZZRHAQ/4001/.m3u8
+
+
+#EXTINF:-1,TRT 1A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2293/index.m3u8
+#EXTINF:-1,TRT 1B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2293/index.m3u8
+#EXTINF:-1,TRT 1C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2293/index.m3u8
+#EXTINF:-1,TRT 1D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2293/index.m3u8
+
+#EXTINF:-1,TRT 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2293/index.m3u8
+#EXTINF:-1,TRT 2B
+http://61043419.edemist.com/iptv/iptv/LNUZFZ7YFN4ACA/6884/index.m3u8
+#EXTINF:-1,TRT Turk A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2281/index.m3u8
+#EXTINF:-1,TRT Turk B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2281/index.m3u8
+#EXTINF:-1,TRT Turk C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2281/index.m3u8
+#EXTINF:-1,TRT Turk D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2281/index.m3u8
+
+#EXTINF:-1,TRT Avaz A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6799/index.m3u8
+#EXTINF:-1,TRT Avaz B
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6799/index.m3u8
+
+#EXTINF:-1,KANAL D A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2304/index.m3u8
+#EXTINF:-1,KANAL D B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2304/index.m3u8
+#EXTINF:-1,KANAL D C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6891/index.m3u8
+#EXTINF:-1,KANAL D D
+http://61043419.edemist.com/iptv/2EZAKDSGZZRHAQ/6891/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="3945" tvg-rec="3" tvg-logo="http://epg.one/img2/3945.png" group-title="Türkiye ",Euro D A
+http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/6892/index.m3u8
+#EXTINF:-1 tvg-id="3945" tvg-rec="3" tvg-logo="http://epg.one/img2/3945.png" group-title="Türkiye ",Euro D B
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6892/index.m3u8
+
+
+
+#EXTINF:-1,ATV 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2261/index.m3u8
+#EXTINF:-1,ATV 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2261/index.m3u8
+#EXTINF:-1,ATV 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2296/index.m3u8
+#EXTINF:-1,ATV D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2296/index.m3u8
+
+
+#EXTINF:-1,ATV Avrupa
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6888/index.m3u8
+
+
+#EXTINF:-1,NOW A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2309/index.m3u8
+#EXTINF:-1,NOW B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6901/index.m3u8
+#EXTINF:-1,NOW C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2309/index.m3u8
+#EXTINF:-1,NOW D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6901/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="2608" tvg-rec="3" tvg-logo="http://epg.one/img2/2608.png" group-title="Türkiye ",Show TV A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2307/index.m3u8
+#EXTINF:-1 tvg-id="2608" tvg-rec="3" tvg-logo="http://epg.one/img2/2608.png" group-title="Türkiye ",Show TV B
+http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/2307/index.m3u8
+#EXTINF:-1, SHOW TV C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6889/index.m3u8
+#EXTINF:-1,SHOW D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6889/index.m3u8
+
+#EXTINF:-1 tvg-id="2608" tvg-rec="3" tvg-logo="http://epg.one/img2/2608.png" group-title="Türkiye ",Show TÜRK A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6797/index.m3u8
+#EXTINF:-1 tvg-id="2608" tvg-rec="3" tvg-logo="http://epg.one/img2/2608.png" group-title="Türkiye ",Show TÜRK B
+http://345f89f7.ottrast.com/iptv/LNUZFZ7YFN4ACA/6797/index.m3u8
+#EXTINF:-1, SHOW TÜRK C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6797/index.m3u8
+#EXTINF:-1,SHOW TÜRK D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6797/index.m3u8
+
+
+
+
+#EXTINF:-1, STAR A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2301/index.m3u8
+#EXTINF:-1, STAR B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2301/index.m3u8
+#EXTINF:-1, STAR C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2301/index.m3u8
+#EXTINF:-1, STAR D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2301/index.m3u8
+
+#EXTINF:-1, TV 8 A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6895/index.m3u8
+#EXTINF:-1, TV 8 B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6895/index.m3u8
+#EXTINF:-1, TV 8 C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6896/index.m3u8
+#EXTINF:-1, TV 8 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6896/index.m3u8
+
+#EXTINF:-1, TV 8İNT A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6897/index.m3u8
+#EXTINF:-1, TV 8İNT B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6897/index.m3u8
+#EXTINF:-1, TV 8İNT C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6897/index.m3u8
+#EXTINF:-1, TV 8İNT D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6897/index.m3u8
+
+#EXTINF:-1, TV 8.5 A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6898/index.m3u8
+#EXTINF:-1, TV 8.5 B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6898/index.m3u8
+#EXTINF:-1, TV 8.5 C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6899/index.m3u8
+#EXTINF:-1, TV 8.5 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6899/index.m3u8
+
+#EXTINF:-1,KANAL 7 A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6903/index.m3u8
+#EXTINF:-1,KANAL 7 B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6904/index.m3u8
+#EXTINF:-1,KANAL 7 C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6904/index.m3u8
+#EXTINF:-1,KANAL 7 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6903/index.m3u8
+
+#EXTINF:-1, BEYAZ TV A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6907/index.m3u8
+#EXTINF:-1, BEYAZ TV B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6907/index.m3u8
+#EXTINF:-1, BEYAZ TV C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6906/index.m3u8
+#EXTINF:-1, BEYAZ TV D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6906/index.m3u8
+
+#EXTINF:-1, 360 TV A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6911/index.m3u8
+#EXTINF:-1, 360 TV B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6911/index.m3u8
+#EXTINF:-1, 360 TV C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6911/index.m3u8
+#EXTINF:-1, 360 TV D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6911/index.m3u8
+
+#EXTINF:-1, TV 2 A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6910/index.m3u8
+#EXTINF:-1, TV 2 B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6910/index.m3u8
+#EXTINF:-1, TV 2 C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6910/index.m3u8
+#EXTINF:-1, TV 2 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6910/index.m3u8
+
+#EXTINF:-1, TV 4 A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2321/index.m3u8
+#EXTINF:-1, TV 4 B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2321/index.m3u8
+#EXTINF:-1, TV 4 C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2321/index.m3u8
+#EXTINF:-1, TV 4 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2321/index.m3u8
+
+#EXTINF:-1, TV 360 A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2320/index.m3u8
+#EXTINF:-1, TV 360 B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2320/index.m3u8
+#EXTINF:-1, TV 360 C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2320/index.m3u8
+#EXTINF:-1, TV 360 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2320/index.m3u8
+
+#EXTINF:-1, A2 TV A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2260/index.m3u8
+#EXTINF:-1, A2 TV B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2260/index.m3u8
+#EXTINF:-1, A2 TV C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2261/index.m3u8
+#EXTINF:-1, A2 TV 2 D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2261/index.m3u8
+
+#EXTINF:-1, DMAX A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/2290/index.m3u8
+#EXTINF:-1, DMAX B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/2290/index.m3u8
+#EXTINF:-1, DMAX C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/2290/index.m3u8
+#EXTINF:-1, DMAX D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/2290/index.m3u8
+
+#EXTINF:-1, BEİN BOX 1A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6744/index.m3u8
+#EXTINF:-1, BEİN BOX 1B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6744/index.m3u8
+#EXTINF:-1, BEİN BOX 1C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6744/index.m3u8
+#EXTINF:-1, BEİN BOX 1D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6744/index.m3u8
+
+#EXTINF:-1, BEİN BOX 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6745/index.m3u8
+#EXTINF:-1, BEİN BOX 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6745/index.m3u8
+#EXTINF:-1, BEİN BOX 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6745/index.m3u8
+#EXTINF:-1, BEİN BOX 2D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6745/index.m3u8
+
+#EXTINF:-1, BEİN BOX 3A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6743/index.m3u8
+#EXTINF:-1, BEİN BOX 3B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6743/index.m3u8
+#EXTINF:-1, BEİN BOX 3C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6743/index.m3u8
+#EXTINF:-1, BEİN BOX 3D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6743/index.m3u8
+
+#EXTINF:-1, DİZİ SMART A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6802/index.m3u8
+#EXTINF:-1, DİZİ SMART B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6802/index.m3u8
+#EXTINF:-1, DİZİ SMART C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6802/index.m3u8
+#EXTINF:-1, DİZİ SMART D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6802/index.m3u8
+
+#EXTINF:-1, FX A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6805/index.m3u8
+#EXTINF:-1, FX B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6805/index.m3u8
+#EXTINF:-1, FX C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6805/index.m3u8
+#EXTINF:-1, FX D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6805/index.m3u8
+
+#EXTINF:-1,A SPOR 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6832/index.m3u8
+#EXTINF:-1,A SPOR 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6832/index.m3u8
+#EXTINF:-1,A SPOR 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
+#EXTINF:-1,A SPOR D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6832/index.m3u8
+
+#EXTINF:-1,TRT SPOR 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/19067/index.m3u8
+#EXTINF:-1, TRT SPOR 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/19067/index.m3u8
+#EXTINF:-1, TRT SPOR 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/19067/index.m3u8
+#EXTINF:-1, TRT SPOR D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/19067/index.m3u8
+
+#EXTINF:-1,A SPOR 2A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6832/index.m3u8
+#EXTINF:-1,A SPOR 2B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6832/index.m3u8
+#EXTINF:-1,A SPOR 2C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6832/index.m3u8
+#EXTINF:-1,A SPOR D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6832/index.m3u8
+
+
+
+
+#EXTINF:-1,TRT COCUK A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6841/index.m3u8
+#EXTINF:-1,TRT COCUK B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6841/index.m3u8
+#EXTINF:-1,TRT ÇOCUK C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6841/index.m3u8
+#EXTINF:-1,TRT COCUK D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6841/index.m3u8
+
+#EXTINF:-1, DİSNEY A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6843/index.m3u8
+#EXTINF:-1, DİSNEY B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6843/index.m3u8
+#EXTINF:-1, DİSNEY C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6843/index.m3u8
+#EXTINF:-1, DİSNEY D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6843/index.m3u8
+
+#EXTINF:-1, MİNİKA COCUK A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6849/index.m3u8
+#EXTINF:-1, MİNİKA COCUK B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6849/index.m3u8
+#EXTINF:-1, MİNİKA COCUK C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6849/index.m3u8
+#EXTINF:-1, MİNİKA COCUK D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6849/index.m3u8
+
+#EXTINF:-1, MİNİKA GO A
+http://d2ad5850.ucomist.net/iptv/AHMQNVLWUTM5PW/6851/index.m3u8
+#EXTINF:-1, MİNİKA GO B
+http://cb22cdb9.rossteleccom.net/iptv/LNE7CK973BXBGD/6851/index.m3u8
+#EXTINF:-1, MİNİKA GO C
+http://61043419.edemist.com/iptv/YN2H92MFHBQ5HH/6851/index.m3u8
+#EXTINF:-1, MİNİKA GO D
+http://d2ad5850.ucomist.net/iptv/2EZAKDSGZZRHAQ/6851/index.m3u8
